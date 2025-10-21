@@ -75,10 +75,10 @@ def fix_pagination_block(block: str, per_page: int = 25) -> str:
         # helper to replace href value inside attrs
         def replace_href_in_attrs(new_href):
             return attrs.replace(f'href="{href}"', f'href="{new_href}"')
-
-        # numeric page in inner text?
-        page_m = re.search(r'\b(\d+)\b', re.sub(r'<[^>]+>', '', inner))
-        page_num = int(page_m.group(1)) if page_m else None
+        # numeric page in inner text? accept only when the inner text (after removing tags)
+        # is exactly a number (prevents picking up other nearby counters like post counts)
+        inner_text = re.sub(r'<[^>]+>', '', inner).strip()
+        page_num = int(inner_text) if re.fullmatch(r'\d+', inner_text) else None
 
         # handle viewforum anchors
         vf = re.search(r'viewforum_f(\d+)\.html', href)
