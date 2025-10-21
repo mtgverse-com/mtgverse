@@ -149,6 +149,12 @@ def fix_forum_links(content: str) -> str:
     content = content.replace('href="topics/', 'href="')
     content = content.replace('href="forums/', 'href="')
 
+    # Ensure any leftover references to search.php go to the static search.html
+    # - href attributes that point to search.php
+    content = re.sub(r'href="([^"]*?)search\.php([^"]*)"', r'href="\1search.html\2"', content)
+    # - form actions targeting search.php (common in phpBB templates)
+    content = re.sub(r'action="([^"]*?)search\.php([^"]*)"', r'action="\1search.html\2"', content)
+
     # fix pagination blocks: process each <div class="pagination">...</div>
     def pag_repl(m):
         block = m.group(0)
