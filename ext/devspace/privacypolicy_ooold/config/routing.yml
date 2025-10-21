@@ -1,0 +1,7 @@
+devspace_privacypolicy_policyoutput:
+    path: /privacypolicy/{name}
+    defaults: { _controller: devspace.privacypolicy.main.controller:policyoutput }
+
+devspace_privacypolicy_acceptance:
+    path: /privacypolicy
+    defaults: { _controller: devspace.privacypolicy.main.controller:acceptance }

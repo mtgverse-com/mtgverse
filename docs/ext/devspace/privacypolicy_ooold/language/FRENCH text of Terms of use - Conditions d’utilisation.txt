@@ -1,0 +1,14 @@
+[hr][/hr]
+[size=150][b]Conditions d’utilisation - 2018 (RGPD / GDPR)[/b][/size]
+
+Afin de se conformer au Règlement général sur la protection des données (RGPD), vous devez prendre connaissance de ce qui suit :
+
+En plus de ce qui a été énoncé précédemment, le forum « %sitename% » stockera toute adresse IP que vous utilisez pour participer sur le forum. Selon vos préférences le forum « %sitename% » peut vous envoyer des courriels à l'adresse électronique que le forum « %sitename% » détient dans votre compte correspondant soit à celle que vous avez utilisée lors de votre enregistrement sur le forum, soit à celle que vous avez modifiée par la suite, mais vous pouvez modifier ces préférences à tout moment depuis votre « Panneau de l'utilisateur » (PCU), onglet « Préférences du forum », page « Modifier les préférences des notifications » si vous souhaitez ne plus les recevoir.
+
+Les données personnelles que vous nous avez fournies lors de votre enregistrement, ou ajoutées ultérieurement, seront utilisées uniquement pour le bon fonctionnement du forum « %sitename% » et de ses fonctionnalités. Elles ne seront pas utilisées à d'autres fins et ne seront pas non plus transmises à des tiers sans votre consentement explicite. Vous pouvez vérifier, à tout moment, les données personnelles que le forum « %sitename% » détient à votre sujet depuis votre « Panneau de l'utilisateur » (PCU), onglet « Données personnelles », page « Données personnelles ».
+
+Toutes autres informations vous concernant que vous aurez décidé de publier de votre plein gré sur le forum « %sitename% », par exemple au travers de vos de messages, seront considérées comme « disponibles publiquement » car elles auront été indexées par les moteurs de recherche ainsi que par les sites web d'archives en ligne.
+
+En cliquant sur le bouton ci-dessous « J'accepte ces conditions », votre acceptation de ces conditions sera enregistrée. Auquel cas contraire, si vous cliquez sur l’autre bouton ci-dessous « Je n'accepte pas ces conditions » vous serez redirigé(e) sur la page d'accueil de ce forum.
+
+Traduction réalisée par la [url=http://www.ezcom-fr.com]Communauté EzCom[/url] selon [url=https://www.cnil.fr/fr/reglement-europeen-protection-donnees]les informations fournie par la CNIL[/url].

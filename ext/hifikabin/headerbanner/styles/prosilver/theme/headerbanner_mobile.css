@@ -1,0 +1,18 @@
+@media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
+	.headerbar .header-banner {
+		display: none;
+	}
+
+	.headerbar .mobile-header-banner {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 100%;
+	}
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.headerbar .mobile-header-banner {
+		width: 100% !important;
+	}
+}

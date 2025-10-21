@@ -1,0 +1,13 @@
+{% if MAS_SH_UP_AVATAR or MAS_SH_UP_ONLINE %}
+	<div class="mas-wrap">
+		{% if MAS_SH_UP_AVATAR %}
+			<div class="mas-avatar" style="width: {{ MAS_SH_UP_AV_SIZE }}px; height: {{ MAS_SH_UP_AV_SIZE }}px;">
+				{% if searchresults.POST_AUTHOR_AVATAR_IMG %}
+					{{ searchresults.POST_AUTHOR_AVATAR_IMG }}
+				{% else %}
+					{{ MAS_NO_AVATAR_IMG }}
+				{% endif %}
+			</div>
+		{% endif %}
+		<div class="mas-username">
+{% endif %}

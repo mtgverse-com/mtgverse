@@ -1,0 +1,9 @@
+{% if HEADERBANNER_SELECT %}
+{% INCLUDECSS '@hifikabin_headerbanner/headerbanner.css' %}
+{% if HEADERBANNER_BACKGROUND %}
+{% INCLUDECSS '@hifikabin_headerbanner/headerbanner_background.css' %}
+{% endif %}
+{% if HEADERBANNER_MOBILE %}
+{% INCLUDECSS '@hifikabin_headerbanner/headerbanner_mobile.css' %}
+{% endif %}
+{% endif %}

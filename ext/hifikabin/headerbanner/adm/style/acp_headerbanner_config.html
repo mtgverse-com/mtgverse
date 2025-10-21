@@ -1,0 +1,148 @@
+{% INCLUDE 'overall_header.html' %}
+<h1>{{ lang('ACP_HEADERBANNER_CONFIG') }}</h1>
+<br>
+<p>{{ lang('ACP_HEADERBANNER_CONFIG_EXPLAIN') }}</p>
+<form id="acp_headerbanner_config" method="post" action="{{ U_ACTION }}">
+	<fieldset>
+		<legend>{{ lang('ACP_HEADERBANNER_CONFIG_SET') }}</legend>
+		<dl>
+			<dt>
+				<label for="headerbanner_select">{{ lang('HEADERBANNER_SELECT') }}</label>
+			</dt>
+			<dd>
+				<label><input type="radio" class="radio" name="headerbanner_select" value="1"{% if HEADERBANNER_SELECT %} id="headerbanner_select" checked="checked"{% endif %} /> {{ lang('YES') }}</label>
+				<label><input type="radio" class="radio" name="headerbanner_select" value="0"{% if not HEADERBANNER_SELECT %} checked="checked"{% endif %} /> {{ lang('NO') }}</label>
+			</dd>
+		</dl>
+		<dl>
+			<dt>
+				<label for="headerbanner_background">{{ lang('HEADERBANNER_BACKGROUND') }}</label>
+			</dt>
+			<dd>
+				<label><input type="radio" class="radio" name="headerbanner_background" value="1"{% if HEADERBANNER_BACKGROUND %} id="headerbanner_background" checked="checked"{% endif %} /> {{ lang('YES') }}</label>
+				<label><input type="radio" class="radio" name="headerbanner_background" value="0"{% if not HEADERBANNER_BACKGROUND %} checked="checked"{% endif %} /> {{ lang('NO') }}</label>
+			</dd>
+		</dl>
+		<dl>
+			<dt>
+				<label for="headerbanner_logo">{{ lang('HEADERBANNER_LOGO') }}</label>
+			</dt>
+			<dd>
+				<label><input type="radio" class="radio" name="headerbanner_logo" value="1"{% if HEADERBANNER_LOGO %} id="headerbanner_logo" checked="checked"{% endif %} /> {{ lang('YES') }}</label>
+				<label><input type="radio" class="radio" name="headerbanner_logo" value="0"{% if not HEADERBANNER_LOGO %} checked="checked"{% endif %} /> {{ lang('NO') }}</label>
+			</dd>
+		</dl>
+		<hr>
+		<dl>
+			<dt>
+				<label for="headerbanner_destination">{{ lang('HEADERBANNER_DESTINATION') }}</label>
+			</dt>
+			<dd>
+				<label><input type="radio" class="radio" name="headerbanner_destination" value="1"{% if HEADERBANNER_DESTINATION %} id="headerbanner_destination" checked="checked"{% endif %} /> {{ lang('YES') }}</label>
+				<label><input type="radio" class="radio" name="headerbanner_destination" value="0"{% if not HEADERBANNER_DESTINATION %} checked="checked"{% endif %} /> {{ lang('NO') }}</label>
+			</dd>
+		</dl>
+		<dl>
+			<dt>
+				<label for="headerbanner_url">{{ lang('HEADERBANNER_URL') ~ lang('COLON') }}</label><br /><span>{{ lang('HEADERBANNER_URL_EXPLAIN') }}</span>
+			</dt>
+			<dd><br>
+				<input class="full" name="headerbanner_url" type="text" id="headerbanner_url" value="{{ HEADERBANNER_URL }}"  placeholder="{{ lang('HEADERBANNER_URL_PLACEHOLDER') }}" maxlength="255" />
+			</dd>
+		</dl>
+		<dl>
+			<dt>
+				<label for="headerbanner_open">{{ lang('HEADERBANNER_OPEN') }}</label>
+			</dt>
+			<dd>
+				<label><input type="radio" class="radio" name="headerbanner_open" value="1"{% if HEADERBANNER_OPEN %} id="headerbanner_open" checked="checked"{% endif %} /> {{ lang('YES') }}</label>
+				<label><input type="radio" class="radio" name="headerbanner_open" value="0"{% if not HEADERBANNER_OPEN %} checked="checked"{% endif %} /> {{ lang('NO') }}</label>
+			</dd>
+		</dl>
+		<dl>
+			<dt>
+				<label for="headerbanner_destination_name">{{ lang('HEADERBANNER_DESTINATION_NAME') ~ lang('COLON') }}</label>
+			</dt>
+			<dd>
+				<input class="full" name="headerbanner_destination_name" type="text" id="headerbanner_destination_name" value="{{ HEADERBANNER_DESTINATION_NAME }}"  maxlength="255" />
+			</dd>
+		</dl>
+		<hr>
+		<dl>
+			<dt>
+				<label for="headerbanner">{{ lang('HEADERBANNER') ~ lang('COLON') }}</label><br /><span>{{ lang('HEADERBANNER_EXPLAIN') }}</span>
+			</dt>
+			<dd><br>
+				<input class="full" name="headerbanner" type="text" id="headerbanner" value="{{ HEADERBANNER }}"  placeholder="{{ lang('HEADERBANNER_PLACEHOLDER') }}" maxlength="255" />
+			</dd>
+		</dl>
+		<dl>
+			<dt><label for="headerbanner_size">{{ lang('HEADERBANNER_SIZE') ~ lang('COLON') }}</label><br />
+				<span>{{ lang('HEADERBANNER_SIZE_EXPLAIN') }}</span>
+			</dt>
+			<dd><br>
+				<input name="headerbanner_size" type="number" min="0" required id="headerbanner_size" value="{{ HEADERBANNER_SIZE }}" size="4" maxlength="4" /> {{ lang('HEADERBANNER_PX') }}<br/>
+				{{ lang('HEADERBANNER_REQUIRED') }}
+			</dd>
+		</dl>
+		<dl>
+			<dt><label for="headerbanner_corner">{{ lang('HEADERBANNER_CORNER') ~ lang('COLON') }}</label><br />
+				<span>{{ lang('HEADERBANNER_CORNER_EXPLAIN') }}</span>
+			</dt>
+			<dd><br>
+				<input name="headerbanner_corner" type="number" min="0" required id="headerbanner_corner" value="{{ HEADERBANNER_CORNER }}" size="4" maxlength="4" /> {{ lang('HEADERBANNER_PX') }}<br/>
+				{{ lang('HEADERBANNER_REQUIRED') }}
+			</dd>
+		</dl>
+		<dl>
+			<dt>
+				<label for="headerbanner_search">{{ lang('HEADERBANNER_SEARCH') }}</label>
+			</dt>
+			<dd>
+				<select name="headerbanner_search" id="headerbanner_search">
+				<option value="1"{% if HEADERBANNER_SEARCH eq '1' %} selected="selected"{% endif %}>{{ lang('HEADERBANNER_SEARCH_HEADER_TOP_LEFT') }}</option>
+				<option value="2"{% if HEADERBANNER_SEARCH eq '2' %} selected="selected"{% endif %}>{{ lang('HEADERBANNER_SEARCH_HEADER_TOP_RIGHT') }}</option>
+				<option value="3"{% if HEADERBANNER_SEARCH eq '3' %} selected="selected"{% endif %}>{{ lang('HEADERBANNER_SEARCH_HEADER_BOTTOM_LEFT') }}</option>
+				<option value="4"{% if HEADERBANNER_SEARCH eq '4' %} selected="selected"{% endif %}>{{ lang('HEADERBANNER_SEARCH_HEADER_BOTTOM_RIGHT') }}</option>
+				<option value="7"{% if HEADERBANNER_SEARCH eq '7' %} selected="selected"{% endif %}>{{ lang('HEADERBANNER_SEARCH_HEADER_BOTTOM_MIDDLE') }}</option>
+				<option value="5"{% if HEADERBANNER_SEARCH eq '5' %} selected="selected"{% endif %}>{{ lang('HEADERBANNER_SEARCH_NAVBAR') }}</option>
+				<option value="6"{% if HEADERBANNER_SEARCH eq '6' %} selected="selected"{% endif %}>{{ lang('HEADERBANNER_SEARCH_REMOVE') }}</option>
+				</select>
+			</dd>
+		</dl>
+		<hr>
+		<dl>
+			<dt>
+				<label for="headerbanner_mobile">{{ lang('HEADERBANNER_MOBILE') }}</label>
+			</dt>
+			<dd>
+				<label><input type="radio" class="radio" name="headerbanner_mobile" value="1"{% if HEADERBANNER_MOBILE %} id="headerbanner_mobile" checked="checked"{% endif %} /> {{ lang('YES') }}</label>
+				<label><input type="radio" class="radio" name="headerbanner_mobile" value="0"{% if not HEADERBANNER_MOBILE %} checked="checked"{% endif %} /> {{ lang('NO') }}</label>
+			</dd>
+		</dl>
+		<dl>
+			<dt>
+				<label for="headerbanner_responsive">{{ lang('HEADERBANNER_RESPONSIVE') ~ lang('COLON') }}</label><br /><span>{{ lang('HEADERBANNER_RESPONSIVE_EXPLAIN') }}</span>
+			</dt>
+			<dd><br>
+				<input class="full" name="headerbanner_responsive" type="text" id="headerbanner_responsive" value="{{ HEADERBANNER_RESPONSIVE }}"  placeholder="{{ lang('HEADERBANNER_PLACEHOLDER') }}" maxlength="255" />
+			</dd>
+		</dl>
+		<dl>
+			<dt><label for="headerbanner_responsive_size">{{ lang('HEADERBANNER_RESPONSIVE_SIZE') ~ lang('COLON') }}</label><br />
+				<span>{{ lang('HEADERBANNER_RESPONSIVE_SIZE_EXPLAIN') }}</span>
+			</dt>
+			<dd><br>
+				<input name="headerbanner_responsive_size" type="number" min="0" required id="headerbanner_responsive_size" value="{{ HEADERBANNER_RESPONSIVE_SIZE }}" size="4" maxlength="4" /> {{ lang('HEADERBANNER_PX') }}<br/>
+				{{ lang('HEADERBANNER_REQUIRED') }}
+			</dd>
+		</dl>
+		<p class="submit-buttons">
+			<input type="hidden" name="action" value="save" />
+			<input class="button1" type="submit" id="submit" name="submit" value="{{ lang('SUBMIT') }}" />&nbsp;
+			<input class="button2" type="reset" id="reset" name="reset" value="{{ lang('RESET') }}" />
+			{{ S_FORM_TOKEN }}
+		</p>
+	</fieldset>
+</form>
+{% INCLUDE 'overall_footer.html' %}

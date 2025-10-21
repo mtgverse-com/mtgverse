@@ -1,0 +1,23 @@
+imports:
+    - { resource: alias.yml }
+
+services:
+    _defaults:
+        autowire: true
+        bind:
+            $ext_images_path: '%core.root_path%ext/devspace/logconnections/adm/style/images'
+        public: true
+
+    devspace.logconnections.listener:
+        class: devspace\logconnections\event\listener
+        tags:
+            - { name: event.listener }
+
+    devspace.logconnections.main.controller:
+        class: devspace\logconnections\controller\main_controller
+
+    devspace.logconnections.admin.controller:
+        class: devspace\logconnections\controller\admin_controller
+
+    devspace.logconnections.core.functions:
+        class: devspace\logconnections\core\functions

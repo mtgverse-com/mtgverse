@@ -1,0 +1,37 @@
+[size=150][b]Politique des cookies en vertu de la directive européenne sur les cookies (2012)[/b][/size]
+
+[b]Comment utilisons-nous les cookies sur ce forum ?[/b]
+Nous utilisons des fichiers appelés cookies sur le forum « %sitename% » pour améliorer ses performances et votre expérience utilisateur. En utilisant le forum « %sitename% » vous acceptez que nous pouvons placer ces types de fichiers sur votre appareil.
+
+[b]Que sont les cookies ?[/b]
+Les cookies sont de petits fichiers texte qu’un site web peut stocker sur votre ordinateur ou votre appareil mobile, lorsque vous visitez pour la première fois un site ou l’une de ses pages.
+
+Il y a beaucoup de fonctionnalités pour lesquelles un cookie peut servir. Par exemple, un cookie aidera le site web à reconnaître votre appareil la prochaine fois que vous le consulterez. Le forum « %sitename% » utilise le terme « cookies » dans sa politique pour se référer à tous les fichiers qui recueillent des renseignements de cette manière.
+
+Certains cookies contiennent des informations personnelles, par exemple, si vous cliquez sur « Se souvenir de moi » lors de la connexion, un cookie va stocker votre nom d’utilisateur. La plupart des cookies ne recueillent pas des informations permettant de vous identifier, mais recueillent des informations plus générales telles que comment les utilisateurs se sont rendus sur le forum « %sitename% » et l'utilisent, ou encore l’emplacement d’un utilisateur.
+
+[b]Quelles sortes de cookies utilise le forum « %sitename% » ?[/b]
+Les cookies peuvent avoir différentes fonctions :
+[i]1. Les cookies indispensables[/i]
+Certains cookies sont indispensables pour le fonctionnement du forum « %sitename% ». Ces cookies permettent aux services que vous avez spécifiquement demandés de fonctionner.
+
+[i]2. Les cookies des performances[/i]
+Ces cookies peuvent recueillir des informations anonymes sur les pages visitées. Par exemple, nous pourrions utiliser des cookies de performance pour garder une trace des pages les plus populaires, pour lesquelles une méthode de liaison entre les pages les plus efficaces détermine pourquoi certaines pages reçoivent des messages d’erreur.
+
+[i]3. Les cookies des fonctionnalités[/i]
+Ces cookies se souviennent des choix que vous faites pour améliorer votre expérience utilisateur.
+
+Le forum « %sitename% » peut également permettre à des tiers de se servir de cookies ayant des caractéristiques telles que celles indiquées ci-dessus. Par exemple, comme de nombreux sites web, nous pouvons utiliser le service « Google Analytics » pour nous aider à surveiller le trafic sur notre forum.
+
+[b]Est-ce qu’un utilisateur du forum peut bloquer les cookies ?[/b]
+Pour savoir comment gérer les cookies que vous autorisez, voir la rubrique d’aide de votre navigateur web ou le manuel de votre appareil mobile. Aussi, vous pouvez consulter l’un des sites web ci-dessous qui propose des informations détaillées sur la façon de gérer, de contrôler ou de supprimer les cookies.
+
+www.aboutcookies.org
+www.allaboutcookies.org
+
+[i]Merci de noter que si vous choisissez de désactiver les cookies certaines fonctionnalités du forum « %sitename% » seront indisponibles.[/i]
+
+[b]Les cookies sur le forum « %sitename% » provenant des sites web des réseaux sociaux[/b]
+Le forum « %sitename% » peut contenir des liens vers des sites web de réseaux sociaux, tels que : « Facebook », « Twitter » ou encore « YouTube ». Ces services peuvent également placer des cookies sur votre appareil mais le forum « %sitename% » ne gère pas la façon dont ils utilisent leurs cookies. C'est pourquoi nous vous suggérons de consulter leurs « Politique des cookies » sur leurs sites web respectifs afin de savoir comment ils utilisent les cookies.
+
+Traduction réalisée par la [url=http://www.ezcom-fr.com]Communauté EzCom[/url] selon [url=https://linc.cnil.fr/fr/cookies-traceurs-que-dit-la-loi]les informations fournie par la CNIL[/url].

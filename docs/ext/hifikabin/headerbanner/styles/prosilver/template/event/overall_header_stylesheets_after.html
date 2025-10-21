@@ -1,0 +1,27 @@
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+/* Responsive header banner: show only the full banner on desktop and the mobile one on small screens. */
+.banner-header { text-align: center; margin: 0 auto; }
+.banner-header .header-banner img, .banner-header .mobile-header-banner img { display:block; max-width:100%; height:auto; margin:0 auto; }
+/* hide mobile banner on desktop */
+.banner-header .mobile-header-banner { display: none; }
+/* show mobile banner only on small screens and hide full banner there */
+@media only screen and (max-width: 700px) {
+  .banner-header .mobile-header-banner { display: block !important; }
+  .banner-header .header-banner { display: none !important; }
+}
+/* Hide the style name and other small theme credit labels which were left in the static export */
+/* Hide the style name and other small theme credit labels which were left in the static export */
+.copyright .footer-row, .site_logo::before, .style-name, .prosilver-label { display: none !important; }
+/* Additional header selectors to hide ProSilver label/logo left by theme in header */
+.site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
+/* Hide posting / reply / new topic / registration / login controls on static site */
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+/* Hide reply/quote links inside posts */
+a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
+/* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
+#hidden { display: none !important; }
+</style>
+
+

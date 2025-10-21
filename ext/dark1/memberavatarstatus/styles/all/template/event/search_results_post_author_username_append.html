@@ -1,0 +1,10 @@
+{% if MAS_SH_UP_AVATAR or MAS_SH_UP_ONLINE %}
+		</div>
+		{% if MAS_SH_UP_ONLINE %}
+			<div class="mas-wrap-status{% if searchresults.POST_AUTHOR_S_ONLINE %} mas-status-online{% endif %}">
+				<span class="mas-status-dot mas-color" title="{% if searchresults.POST_AUTHOR_S_ONLINE %}{{ lang('ONLINE') }}{% else %}{{ lang('OFFLINE') }}{% endif %}">
+				</span>
+			</div>
+		{% endif %}
+	</div>
+{% endif %}

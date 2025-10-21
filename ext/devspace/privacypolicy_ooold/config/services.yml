@@ -1,0 +1,56 @@
+imports:
+    - { resource: alias.yml }
+    - { resource: tables.yml }
+
+services:
+    _defaults:
+        autowire: true
+        bind:
+            $root_path: '%core.root_path%'
+            $php_ext: '%core.php_ext%'
+            $tables: '%tables%'
+            $ext_images_path: '%core.root_path%ext/devspace/privacypolicy/adm/style/images'
+        public: true
+
+    devspace.privacypolicy.listener:
+        class: devspace\privacypolicy\event\listener
+        tags:
+            - { name: event.listener }
+
+    devspace.privacypolicy.main.controller:
+        class: devspace\privacypolicy\controller\main_controller
+
+    devspace.privacypolicy.acp.manage.controller:
+        class: devspace\privacypolicy\controller\acp_manage_controller
+
+    devspace.privacypolicy.acp.edit.controller:
+        class: devspace\privacypolicy\controller\acp_edit_controller
+
+    devspace.privacypolicy.acp.data.controller:
+        class: devspace\privacypolicy\controller\acp_data_controller
+
+    devspace.privacypolicy.ucp.controller:
+        class: devspace\privacypolicy\controller\ucp_controller
+
+    devspace.privacypolicy.core.privacypolicy:
+        class: devspace\privacypolicy\core\privacypolicy
+
+    devspace.privacypolicy.core.privacypolicy_lang:
+        class: devspace\privacypolicy\core\privacypolicy_lang
+
+    devspace.privacypolicy.autogroups.type.ppaccept:
+        class: devspace\privacypolicy\conditions\type\ppaccept
+        shared: false
+        arguments:
+            - '@service_container'
+            - '@dbal.conn'
+            - '@language'
+            - '%core.table_prefix%autogroups_rules'
+            - '%core.table_prefix%autogroups_types'
+            - '%core.root_path%'
+            - '%core.php_ext%'
+        tags:
+            - { name: phpbb.autogroups.type }
+
+    devspace.privacypolicy.core.functions:
+        class: devspace\privacypolicy\core\functions

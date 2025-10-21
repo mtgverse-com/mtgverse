@@ -1,0 +1,35 @@
+{% if HEADERBANNER_SELECT %}
+<div class="banner-header">
+{% if HEADERBANNER_SEARCH in [1, 2, 3, 4, 7] and S_DISPLAY_SEARCH %}
+<div class="headerbanner-search-{{ HEADERBANNER_SEARCH }}">
+	<div class="search-box rightside responsive-hide">
+		{% INCLUDE 'navbarsearch.html' %}
+	</div>
+</div>
+{% endif %}
+{% if HEADERBANNER_LOGO %}
+<a id="headerbanner_logo" class="logo" href="{{ U_SITE_HOME ? U_SITE_HOME : U_INDEX }}" title="{% if U_SITE_HOME %}{{ lang('SITE_HOME') }}{% else %}{{ lang('INDEX') }}{% endif %}"><span class="site_logo"></span></a>
+{% endif %}
+<div id="hidden">
+	<h1>{{ SITENAME }}</h1>
+	<p>{{ SITE_DESCRIPTION }}</p>
+	<p class="skiplink"><a href="#start_here">{{ lang('SKIP') }}</a></p>
+</div>
+<div class="header-banner">
+	{% if HEADERBANNER_DESTINATION %}
+		<a href="{{ HEADERBANNER_URL }}" {% if HEADERBANNER_OPEN %} target="_blank" {% endif %}><img class="header-banner" src="{{ HEADERBANNER }}" title="{{ HEADERBANNER_DESTINATION_NAME }}"  alt="{{ HEADERBANNER_DESTINATION_NAME }}" ></a>
+	{% else %}
+		<a href="{{ U_SITE_HOME ? U_SITE_HOME : U_INDEX }}" title="{% if U_SITE_HOME %}{{ lang('SITE_HOME') }}{% else %}{{ lang('INDEX') }}{% endif %}"><img class="header-banner" src="{{ HEADERBANNER }}" alt="{{ lang('INDEX') }}" ></a>
+	{% endif %}
+</div>
+{% if HEADERBANNER_MOBILE %}
+<div class="mobile-header-banner">
+	{% if HEADERBANNER_DESTINATION %}
+		<a href="{{ HEADERBANNER_URL }}" {% if HEADERBANNER_OPEN %} target="_blank" {% endif %}><img class="mobile-header-banner" src="{{ HEADERBANNER_RESPONSIVE }}" title="{{ HEADERBANNER_DESTINATION_NAME }}" alt="{{ HEADERBANNER_DESTINATION_NAME }}" ></a>
+	{% else %}
+		<a href="{{ U_SITE_HOME ? U_SITE_HOME : U_INDEX }}" title="{% if U_SITE_HOME %}{{ lang('SITE_HOME') }}{% else %}{{ lang('INDEX') }}{% endif %}"><img class="mobile-header-banner" src="{{ HEADERBANNER_RESPONSIVE }}" alt="{{ lang('INDEX') }}" ></a>
+	{% endif %}
+</div>
+{% endif %}
+</div>
+{% endif %}

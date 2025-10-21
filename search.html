@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Search - MTGVerse</title>
+  <style>
+    body{font-family:system-ui,Arial,sans-serif;margin:20px}
+    input{width:100%;padding:8px;font-size:16px}
+    .result{padding:8px;border-bottom:1px solid #ddd}
+    .title{font-weight:600}
+    .excerpt{color:#555}
+  </style>
+</head>
+<body>
+  <h1>Search</h1>
+  <input id="q" placeholder="Search topics..." autofocus />
+  <div id="results"></div>
+
+  <!-- Minimal Fuse.js 6-style inline (very small subset) -->
+  <script>
+  // Very tiny fuzzy search: score by includes on title+excerpt, fallback to substring
+  let idx = [];
+  function loadIndex(){
+    fetch('./search_index.json').then(r=>r.json()).then(j=>{idx=j;});
+  }
+  function scoreItem(q,item){
+    const s = (item.title||'') + ' ' + (item.excerpt||'');
+    const ql = q.toLowerCase();
+    const sl = s.toLowerCase();
+    if(sl.includes(ql)) return 100 - sl.indexOf(ql);
+    // approximate fuzzy: count matching characters in order
+    let i=0,j=0,m=0;
+    while(i<ql.length && j<sl.length){ if(ql[i]===sl[j]){m++; i++; j++} else j++ }
+    return m;
+  }
+  function search(q){
+    if(!q) return [];
+    const res = idx.map(it=>({it,score:scoreItem(q,it)})).filter(x=>x.score>0).sort((a,b)=>b.score-a.score).slice(0,50);
+    return res.map(r=>r.it);
+  }
+  function render(results){
+    const out = document.getElementById('results'); out.innerHTML='';
+    if(results.length===0){ out.textContent='No results'; return }
+    for(const r of results){
+      const d = document.createElement('div'); d.className='result';
+      const a = document.createElement('a'); a.href=r.url; a.className='title'; a.textContent=r.title||r.url;
+      const p = document.createElement('div'); p.className='excerpt'; p.textContent=r.excerpt||'';
+      d.appendChild(a); d.appendChild(p); out.appendChild(d);
+    }
+  }
+  document.getElementById('q').addEventListener('input', e=>{
+    const q=e.target.value.trim(); if(!q){ document.getElementById('results').innerHTML=''; return }
+    const r = search(q); render(r);
+  });
+  loadIndex();
+  </script>
+</body>
+</html>
