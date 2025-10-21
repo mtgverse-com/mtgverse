@@ -1,0 +1,2725 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Insécurité - Page 3 - MTGVerse</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - MTGVerse" href="/app.php.html">			<link rel="alternate" type="application/atom+xml" title="Flux - Nouveaux sujets" href="/app.php.html">		<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Débats d'actualité et politique" href="/app.php.html">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujet - Insécurité" href="/app.php.html">	
+	<link rel="canonical" href="viewtopic_t957.html">
+
+<!--
+	phpBB style name: Prosilver (Dark Edition)
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by: PlanetStyles.net ( http://www.planetstyles.net)
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/stylesheet.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/fr/stylesheet.css?assets_version=128" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver_dark/theme/tweaks.css?assets_version=128" rel="stylesheet">
+<![endif]-->
+
+		<meta name="MAS" content="Member Avatar & Status [MAS]=Dark❶ [dark1]" />
+<style type="text/css">
+    .mention {
+        color: #ff4500;
+    }
+</style>
+<link href="./ext/dark1/memberavatarstatus/styles/all/theme/mas_header.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_background.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_mobile.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/paul999/mention/styles/all/theme/mention.css?assets_version=128" rel="stylesheet" media="screen">
+
+<link href="./styles/prosilver_dark/theme/colours/grey.css?assets_version=128" rel="stylesheet">
+
+<style>
+	.mas-status-dot.mas-color {
+		background-color: #000000;
+	}
+	.mas-status-dot.mas-color:after {
+		background-color: #000000;
+	}
+	.mas-status-online .mas-status-dot.mas-color {
+		background-color: #00FF00;
+	}
+	.mas-status-online .mas-status-dot.mas-color:after {
+		background-color: #00FF00;
+	}
+</style>
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+/* Responsive header banner: show only the full banner on desktop and the mobile one on small screens. */
+.banner-header { text-align: center; margin: 0 auto; }
+.banner-header .header-banner img, .banner-header .mobile-header-banner img { display:block; max-width:100%; height:auto; margin:0 auto; }
+/* hide mobile banner on desktop */
+.banner-header .mobile-header-banner { display: none; }
+/* show mobile banner only on small screens and hide full banner there */
+@media only screen and (max-width: 700px) {
+  .banner-header .mobile-header-banner { display: block !important; }
+  .banner-header .header-banner { display: none !important; }
+}
+/* Hide the style name and other small theme credit labels which were left in the static export */
+/* Hide the style name and other small theme credit labels which were left in the static export */
+.copyright .footer-row, .site_logo::before, .style-name, .prosilver-label { display: none !important; }
+/* Additional header selectors to hide ProSilver label/logo left by theme in header */
+.site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
+/* Hide posting / reply / new topic / registration / login controls on static site */
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+/* Hide reply/quote links inside posts */
+a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
+/* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
+#hidden { display: none !important; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="index.html" title="Accueil du forum"><span class="site_logo"></span></a>
+				<h1>MTGVerse</h1>
+				<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									<div class="banner-header">
+<div id="hidden">
+	<h1>MTGVerse</h1>
+	<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+	<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+</div>
+<div class="header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="header-banner" src="https://mtgverse.com/images/banner_full.jpg" alt="Accueil du forum" ></a>
+	</div>
+<div class="mobile-header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="mobile-header-banner" src="https://mtgverse.com/images/banner_700.jpg" alt="Accueil du forum" ></a>
+	</div>
+</div>
+
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.html?search_id=unanswered&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Sujets sans réponse</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.html?search_id=active_topics&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Sujets actifs</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Rechercher</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php.html" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewtopic.php.html" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="index.html" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Accueil du forum</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="14"><a itemprop="item" href="viewforum_f14.html"><span itemprop="name">Forums privés</span></a><meta itemprop="position" content="2" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="23"><a itemprop="item" href="viewforum_f23.html"><span itemprop="name">Débats d'actualité et politique</span></a><meta itemprop="position" content="3" /></span>
+							
+					</li>
+
+		<li id="search-box" class="search-box rightside responsive-hide">
+	<form action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9" method="get" id="search">
+	<fieldset>
+		<input name="keywords" id="keyword" type="search" maxlength="128" title="Rechercher par mots-clés" class="inputbox search tiny" size="20" value="" placeholder="Rechercher…" >
+		<button class="button button-search" type="submit" title="Rechercher">
+		<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+		</button>
+		<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+		<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+		</a>
+	</fieldset>
+</form>
+</li>
+<li class="rightside responsive-search">
+	<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Accéder aux paramètres avancés de la recherche" role="menuitem">
+	<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+	</a>
+</li>
+
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="viewtopic_t957.html">Insécurité</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Pour débattre de l'actualité et bien plus encore<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=957&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=957&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t957.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Rechercher…" />
+				<button class="button button-search" type="submit" title="Rechercher">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</button>
+				<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+				</a>
+				<input type="hidden" name="t" value="957" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="929d7010353f40f53e5ffe01dedbffc9" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			143 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t957_start25.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t957.html>957</a></li>
+				<li><a class="button" href="viewtopic_t957_start25.html" role="button">2</a></li>
+			<li class="active"><span>3</span></li>
+				<li><a class="button" href="viewtopic_t957_start75.html" role="button">4</a></li>
+				<li><a class="button" href="viewtopic_t957_start100.html" role="button">5</a></li>
+				<li><a class="button" href="viewtopic_t957_start125.html" role="button">6</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t957_start75.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p56738" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56738">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_52.jpg" width="148" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">Ngold</a>							</dt>
+
+						<dd class="profile-rank">Modérateur</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=52&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1398</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 21:24</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Ngold">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Ngold</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56738&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56738">
+
+					<h3 class="first">
+						<a href="viewtopic_p56738.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56738&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56738.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">Ngold</a></strong> &raquo; </span><time datetime="2022-06-21T09:31:21+00:00">21 juin 2022, 11:31</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=56736&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56736"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=149&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Mensha</a> a écrit : <a href="viewtopic_p56736.html" aria-label="Consulter le message cité" data-post-id="56736" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 11:28</span></cite>
+Raphiduck illustre parfaitement la capacité de l'extrême droite a pousser ses sujets dans les médias. Alors que tout le monde ou presque ici sait qu'il ne sert a rien de débattre avec lui, en 2 ou 3 posts il a réussi à totalement dévier le topic au point de devoir splitté.
+</div></blockquote>
+
+Toutafé<br>
+<br>
+Dans la vraie vie, l'émergence de médias d'opinion soutenu par des personnes qui ont les moyens (Valeurs Actuelles, CNews...) et leur banalisation ont aidé dans l'élargissement de cette fenêtre d'Overton.</div>
+
+			
+			
+									
+						
+							<div id="sig56738" class="signature">Au début on voulait faire les 10 Commandements, mais on n'avait pas de pyramide. Alors on a voulu faire Autant en emporte le vent, mais on n'avait pas Clark Gabble. Alors on a filmé le chat</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56749" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56749">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=62&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_62.png" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=62&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mr. Grand</a>							</dt>
+
+						<dd class="profile-rank">Machette damnée</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=62&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1185</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 00:44</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Mr. Grand">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Mr. Grand</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56749&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56749">
+
+					<h3 >
+						<a href="viewtopic_p56749.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56749&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56749.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=62&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mr. Grand</a></strong> &raquo; </span><time datetime="2022-06-21T10:46:01+00:00">21 juin 2022, 12:46</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Alors qu'il serait si simple de juste splitter Raphiduck du forum... <br>
+<br>
+Le mec est un putain de disque rayé. Maintenant qu'il est arrivé au bout de sa logique et assume ouvertement son vote FN, est-ce qu'on a vraiment besoin de s'infliger ça ? <br>
+<br>
+Mon avis personnel est qu'il ne se fait pas encore assez agresser. Et que je saurais gré aux hordes de sauvages de commencer par ses doigts la prochaine fois.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56750" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56750">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=64&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">pfff</a>							</dt>
+
+						<dd class="profile-rank">Manant</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=64&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">936</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 00:49</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter pfff">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter pfff</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56750&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56750">
+
+					<h3 >
+						<a href="viewtopic_p56750.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56750&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56750.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=64&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">pfff</a></strong> &raquo; </span><time datetime="2022-06-21T11:00:09+00:00">21 juin 2022, 13:00</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ca serait triste , il est un mur porteur de notre communauté. Voyez comme il a rendu le forum vivant ce matin.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56752" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56752">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=268&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_268.jpg" width="78" height="80" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=268&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">MutoKenji</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=268&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">796</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 22:01</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter MutoKenji">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter MutoKenji</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56752&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56752">
+
+					<h3 >
+						<a href="viewtopic_p56752.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56752&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56752.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=268&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">MutoKenji</a></strong> &raquo; </span><time datetime="2022-06-21T11:16:25+00:00">21 juin 2022, 13:16</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=56749&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56749"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=62&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Mr. Grand</a> a écrit : <a href="viewtopic_p56749.html" aria-label="Consulter le message cité" data-post-id="56749" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 12:46</span></cite>
+Mon avis personnel est qu'il ne se fait pas encore assez agresser. Et que je saurais gré aux hordes de sauvages de commencer par ses doigts la prochaine fois.
+</div></blockquote>
+
+Tu t'es laissé emporter là <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"><br>
+La violence ne résout rien, même en mots !</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56756" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56756">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=247&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_247.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=247&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Scaramouche</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=247&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1148</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 18:09</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Scaramouche">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Scaramouche</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56756&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56756">
+
+					<h3 >
+						<a href="viewtopic_p56756.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56756&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56756.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=247&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Scaramouche</a></strong> &raquo; </span><time datetime="2022-06-21T11:25:19+00:00">21 juin 2022, 13:25</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">les gens qui votent RN, c'est comme les immigrés. ils sont là. ils ne partiront pas. Va falloir apprendre a vivre avec eux...<br>
+<br>
+S.</div>
+
+			
+			
+									
+						
+							<div id="sig56756" class="signature">Il n'y a que deux lois dans la guerre. La première dit que si une chose doit mal tourner, elle tournera mal au pire moment. La seconde dit qu'il n'y a aucune loi valable à la guerre.</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56758" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56758">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_127.png" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Raphiduck</a>							</dt>
+
+						<dd class="profile-rank">&quot;Sympa IRL&quot;</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=127&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1093</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:05</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Raphiduck">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Raphiduck</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56758&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56758">
+
+					<h3 >
+						<a href="viewtopic_p56758.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56758&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56758.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Raphiduck</a></strong> &raquo; </span><time datetime="2022-06-21T11:36:59+00:00">21 juin 2022, 13:36</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Surtout que j'ai même pas voté pour ces législatives   :lol: <br>
+<br>
+(si j'avais eu le temps d'y aller, j'aurais pris un antivomitif et je serais allé glisser un bulletin Véran pour faire barrage à la teubée de 19 ans investie par NUPES dans ma circo)<br>
+<br>
+<br>
+Mais sinon à la base je suis juste venu répondre à la question posée qui était "pourquoi le RN monte ?". C'est vous qui essayez de réfuter mes arguments en rentrant dans les détails, c'est pas moi qui ai insisté sur l'insécurité hein, c'est vous qui essayez de la nier  :duh: <br>
+<br>
+<br>
+<span class="mention">@Scaramouche</span> mais du coup, vu que le nombre de l'un comme de l'autre augmente constamment, tu préfères que les deux continuent d'augmenter ou que les deux se stabilisent voire baissent avec le temps ? <br>
+(indice : les deux sont liés)</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56759" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56759">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_119.jpg" width="102" height="136" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Xuelynom</a>							</dt>
+
+						<dd class="profile-rank">Calembourrin</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=119&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1179</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:49</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Xuelynom">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Xuelynom</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56759&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56759">
+
+					<h3 >
+						<a href="viewtopic_p56759.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56759&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56759.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Xuelynom</a></strong> &raquo; </span><time datetime="2022-06-21T11:38:46+00:00">21 juin 2022, 13:38</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ben en même temps tous ceux qui se battent contre raphiduck partent sur l'argument insécurité = immigration, je sais bien que vous vous complaisez à partir dessus pasque c'est plus facile à casser, on peut taper facilement sur raphiduck et avoir le haut terrain moral, mais vous n'êtes pas obligé de le suivre et toujours relier le sujet "insécurité/violences sociales" à l'immigration pour évacuer rapidement le truc hein.<br>
+<br>
+On pourrait sortir les chiffres, dire de quelles chiffres on parle (des jugements, des enquêtes de victimation ?) se demander si des chiffres globaux ne pourraient pas cacher des disparités (plein de zones devenues super calmes et des zones plus violentes) ou si les gens, de plus en plus habitué au haut niveau de sécurité global en France ne deviennent pas de plus en plus sensibles aux petites incivilités, on pourrait se demander quelle est la différence entre ceux qui n'ont jamais été agressés et relaient des témoignages d'agressions, et ceux qui n'ont pas été agressés sexuellement et relaient le mouvement #metoo, en quoi l'un est non justifié et l'autre l'est ? <br>
+<br>
+Vous pouvez aussi, comme plusieurs ici, dire que ce n'est qu'un sentiment d'insécurité et évacuer également rapidement le truc. ça a marché pour la sortie de Ruffin, si on cherche des échos de son texte sur google (en private search) on tombe sur le figaro, cnews et valeurs actuelles, mais pas trouvé de relai dans libé ou médiapart.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56761" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56761">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=64&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">pfff</a>							</dt>
+
+						<dd class="profile-rank">Manant</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=64&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">936</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 00:49</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter pfff">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter pfff</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56761&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56761">
+
+					<h3 >
+						<a href="viewtopic_p56761.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56761&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56761.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=64&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">pfff</a></strong> &raquo; </span><time datetime="2022-06-21T11:51:56+00:00">21 juin 2022, 13:51</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">On parle de l'insécurité selon le rn/la droite, on va pas parler violences sexuelles ca existe pas.<br>
+Par contre ce sacré Darmanin rode encore dans le coin sur le sujet, il est partout !</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56762" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56762">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56762&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56762">
+
+					<h3 >
+						<a href="viewtopic_p56762.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56762&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56762.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-06-21T11:54:08+00:00">21 juin 2022, 13:54</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Xuel &gt; Tu veux dire comme lui sortir les même chiffres que les X dernières fois ? Qu'il ne regarde même pas parce que les chiffres factuels ne correspondent pas à son phantasme ? Et qu'il se contente de balayer en rigolant puis en hurlant "Déni ! Déni ! Déni !" dans un ironique paradoxe qui n'échappe qu'à lui ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56775" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56775">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_70.png" width="150" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Hermelk</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=70&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">2238</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 01:29</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Hermelk">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Hermelk</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56775&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56775">
+
+					<h3 >
+						<a href="viewtopic_p56775.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56775&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56775.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Hermelk</a></strong> &raquo; </span><time datetime="2022-06-21T13:03:02+00:00">21 juin 2022, 15:03</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote class="uncited"><div>En parlant du combat des femmes de chambre, visiblement il y a pas bien longtemps Rachel KEKE elle était plutot dans le combat contre les algériens</div></blockquote>
+
+Euh non elle a partagé des trucs contre le racisme anti-Noir qui peut exister au Maghreb. C'est pas jojo de relayer Fdesouche <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"></div>
+
+			
+			
+									
+						
+							<div id="sig56775" class="signature">Les tomates mises avec les aromates se parfument et évitent partiellement les limaces. Ce qui n'empêche pas les règles, pas d'ail avec les tomates; les déchets de table c'est très bien au compost mais pas sous le lit.</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56780" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56780">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_127.png" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Raphiduck</a>							</dt>
+
+						<dd class="profile-rank">&quot;Sympa IRL&quot;</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=127&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1093</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:05</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Raphiduck">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Raphiduck</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56780&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56780">
+
+					<h3 >
+						<a href="viewtopic_p56780.html">Re: Topic de la honte : faites vos pronos pour les législatives de 2022</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56780&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56780.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Raphiduck</a></strong> &raquo; </span><time datetime="2022-06-21T13:16:52+00:00">21 juin 2022, 15:16</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ah tiens je constate que je n'avais pas répondu à ça :
+<blockquote cite="./viewtopic.php?p=56644&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56644"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Mazz</a> a écrit : <a href="viewtopic_p56644.html" aria-label="Consulter le message cité" data-post-id="56644" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">20 juin 2022, 20:06</span></cite>
+Et sinon @Raphiduck t'en penses quoi de l'élection de Rachel Keke ?
+</div></blockquote>
+
+Et du coup ben je m'en tamponne pas mal, même si je comprends pas bien le concept d'une femme de ménage qui devient députée... A-t-elle seulement les compétences pour ce poste ? Ou a-t-elle été élue uniquement pour son étiquette politique ? <br>
+Je penche bien évidemment pour la deuxième proposition, même si j'espère me tromper.<br>
+<br>
+Notez que cela s'applique tout autant à la femme de ménage élue pour le RN dans la Drôme, même si cette dernière est conseillère régionale et a déjà des implications dans le bureau régional du RN donc j'imagine qu'elle a petit peu d'expérience en comparaison de Keke qui débute complètement en politique.<br>
+<br>
+A voir, donc.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56792" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56792">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56792&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56792">
+
+					<h3 >
+						<a href="viewtopic_p56792.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56792&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56792.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-06-21T13:57:22+00:00">21 juin 2022, 15:57</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">C'est le cas de bien 70 des 89 députés RN, note bien.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56793" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56793">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56793&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56793">
+
+					<h3 >
+						<a href="viewtopic_p56793.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56793&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56793.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-06-21T14:00:02+00:00">21 juin 2022, 16:00</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Après l'argument d'incompétence, que ce soit chez Nupes et le RN aujourd'hui, ou LREM en 2017, je m'en cogne : un peu de réalité de terrain d'en-bas, avec une dose de naïveté non-technocratique, ça ne peut jamais faire de mal dans l'hémicycle.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56798" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56798">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=247&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_247.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=247&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Scaramouche</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=247&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1148</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 18:09</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Scaramouche">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Scaramouche</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56798&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56798">
+
+					<h3 >
+						<a href="viewtopic_p56798.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56798&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56798.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=247&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Scaramouche</a></strong> &raquo; </span><time datetime="2022-06-21T14:35:24+00:00">21 juin 2022, 16:35</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=56758&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56758"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Raphiduck</a> a écrit : <a href="viewtopic_p56758.html" aria-label="Consulter le message cité" data-post-id="56758" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 13:36</span></cite>
+@Scaramouche mais du coup, vu que le nombre de l'un comme de l'autre augmente constamment, tu préfères que les deux continuent d'augmenter ou que les deux se stabilisent voire baissent avec le temps ? <br>
+(indice : les deux sont liés)
+</div></blockquote>
+
+je ne peux pas te répondre car je n'ai pas d'avis sur la question... La seule chose que je peux te dire c'est que ceux qui rêvent de faire disparaitre l'immigration font sans doutes de beaux rêves bien irréalistes.<br>
+<br>
+S.</div>
+
+			
+			
+									
+						
+							<div id="sig56798" class="signature">Il n'y a que deux lois dans la guerre. La première dit que si une chose doit mal tourner, elle tournera mal au pire moment. La seconde dit qu'il n'y a aucune loi valable à la guerre.</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56801" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56801">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56801&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56801">
+
+					<h3 >
+						<a href="viewtopic_p56801.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56801&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56801.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2022-06-21T14:42:24+00:00">21 juin 2022, 16:42</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Autre cause de la montée forte du RN : l'ignorance par le gouvernement des gilets jaunes.<br>
+Ce mouvement informe, probablement apolitique au début a été récupéré très (très) vite. Tentative des syndicats de gauche qui se sont pris des torgnoles par des ruraux avec une vision caricaturale. Et tentative transformée par les militants RN, qui faisaient probablement parties des contestataires au début et qui ont réussi a bien noyauter le truc.<br>
+Et les gauchistes le diront : rien ne vaut le partage de manif, de coups, et gueuler ensemble pour souder des liens.<br>
+Parce que bon, tout le monde aura remarqué à quel point ces gilets jaunes ont été actifs pendant + d'un an, et à quel point on ne les a pas entendu depuis le début de la guerre en Ukraine et la montée vertigineuse des prix des carburants. <br>
+<br>
+Le nombre de députés RN a fait x10. ça ne sort pas de nulle part. On est assez loin de la crise covid (6 mois ?), et <a href="https://www.google.com/search?channel=crow5&amp;client=firefox-b-d&amp;q=le+pen+pouvoir+d%27achat" class="postlink" target="_blank" rel="noopener noreferrer nofollow">Le Pen a fait une campagne sur le pouvoir d'achat</a> (sondage avant le 1er tour des présidentielles où Le Pen était vu par les sondés comme le meilleur défenseur du pouvoir d'achat). Donc, ce thème plutôt porteur couplé à une dédiabolisation en masse a à mon avis beaucoup joué à un moment où il fallait choisir LREM ou RN.<br>
+Je vois plutôt Zemmour en nouveau défenseur du white power (même si oui, Le Pen est toujours entourée de skinheads)</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56806" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56806">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56806&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56806">
+
+					<h3 >
+						<a href="viewtopic_p56806.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56806&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56806.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2022-06-21T14:58:31+00:00">21 juin 2022, 16:58</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=56801&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56801"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p56801.html" aria-label="Consulter le message cité" data-post-id="56801" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 16:42</span></cite>
+Je vois plutôt Zemmour en nouveau défenseur du white power (même si oui, Le Pen est toujours entourée de skinheads)
+</div></blockquote>
+
+<br>
+Y'a quand même un effet sympa à court terme avec sa déculottée... un peu moins de Gilbert Collard en mondovision toutes chaines d'info... et ça c'est coool</div>
+
+			
+			
+									
+						
+							<div id="sig56806" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56812" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56812">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=209&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Talisker</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=209&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">678</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 12:19</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Talisker">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Talisker</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56812&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56812">
+
+					<h3 >
+						<a href="viewtopic_p56812.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56812&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56812.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=209&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Talisker</a></strong> &raquo; </span><time datetime="2022-06-21T15:22:34+00:00">21 juin 2022, 17:22</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=56806&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56806"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Zoorp</a> a écrit : <a href="viewtopic_p56806.html" aria-label="Consulter le message cité" data-post-id="56806" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 16:58</span></cite>
+<blockquote cite="./viewtopic.php?p=56801&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56801"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p56801.html" aria-label="Consulter le message cité" data-post-id="56801" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 16:42</span></cite>
+Je vois plutôt Zemmour en nouveau défenseur du white power (même si oui, Le Pen est toujours entourée de skinheads)
+</div></blockquote>
+
+<br>
+Y'a quand même un effet sympa à court terme avec sa déculottée... un peu moins de Gilbert Collard en mondovision toutes chaines d'info... et ça c'est coool
+</div></blockquote>
+
+Quand ça sera du Julien Odoul à toutes les sauces tu regretteras Collard.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56815" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56815">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=56&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_56.jpg" width="144" height="113" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=56&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">smc</a>							</dt>
+
+						<dd class="profile-rank">Meilleur arbitre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=56&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">3985</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 23 avr. 2021, 10:46</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter smc">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter smc</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56815&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56815">
+
+					<h3 >
+						<a href="viewtopic_p56815.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56815&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56815.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=56&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">smc</a></strong> &raquo; </span><time datetime="2022-06-21T15:44:25+00:00">21 juin 2022, 17:44</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=56812&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56812"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=209&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Talisker</a> a écrit : <a href="viewtopic_p56812.html" aria-label="Consulter le message cité" data-post-id="56812" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 17:22</span></cite>
+<blockquote cite="./viewtopic.php?p=56806&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56806"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Zoorp</a> a écrit : <a href="viewtopic_p56806.html" aria-label="Consulter le message cité" data-post-id="56806" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 16:58</span></cite>
+<blockquote cite="./viewtopic.php?p=56801&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56801"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p56801.html" aria-label="Consulter le message cité" data-post-id="56801" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 16:42</span></cite>
+Je vois plutôt Zemmour en nouveau défenseur du white power (même si oui, Le Pen est toujours entourée de skinheads)
+</div></blockquote>
+
+<br>
+Y'a quand même un effet sympa à court terme avec sa déculottée... un peu moins de Gilbert Collard en mondovision toutes chaines d'info... et ça c'est coool
+</div></blockquote>
+
+Quand ça sera du Julien Odoul à toutes les sauces tu regretteras Collard.
+</div></blockquote>
+lui là ?<br>
+<img src="https://resize-europe1.lanmedia.fr/rcrop/960,480/img/var/europe1/storage/images/le-lab/julien-odoul-nouveau-cadre-fn-et-ancien-cover-boy-pour-tetu-et-gab-19596/425576-1-fre-FR/Julien-Odoul-nouveau-cadre-FN-et-ancien-cover-boy-pour-Tetu-et-Gab.jpg" class="postimage" alt="Image"></div>
+
+			
+			
+									
+						
+							<div id="sig56815" class="signature">C'est parce que "yaourt" est proche de "Madagascar" dans l'inconscient. Or à Madagascar il y a des lémuriens et de la vanille.</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56816" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56816">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_127.png" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Raphiduck</a>							</dt>
+
+						<dd class="profile-rank">&quot;Sympa IRL&quot;</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=127&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1093</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:05</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Raphiduck">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Raphiduck</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56816&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56816">
+
+					<h3 >
+						<a href="viewtopic_p56816.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56816&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56816.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Raphiduck</a></strong> &raquo; </span><time datetime="2022-06-21T15:47:37+00:00">21 juin 2022, 17:47</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Vous êtes pas prêts pour Jordan Bardella 2027 je pense. Il s'exprime déjà 1000 fois mieux que MLP, prépare bien mieux ses interventions et à l'air de mieux connaitre ses dossiers. En tout cas, chaque fois qu'il est à la radio ou à la tv il rend beaucoup mieux que ne le fait une MLP qui bafouille dans tous les sens. Ca m'étonnerait pas qu'il soit le candidat RN à la prochaine présidentielle, vu son charisme.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56817" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56817">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56817&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56817">
+
+					<h3 >
+						<a href="viewtopic_p56817.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56817&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56817.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-06-21T16:06:03+00:00">21 juin 2022, 18:06</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Il est possible qu'on se fade Bardella et/ou MMLP pour les 5 prochaines présidentielles. Au moins.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56819" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56819">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">N0oh</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=139&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">151</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:27</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter N0oh">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter N0oh</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56819&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56819">
+
+					<h3 >
+						<a href="viewtopic_p56819.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56819&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56819.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">N0oh</a></strong> &raquo; </span><time datetime="2022-06-21T16:37:00+00:00">21 juin 2022, 18:37</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Je réagis juste sur Keke, et pas spécialement par rapport à Raphy parce que j'ai entendu les mêmes réactions partout, mais c'est quoi les compétences pour être député ? <br>
+Parce qu'au final, ton boulot c'est surtout de choisir, de manière informée si possible. <br>
+<br>
+Faudrait voir le ratio de gens qui proposent des choses VS ceux qui se contentent d'être la (voir même, de ne même pas être la) mais si elle ne fait rien d'autre que de dire oui à chaque proposition LFI met non à tout le reste, aura telle eu un mandat moins intéressant que les 3/4 de l'assemblée ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56826" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56826">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56826&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56826">
+
+					<h3 >
+						<a href="viewtopic_p56826.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56826&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56826.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-06-21T17:08:25+00:00">21 juin 2022, 19:08</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Madame Keke est en plus l'arbre qui cache la forêt des noobs, si vous regardez l'xp politique et la catégorie socio-professionnelle des nouveaux députés de NUPES et RN. Elle est loin d'être toute seule.<br>
+<br>
+On a quand même un député Kamoulox cette année : accordeur de piano, aveugle, et vice-champion de France de bodybuilding.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56830" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56830">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=137&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">WordsRWords</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=137&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">166</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:25</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter WordsRWords">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter WordsRWords</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56830&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56830">
+
+					<h3 >
+						<a href="viewtopic_p56830.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56830&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56830.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=137&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">WordsRWords</a></strong> &raquo; </span><time datetime="2022-06-21T17:35:47+00:00">21 juin 2022, 19:35</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">C'est pas plutôt le prochain Guy Ritchie ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56846" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56846">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_52.jpg" width="148" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">Ngold</a>							</dt>
+
+						<dd class="profile-rank">Modérateur</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=52&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1398</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 21:24</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Ngold">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Ngold</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56846&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56846">
+
+					<h3 >
+						<a href="viewtopic_p56846.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56846&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56846.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">Ngold</a></strong> &raquo; </span><time datetime="2022-06-21T19:39:33+00:00">21 juin 2022, 21:39</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=56826&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p56826"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Kaptain</a> a écrit : <a href="viewtopic_p56826.html" aria-label="Consulter le message cité" data-post-id="56826" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">21 juin 2022, 19:08</span></cite>
+Madame Keke est en plus l'arbre qui cache la forêt des noobs, si vous regardez l'xp politique et la catégorie socio-professionnelle des nouveaux députés de NUPES et RN. Elle est loin d'être toute seule.<br>
+<br>
+On a quand même un député Kamoulox cette année : accordeur de piano, aveugle, et vice-champion de France de bodybuilding.
+</div></blockquote>
+
+Mega solide<br>
+<br>
+Et Keke elle a surtout été militante syndicale pendant des années. Elle doit connaître deux trois trucs sur les luttes sociales et le droit du travail, raison pour laquelle elle était candidate avant d’être élue.<br>
+<br>
+Pour être député, faut être élu, pas « compétent ». Sinon la représentation n’a plus aucun sens (déjà que c’est pas fameux…)</div>
+
+			
+			
+									
+						
+							<div id="sig56846" class="signature">Au début on voulait faire les 10 Commandements, mais on n'avait pas de pyramide. Alors on a voulu faire Autant en emporte le vent, mais on n'avait pas Clark Gabble. Alors on a filmé le chat</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p56863" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile56863">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_119.jpg" width="102" height="136" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Xuelynom</a>							</dt>
+
+						<dd class="profile-rank">Calembourrin</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=119&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1179</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:49</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Xuelynom">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Xuelynom</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=56863&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content56863">
+
+					<h3 >
+						<a href="viewtopic_p56863.html">Re: Insécurité</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=56863&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p56863.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Xuelynom</a></strong> &raquo; </span><time datetime="2022-06-22T05:48:14+00:00">22 juin 2022, 07:48</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Sciences po Paris c'est aussi Olivier Stirn, Juan Branco, Frigide Barjot, segolene Royal, et en député diplômé on a eu Son-Forget et Wonner.<br>
+Laguillier n'avait que le Bepc, Hue était infirmier, et Beregovoy avait un cap d'ajusteur.<br>
+<br>
+Le pb d'un député c'est qu'il devrait être censé absorber des rapports condensés par ses assistants pour se faire des avis et non pas voter comme le parti... mais après tout comme l'a dit Kafka, "Un idiot est un idiot. Deux idiots sont deux idiots. Mais dix mille idiots sont un parti politique."<br>
+<br>
+Tizns d ailleurs vu qu on parlera pas du sujet du topic, c est qui pour vous les personnalités politiques les plus teubés ? Je parle pas de gens que vous aimez pas genre zemmour ou ciotti qui sortent de science po paris et qui doivent quand même savoir réfléchir, mais ceux qui ont besoin de regarder leurs kickers pour se souvenir s'ils sont de gauche ou de droite ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=957&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=957&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t957.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=957&amp;start=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les messages</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="s">Sujet</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a" selected="selected">Croissant</option><option value="d">Décroissant</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Aller" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			143 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t957_start25.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t957.html>957</a></li>
+				<li><a class="button" href="viewtopic_t957_start25.html" role="button">2</a></li>
+			<li class="active"><span>3</span></li>
+				<li><a class="button" href="viewtopic_t957_start75.html" role="button">4</a></li>
+				<li><a class="button" href="viewtopic_t957_start100.html" role="button">5</a></li>
+				<li><a class="button" href="viewtopic_t957_start125.html" role="button">6</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t957_start75.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="viewforum_f23.html" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à « Débats d'actualité et politique »</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Aller" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Aller</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="viewforum_f3.html" class="jumpbox-cat-link"> <span> Magic: The Gathering</span></a></li>
+																<li><a href="viewforum_f4.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Discussions</span></a></li>
+																<li><a href="viewforum_f5.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nouveautés &amp; Rumeurs</span></a></li>
+																<li><a href="viewforum_f8.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Draft &amp; Scellé</span></a></li>
+																<li><a href="viewforum_f9.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit compétitif</span></a></li>
+																<li><a href="viewforum_f10.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit non compétitif</span></a></li>
+																<li><a href="viewforum_f11.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Autres formats</span></a></li>
+																<li><a href="viewforum_f12.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Questions de règles</span></a></li>
+																<li><a href="viewforum_f13.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Magic Arena &amp; MTGO</span></a></li>
+																<li><a href="viewforum_f6.html" class="jumpbox-cat-link"> <span> Bavardages</span></a></li>
+																<li><a href="viewforum_f7.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Mène-à-Rien</span></a></li>
+																<li><a href="viewforum_f14.html" class="jumpbox-cat-link"> <span> Forums privés</span></a></li>
+																<li><a href="viewforum_f23.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Débats d'actualité et politique</span></a></li>
+																<li><a href="viewforum_f17.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Sports</span></a></li>
+																<li><a href="viewforum_f26.html" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Paris sportifs</span></a></li>
+																<li><a href="viewforum_f15.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Cinéma</span></a></li>
+																<li><a href="viewforum_f18.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Séries</span></a></li>
+																<li><a href="viewforum_f19.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Musique</span></a></li>
+																<li><a href="viewforum_f20.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Littérature - BD - Mangas</span></a></li>
+																<li><a href="viewforum_f21.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux vidéo</span></a></li>
+																<li><a href="viewforum_f22.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux de société</span></a></li>
+																<li><a href="viewforum_f16.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Loup-Garou</span></a></li>
+																<li><a href="viewforum_f27.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Secret Santa</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php?sid=929d7010353f40f53e5ffe01dedbffc9.html">Qui est en ligne ?</a></h3>
+		<p>Utilisateurs parcourant ce forum : Aucun utilisateur inscrit et 1 invité</p>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="index.html" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Accueil du forum</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+02:00</span></li>
+							<li class="rightside">
+				<a href="/app.php.html" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="La liste complète des membres du forum" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+				</a>
+			</li>
+							</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.php.html">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+		<p class="footer-row">
+			Prosilver Dark Edition by <a href="http://www.planetstyles.net/">Premium phpBB Styles</a>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.php.html">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+				<br>MTGVerse est un contenu de fan non officiel autorisé dans le cadre de la Politique des contenus de fans.
+<br>Ni approuvé, ni promu par Wizards. Certaines parties des matériaux utilisés sont la propriété de Wizards of the Coast.
+<br>©Wizards of the Coast LLC.		<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	<img class="sr-only" aria-hidden="true" src="&#x2F;app.php&#x2F;cron&#x2F;cron.task.core.tidy_sessions&#x3F;sid&#x3D;929d7010353f40f53e5ffe01dedbffc9" width="1" height="1" alt="">
+</div>
+
+<script src="./assets/javascript/jquery-3.7.1.min.js?assets_version=128"></script>
+<script src="./assets/javascript/core.js?assets_version=128"></script>
+
+
+
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=128"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=128"></script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,2810 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Vote mtgverse - Page 5 - MTGVerse</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - MTGVerse" href="/app.php.html">			<link rel="alternate" type="application/atom+xml" title="Flux - Nouveaux sujets" href="/app.php.html">		<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Débats d'actualité et politique" href="/app.php.html">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujet - Vote mtgverse" href="/app.php.html">	
+	<link rel="canonical" href="viewtopic_t812.html">
+
+<!--
+	phpBB style name: Prosilver (Dark Edition)
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by: PlanetStyles.net ( http://www.planetstyles.net)
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/stylesheet.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/fr/stylesheet.css?assets_version=128" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver_dark/theme/tweaks.css?assets_version=128" rel="stylesheet">
+<![endif]-->
+
+		<meta name="MAS" content="Member Avatar & Status [MAS]=Dark❶ [dark1]" />
+<style type="text/css">
+    .mention {
+        color: #ff4500;
+    }
+</style>
+<link href="./ext/dark1/memberavatarstatus/styles/all/theme/mas_header.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_background.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_mobile.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/paul999/mention/styles/all/theme/mention.css?assets_version=128" rel="stylesheet" media="screen">
+
+<link href="./styles/prosilver_dark/theme/colours/grey.css?assets_version=128" rel="stylesheet">
+
+<style>
+	.mas-status-dot.mas-color {
+		background-color: #000000;
+	}
+	.mas-status-dot.mas-color:after {
+		background-color: #000000;
+	}
+	.mas-status-online .mas-status-dot.mas-color {
+		background-color: #00FF00;
+	}
+	.mas-status-online .mas-status-dot.mas-color:after {
+		background-color: #00FF00;
+	}
+</style>
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+/* Responsive header banner: show only the full banner on desktop and the mobile one on small screens. */
+.banner-header { text-align: center; margin: 0 auto; }
+.banner-header .header-banner img, .banner-header .mobile-header-banner img { display:block; max-width:100%; height:auto; margin:0 auto; }
+/* hide mobile banner on desktop */
+.banner-header .mobile-header-banner { display: none; }
+/* show mobile banner only on small screens and hide full banner there */
+@media only screen and (max-width: 700px) {
+  .banner-header .mobile-header-banner { display: block !important; }
+  .banner-header .header-banner { display: none !important; }
+}
+/* Hide the style name and other small theme credit labels which were left in the static export */
+/* Hide the style name and other small theme credit labels which were left in the static export */
+.copyright .footer-row, .site_logo::before, .style-name, .prosilver-label { display: none !important; }
+/* Additional header selectors to hide ProSilver label/logo left by theme in header */
+.site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
+/* Hide posting / reply / new topic / registration / login controls on static site */
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+/* Hide reply/quote links inside posts */
+a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
+/* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
+#hidden { display: none !important; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="index.html" title="Accueil du forum"><span class="site_logo"></span></a>
+				<h1>MTGVerse</h1>
+				<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									<div class="banner-header">
+<div id="hidden">
+	<h1>MTGVerse</h1>
+	<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+	<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+</div>
+<div class="header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="header-banner" src="https://mtgverse.com/images/banner_full.jpg" alt="Accueil du forum" ></a>
+	</div>
+<div class="mobile-header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="mobile-header-banner" src="https://mtgverse.com/images/banner_700.jpg" alt="Accueil du forum" ></a>
+	</div>
+</div>
+
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.html?search_id=unanswered&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Sujets sans réponse</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.html?search_id=active_topics&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Sujets actifs</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Rechercher</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php.html" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewtopic.php.html" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="index.html" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Accueil du forum</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="14"><a itemprop="item" href="viewforum_f14.html"><span itemprop="name">Forums privés</span></a><meta itemprop="position" content="2" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="23"><a itemprop="item" href="viewforum_f23.html"><span itemprop="name">Débats d'actualité et politique</span></a><meta itemprop="position" content="3" /></span>
+							
+					</li>
+
+		<li id="search-box" class="search-box rightside responsive-hide">
+	<form action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9" method="get" id="search">
+	<fieldset>
+		<input name="keywords" id="keyword" type="search" maxlength="128" title="Rechercher par mots-clés" class="inputbox search tiny" size="20" value="" placeholder="Rechercher…" >
+		<button class="button button-search" type="submit" title="Rechercher">
+		<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+		</button>
+		<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+		<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+		</a>
+	</fieldset>
+</form>
+</li>
+<li class="rightside responsive-search">
+	<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Accéder aux paramètres avancés de la recherche" role="menuitem">
+	<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+	</a>
+</li>
+
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="viewtopic_t812.html">Vote mtgverse</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Pour débattre de l'actualité et bien plus encore<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=812&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=812&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t812.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Rechercher…" />
+				<button class="button button-search" type="submit" title="Rechercher">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</button>
+				<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+				</a>
+				<input type="hidden" name="t" value="812" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="929d7010353f40f53e5ffe01dedbffc9" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			150 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t812_start75.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t812.html>812</a></li>
+				<li><a class="button" href="viewtopic_t812_start25.html" role="button">2</a></li>
+				<li><a class="button" href="viewtopic_t812_start50.html" role="button">3</a></li>
+				<li><a class="button" href="viewtopic_t812_start75.html" role="button">4</a></li>
+			<li class="active"><span>5</span></li>
+				<li><a class="button" href="viewtopic_t812_start125.html" role="button">6</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t812_start125.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+	<form method="post" action="./viewtopic.php?t=812&amp;start=100&amp;sid=929d7010353f40f53e5ffe01dedbffc9" data-ajax="vote_poll" data-refresh="true" class="topic_poll">
+
+	<div class="panel">
+		<div class="inner">
+
+		<div class="content">
+			<h2 class="poll-title">Pour qui mettrez vous un bulletin au premier tour ?</h2>
+			<p class="author">Le sondage est terminé depuis le 10 avr. 2022, 18:44</p>
+
+			<fieldset class="polls">
+											<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="1">
+					<dt>Arthaud</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:0%;">0</div></dd>
+					<dd class="poll_option_percent">Aucun vote</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="2">
+					<dt>Dupont-Aignan</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:0%;">0</div></dd>
+					<dd class="poll_option_percent">Aucun vote</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="3">
+					<dt>Hidalgo</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:22%;">5</div></dd>
+					<dd class="poll_option_percent">6%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="4">
+					<dt>Jadot</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:22%;">5</div></dd>
+					<dd class="poll_option_percent">6%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="5">
+					<dt>Lassalle</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:0%;">0</div></dd>
+					<dd class="poll_option_percent">Aucun vote</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="6">
+					<dt>Le Pen</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:4%;">1</div></dd>
+					<dd class="poll_option_percent">1%</dd>
+				</dl>
+															<dl class=" most-votes" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="7">
+					<dt>Macron</dt>
+										<dd class="resultbar"><div class="pollbar2" style="width:100%;">23</div></dd>
+					<dd class="poll_option_percent">28%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="8">
+					<dt>Mélenchon</dt>
+										<dd class="resultbar"><div class="pollbar2" style="width:83%;">19</div></dd>
+					<dd class="poll_option_percent">23%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="9">
+					<dt>Pécresse</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:0%;">0</div></dd>
+					<dd class="poll_option_percent">Aucun vote</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="10">
+					<dt>Poutou</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:9%;">2</div></dd>
+					<dd class="poll_option_percent">2%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="11">
+					<dt>Roussel</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:35%;">8</div></dd>
+					<dd class="poll_option_percent">10%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="12">
+					<dt>Zemmour</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:13%;">3</div></dd>
+					<dd class="poll_option_percent">4%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="13">
+					<dt>*Indécis pour le moment*</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:48%;">11</div></dd>
+					<dd class="poll_option_percent">14%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="14">
+					<dt>**Vote blanc**</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:9%;">2</div></dd>
+					<dd class="poll_option_percent">2%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="15">
+					<dt>**Abstention**</dt>
+										<dd class="resultbar"><div class="pollbar1" style="width:9%;">2</div></dd>
+					<dd class="poll_option_percent">2%</dd>
+				</dl>
+							
+				<dl class="poll_total_votes">
+					<dt>&nbsp;</dt>
+					<dd class="resultbar">Nombre total de votes : <span class="poll_total_vote_cnt">81</span></dd>
+				</dl>
+
+			
+						</fieldset>
+			<div class="vote-submitted hidden">Votre vote a bien été comptabilisé.</div>
+		</div>
+
+		</div>
+		
+		
+	</div>
+
+	</form>
+	<hr />
+
+
+			<div id="p49607" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49607">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49607&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49607">
+
+					<h3 class="first">
+						<a href="viewtopic_p49607.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49607&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49607.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-04-10T21:49:59+00:00">10 avr. 2022, 23:49</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><a href="https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/FE.html" class="postlink" target="_blank" rel="noopener noreferrer nofollow">https://www.resultats-elections.interie ... 22/FE.html</a></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49608" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49608">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=142&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Athanor</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=142&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">793</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:32</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Athanor">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Athanor</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49608&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49608">
+
+					<h3 >
+						<a href="viewtopic_p49608.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49608&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49608.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=142&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Athanor</a></strong> &raquo; </span><time datetime="2022-04-10T21:55:11+00:00">10 avr. 2022, 23:55</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Merci !</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49615" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49615">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=149&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mensha</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=149&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">284</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:48</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Mensha">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Mensha</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49615&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49615">
+
+					<h3 >
+						<a href="viewtopic_p49615.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49615&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49615.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=149&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mensha</a></strong> &raquo; </span><time datetime="2022-04-10T22:50:26+00:00">11 avr. 2022, 00:50</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Maintenant que les législatives et la présidentielle sont alignées, pourquoi on ne met pas l'assemblée a la proportionnelle du 1er tour?<br>
+Bon ca ferait 30% de députés d'extrême droite mais ca donnerait une vraie place à l'opposition et reboosterai probablement la participation au 1er tour.<br>
+En interdisant la dissolution de l'Assemblée au président, on pourrait même retrouver un pouvoir législatif.<br>
+<br>
+Sinon j'ai voté Poutou pour sa punchline sur Zemmour.. J'ai essayé dans l'isoloir de voter Mélenchon mais impossible de voter pour ce parti de débile.<br>
+<br>
+J'irais voter Macron en ayant envie de gebrer au second tour, no way l'extrême droite a l'Elysée. Comme en 2017.<br>
+<br>
+Je vais guetter le score du second tour pour voir a quel point le barrage de Macron contre l'ED va lui permettre de progresser par rapport a 2017.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49617" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49617">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_119.jpg" width="102" height="136" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Xuelynom</a>							</dt>
+
+						<dd class="profile-rank">Calembourrin</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=119&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1179</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:49</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Xuelynom">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Xuelynom</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49617&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49617">
+
+					<h3 >
+						<a href="viewtopic_p49617.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49617&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49617.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Xuelynom</a></strong> &raquo; </span><time datetime="2022-04-11T05:09:06+00:00">11 avr. 2022, 07:09</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=49615&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49615"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=149&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Mensha</a> a écrit : <a href="viewtopic_p49615.html" aria-label="Consulter le message cité" data-post-id="49615" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 avr. 2022, 00:50</span></cite>
+<br>
+Sinon j'ai voté Poutou pour sa punchline sur Zemmour.. 
+</div></blockquote>
+
+A quoi ça se joue une élection, tout de même...</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49626" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49626">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_70.png" width="150" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Hermelk</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=70&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">2238</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 01:29</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Hermelk">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Hermelk</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49626&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49626">
+
+					<h3 >
+						<a href="viewtopic_p49626.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49626&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49626.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Hermelk</a></strong> &raquo; </span><time datetime="2022-04-11T07:02:37+00:00">11 avr. 2022, 09:02</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">1.4 d'écart au final.<br>
+<br>
+Quartennens dit " il nous a manqué 500000 voix, la moitié de celles de Roussel"<br>
+<br>
+ROUSSEL IZ ZE NEX TAUBIRA</div>
+
+			
+			
+									
+						
+							<div id="sig49626" class="signature">Les tomates mises avec les aromates se parfument et évitent partiellement les limaces. Ce qui n'empêche pas les règles, pas d'ail avec les tomates; les déchets de table c'est très bien au compost mais pas sous le lit.</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49627" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49627">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=212&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">MerkLC</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=212&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1015</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 12:27</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter MerkLC">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter MerkLC</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49627&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49627">
+
+					<h3 >
+						<a href="viewtopic_p49627.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49627&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49627.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=212&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">MerkLC</a></strong> &raquo; </span><time datetime="2022-04-11T07:06:33+00:00">11 avr. 2022, 09:06</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Hamon plutôt non ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49628" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49628">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=227&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">guivrator</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=227&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">955</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 13:32</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter guivrator">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter guivrator</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49628&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49628">
+
+					<h3 >
+						<a href="viewtopic_p49628.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49628&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49628.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=227&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">guivrator</a></strong> &raquo; </span><time datetime="2022-04-11T07:08:35+00:00">11 avr. 2022, 09:08</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Mais pourquoi les candidats de droite comme Roussel Jadot ou Hidalgo auraient du donner leurs voix à la gauche ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49629" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49629">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_70.png" width="150" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Hermelk</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=70&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">2238</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 01:29</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Hermelk">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Hermelk</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49629&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49629">
+
+					<h3 >
+						<a href="viewtopic_p49629.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49629&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49629.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=70&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Hermelk</a></strong> &raquo; </span><time datetime="2022-04-11T07:09:23+00:00">11 avr. 2022, 09:09</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=49627&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49627"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=212&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">MerkLC</a> a écrit : <a href="viewtopic_p49627.html" aria-label="Consulter le message cité" data-post-id="49627" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 avr. 2022, 09:06</span></cite>
+Hamon plutôt non ?
+</div></blockquote>
+
+Aha oui tu as raison, j'ai des réf des années 2000.</div>
+
+			
+			
+									
+						
+							<div id="sig49629" class="signature">Les tomates mises avec les aromates se parfument et évitent partiellement les limaces. Ce qui n'empêche pas les règles, pas d'ail avec les tomates; les déchets de table c'est très bien au compost mais pas sous le lit.</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49640" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49640">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49640&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49640">
+
+					<h3 >
+						<a href="viewtopic_p49640.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49640&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49640.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2022-04-11T07:39:18+00:00">11 avr. 2022, 09:39</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=49628&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49628"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=227&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">guivrator</a> a écrit : <a href="viewtopic_p49628.html" aria-label="Consulter le message cité" data-post-id="49628" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 avr. 2022, 09:08</span></cite>
+Mais pourquoi les candidats de droite comme Roussel Jadot ou Hidalgo auraient du donner leurs voix à la gauche ?
+</div></blockquote>
++1. <br>
+<br>
+Je trouve les LFI complètement cons à ramener ça à de l'arithmétique.<br>
+Les Moins de 5 auraient eu tort de ne pas y aller (bon maintenant ils sont ruinés, ça c'est autre chose), c'est le jeu de la démocratie. <br>
+Par contre, descendre Hidalgo, Roussel ou Jadot qui ont passé les 15 derniers jours à décrédibiliser Mélenchon ça s'entendrait bien + ... j'espère pour leur intégrité physique que Le Pen ne sera pas présidente. Parce qu'il y en a qui sont sacrément cons dans le tas.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49701" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49701">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_161.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Niluje</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=161&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">897</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:12</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Niluje">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Niluje</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49701&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49701">
+
+					<h3 >
+						<a href="viewtopic_p49701.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49701&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49701.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Niluje</a></strong> &raquo; </span><time datetime="2022-04-11T10:56:28+00:00">11 avr. 2022, 12:56</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ptet que si Mélenchon n'avait pas été un sac à merde pendant la pandémie, il aurait eu les 500k voix qui lui ont manqué, mais c'est toujours plus facile d'accuser les autres après tout.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49714" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49714">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=111&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_111.jpg" width="136" height="136" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=111&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Turkish</a>							</dt>
+
+						<dd class="profile-rank">arni alo</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=111&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">2552</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:28</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Turkish">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Turkish</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49714&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49714">
+
+					<h3 >
+						<a href="viewtopic_p49714.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49714&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49714.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=111&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Turkish</a></strong> &raquo; </span><time datetime="2022-04-11T11:39:29+00:00">11 avr. 2022, 13:39</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">C'est surtout qu'il est loin d'être prouvé qu'une alliance lui aurait apporté plus que le siphonage massif qu'il a réussi dans le dernier mois.<br>
+<br>
+En plus le côté champion de la gauche se serait essoufflé beaucoup plus tôt.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49719" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49719">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_101.jpg" width="120" height="120" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=101&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">751</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:02</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter EtMini">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter EtMini</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49719&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49719">
+
+					<h3 >
+						<a href="viewtopic_p49719.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49719&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49719.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a></strong> &raquo; </span><time datetime="2022-04-11T11:50:18+00:00">11 avr. 2022, 13:50</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">P'tit poll sur le deuxième tour?<br>
+Le nombre de votants pour MLP ne devrait pas beaucoup bouger, c'est surtout intéressant pour voir le nombre d'abstentions/blanc.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49883" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49883">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=56&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_56.jpg" width="144" height="113" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=56&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">smc</a>							</dt>
+
+						<dd class="profile-rank">Meilleur arbitre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=56&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">3985</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 23 avr. 2021, 10:46</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter smc">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter smc</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49883&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49883">
+
+					<h3 >
+						<a href="viewtopic_p49883.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49883&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49883.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=56&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">smc</a></strong> &raquo; </span><time datetime="2022-04-11T22:30:41+00:00">12 avr. 2022, 00:30</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=48726&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p48726"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Zoorp</a> a écrit : <a href="viewtopic_p48726.html" aria-label="Consulter le message cité" data-post-id="48726" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">01 avr. 2022, 11:21</span></cite>
+il faut rester factuel @smc ,  s'il y avait alliance, il dirait  "on appelle à voter Le Pen".  Là tu peux dire plutôt "l'indifférence rouge-brun"<br>
+<br>
+Après l'indifférence est-elle criminelle?  Si c'est entre deux que tu détestes, pas évident non?  <br>
+<br>
+Prenons un exemple, si les deux que tu détestes le plus sont au second tour  ( je pars du principe que pour toi, c'est Mélenchon et Le Pen), tu fais quoi? Tu vas voter ou tu restes chez toi?
+</div></blockquote>
+
+Ici ! Alzheimer pour toi du coup <img alt="☺️" class="emoji smilies" draggable="false" src="//cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/263a.svg"></div>
+
+			
+			
+									
+						
+							<div id="sig49883" class="signature">C'est parce que "yaourt" est proche de "Madagascar" dans l'inconscient. Or à Madagascar il y a des lémuriens et de la vanille.</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49884" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49884">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49884&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49884">
+
+					<h3 >
+						<a href="viewtopic_p49884.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49884&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49884.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2022-04-11T23:00:59+00:00">12 avr. 2022, 01:00</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ah oui lol</div>
+
+			
+			
+									
+						
+							<div id="sig49884" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49885" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49885">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">remfortz</a>							</dt>
+
+						<dd class="profile-rank">Joueur d'octobre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=201&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">209</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 12:00</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter remfortz">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter remfortz</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49885&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49885">
+
+					<h3 >
+						<a href="viewtopic_p49885.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49885&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49885.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">remfortz</a></strong> &raquo; </span><time datetime="2022-04-11T23:47:33+00:00">12 avr. 2022, 01:47</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">J'aime pas du tout le discours de LFI sur la faute de Roussel. Je pense que tous les candidats ont le droit de se présenter et si tu gagnes pas, c'est de ta faute, il fallait convaincre.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49933" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49933">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49933&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49933">
+
+					<h3 >
+						<a href="viewtopic_p49933.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49933&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49933.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2022-04-12T09:14:52+00:00">12 avr. 2022, 11:14</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=49885&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49885"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">remfortz</a> a écrit : <a href="viewtopic_p49885.html" aria-label="Consulter le message cité" data-post-id="49885" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 01:47</span></cite>
+J'aime pas du tout le discours de LFI sur la faute de Roussel. Je pense que tous les candidats ont le droit de se présenter et si tu gagnes pas, c'est de ta faute, il fallait convaincre.
+</div></blockquote>
++1<br>
+Mais ils avaient déjà ce discours avec Hamon il y a 5 ans ... <br>
+ça me semble normal que d'autres candidats souhaitent se présenter sans faire d'union par défaut au préalable. ça permet de valider la pertinence des idées proposées aux électeurs, et la validation ou non de ces idées. ça permet aussi (et surtout aux yeux des partis) de se compter et de peser + ou - dans les négociations suivantes (bon là c'est raté pour ceux qui font moins de 5).<br>
+La nouveauté 2022 avec Jadot, Roussel et Hidalgo c'est qu'ils ont passé leur 10 derniers jours de campagne à taper sur Mélenchon. (mais ça les insoumis oublient de le reprocher aux candidats ... )</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49939" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49939">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_118.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">quake</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=118&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">250</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter quake">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter quake</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49939&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49939">
+
+					<h3 >
+						<a href="viewtopic_p49939.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49939&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49939.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">quake</a></strong> &raquo; </span><time datetime="2022-04-12T09:33:17+00:00">12 avr. 2022, 11:33</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=49933&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49933"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p49933.html" aria-label="Consulter le message cité" data-post-id="49933" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 11:14</span></cite>ça permet de valider la pertinence des idées proposées aux électeurs, et la validation ou non de ces idées.</div></blockquote>
+
+Je ne vois pas ce que tu veux dire.<br>
+<br>
+Le fait de se compter c'est bien mais si c'est au prix de l'absence d'un candidat de gauche au second tour c'est beaucoup trop cher payé. Une primaire de la gauche paraît beaucoup plus adaptée pour faire ça tant qu'on restera sur le mode de scrutin uninominal à deux tours.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49942" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49942">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=142&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Athanor</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=142&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">793</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:32</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Athanor">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Athanor</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49942&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49942">
+
+					<h3 >
+						<a href="viewtopic_p49942.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49942&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49942.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=142&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Athanor</a></strong> &raquo; </span><time datetime="2022-04-12T09:36:23+00:00">12 avr. 2022, 11:36</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">La pertinence de "ils ont favorisé la droite" est exactement la même que celle de "s'abstenir c'est voter le pen"<br>
+c'est à dire aucune</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49952" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49952">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49952&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49952">
+
+					<h3 >
+						<a href="viewtopic_p49952.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49952&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49952.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-04-12T09:54:12+00:00">12 avr. 2022, 11:54</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=49939&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49939"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">quake</a> a écrit : <a href="viewtopic_p49939.html" aria-label="Consulter le message cité" data-post-id="49939" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 11:33</span></cite>
+<blockquote cite="./viewtopic.php?p=49933&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49933"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p49933.html" aria-label="Consulter le message cité" data-post-id="49933" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 11:14</span></cite>ça permet de valider la pertinence des idées proposées aux électeurs, et la validation ou non de ces idées.</div></blockquote>
+
+Je ne vois pas ce que tu veux dire.<br>
+<br>
+Le fait de se compter c'est bien mais si c'est au prix de l'absence d'un candidat de gauche au second tour c'est beaucoup trop cher payé. Une primaire de la gauche paraît beaucoup plus adaptée pour faire ça tant qu'on restera sur le mode de scrutin uninominal à deux tours.
+</div></blockquote>
+
+Ah oui la primaire, super efficace comme système, on l'a bien vu avec cette élection. Rappelle moi le score de Jadot et de Pecresse, vainqueurs de leurs primaire ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49957" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49957">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_118.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">quake</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=118&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">250</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter quake">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter quake</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49957&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49957">
+
+					<h3 >
+						<a href="viewtopic_p49957.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49957&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49957.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">quake</a></strong> &raquo; </span><time datetime="2022-04-12T10:04:24+00:00">12 avr. 2022, 12:04</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Je n'ai pas parlé de l'efficacité de la primaire pour passer le premier tour mais pour connaître la répartition des forces entre les participants.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49958" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49958">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49958&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49958">
+
+					<h3 >
+						<a href="viewtopic_p49958.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49958&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49958.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-04-12T10:13:24+00:00">12 avr. 2022, 12:13</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=49957&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49957"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">quake</a> a écrit : <a href="viewtopic_p49957.html" aria-label="Consulter le message cité" data-post-id="49957" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 12:04</span></cite>
+Je n'ai pas parlé de l'efficacité de la primaire pour passer le premier tour mais pour connaître la répartition des forces entre les participants.
+</div></blockquote>
+
+Sauf que l'un a une incidence sur l'autre.<br>
+<br>
+Les candidats à la primaire qui perdent mais avec un gros score génèrent une légitimité qui provoque des mouvements de fronde.<br>
+Sandrine Rousseau a torpillé la campagne de Jadot. Sans primaire elle n'aurait eu aucune visibilité médiatique.<br>
+Ciotti a en partie torpillé la campagne de Pecresse, même cause même effet. Sans primaire, quelqu'un aurait-il entendu Ciotti et son discours d'extrême-droite ? L'aurait-il seulement exprimé ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49982" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49982">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49982&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49982">
+
+					<h3 >
+						<a href="viewtopic_p49982.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49982&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49982.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2022-04-12T12:02:52+00:00">12 avr. 2022, 14:02</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=49939&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49939"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">quake</a> a écrit : <a href="viewtopic_p49939.html" aria-label="Consulter le message cité" data-post-id="49939" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 11:33</span></cite>
+<blockquote cite="./viewtopic.php?p=49933&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49933"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p49933.html" aria-label="Consulter le message cité" data-post-id="49933" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 11:14</span></cite>ça permet de valider la pertinence des idées proposées aux électeurs, et la validation ou non de ces idées.</div></blockquote>
+
+Je ne vois pas ce que tu veux dire.
+</div></blockquote>
+Euh je crois que j'ai écris 2 fois la même chose ... <br>
+Disons que sans la présence de zemmour, on aurait aucune visibilité sur les 7% de votants tolérants aux thèses néonazies.
+<blockquote cite="./viewtopic.php?p=49939&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49939"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">quake</a> a écrit : <a href="viewtopic_p49939.html" aria-label="Consulter le message cité" data-post-id="49939" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 11:33</span></cite>
+Le fait de se compter c'est bien mais si c'est au prix de l'absence d'un candidat de gauche au second tour c'est beaucoup trop cher payé. 
+</div></blockquote>
+C'est result oriented sur ce coup-ci.<br>
+Sur d'autres scrutins à 2 tours, les partis utilisent ça pour négocier des triangulaires par exemple.
+<blockquote cite="./viewtopic.php?p=49939&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p49939"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">quake</a> a écrit : <a href="viewtopic_p49939.html" aria-label="Consulter le message cité" data-post-id="49939" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">12 avr. 2022, 11:33</span></cite>
+Une primaire de la gauche paraît beaucoup plus adaptée pour faire ça tant qu'on restera sur le mode de scrutin uninominal à deux tours.
+</div></blockquote>
+Oui et non. Après 2 présidentielles, on voit que ceux qui militent n'ont pas les mêmes objectifs que ceux qui viennent voter à la primaire ni que les électeurs visés par le programme.<br>
+Et ça, c'est dans le cas, où t'as pas EN PLUS des grosses putes de type de Rugy ou Valls.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p49984" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile49984">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=49984&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content49984">
+
+					<h3 >
+						<a href="viewtopic_p49984.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=49984&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p49984.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2022-04-12T12:06:16+00:00">12 avr. 2022, 14:06</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">J'étais plutôt favorables aux primaires quand je militais avec la réflexion suivante : + d'adhésion au programme proposé = plus de forces pour en parler et convaincre. <br>
+Non. En fait, une primaire politique, c'est un sondage Twitter, tu te fais troller sans avancer sur le fond. Ex: Le Figaro qui propose un sondage et qui se retrouve avec 95% de réponses "il n'y a pas assez d'étrangers en France".<br>
+Donc on en revient au fonctionnement précédent: si on veut une logique de parti, on l'applique jusqu'au bout et ce sont les militants qui choisissent. Tant pis s'ils se trompent.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p50005" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile50005">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=142&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Athanor</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=142&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">793</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:32</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Athanor">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Athanor</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=50005&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content50005">
+
+					<h3 >
+						<a href="viewtopic_p50005.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=50005&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p50005.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=142&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Athanor</a></strong> &raquo; </span><time datetime="2022-04-12T13:40:05+00:00">12 avr. 2022, 15:40</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">des primaires (beaucoup) plus tôt ça me semble corriger les défauts sans enlever les qualités (et oui, internes les primaires)</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p50017" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile50017">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_118.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">quake</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=118&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">250</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter quake">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter quake</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=50017&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content50017">
+
+					<h3 >
+						<a href="viewtopic_p50017.html">Re: Vote mtgverse</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=50017&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p50017.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=118&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">quake</a></strong> &raquo; </span><time datetime="2022-04-12T14:03:55+00:00">12 avr. 2022, 16:03</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">C'est pas évident à établir précisément à l'avance mais c'est surtout des primaires qui regroupent beaucoup plus d'intentions de votes qu'il faudrait. Si la somme des courants politiques représentés à la primaire ne fait pas 25% des intentions de vote au début de la campagne, il y a de fortes chances que le candidat qui la remporte ne passe pas au deuxième tour.<br>
+<br>
+Je pense que c'est surtout ça l'enseignement des primaires de 2017 et de 2022.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=812&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=812&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t812.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=812&amp;start=100&amp;sid=929d7010353f40f53e5ffe01dedbffc9">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les messages</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="s">Sujet</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a" selected="selected">Croissant</option><option value="d">Décroissant</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Aller" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			150 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t812_start75.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t812.html>812</a></li>
+				<li><a class="button" href="viewtopic_t812_start25.html" role="button">2</a></li>
+				<li><a class="button" href="viewtopic_t812_start50.html" role="button">3</a></li>
+				<li><a class="button" href="viewtopic_t812_start75.html" role="button">4</a></li>
+			<li class="active"><span>5</span></li>
+				<li><a class="button" href="viewtopic_t812_start125.html" role="button">6</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t812_start125.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="viewforum_f23.html" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à « Débats d'actualité et politique »</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Aller" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Aller</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="viewforum_f3.html" class="jumpbox-cat-link"> <span> Magic: The Gathering</span></a></li>
+																<li><a href="viewforum_f4.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Discussions</span></a></li>
+																<li><a href="viewforum_f5.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nouveautés &amp; Rumeurs</span></a></li>
+																<li><a href="viewforum_f8.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Draft &amp; Scellé</span></a></li>
+																<li><a href="viewforum_f9.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit compétitif</span></a></li>
+																<li><a href="viewforum_f10.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit non compétitif</span></a></li>
+																<li><a href="viewforum_f11.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Autres formats</span></a></li>
+																<li><a href="viewforum_f12.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Questions de règles</span></a></li>
+																<li><a href="viewforum_f13.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Magic Arena &amp; MTGO</span></a></li>
+																<li><a href="viewforum_f6.html" class="jumpbox-cat-link"> <span> Bavardages</span></a></li>
+																<li><a href="viewforum_f7.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Mène-à-Rien</span></a></li>
+																<li><a href="viewforum_f14.html" class="jumpbox-cat-link"> <span> Forums privés</span></a></li>
+																<li><a href="viewforum_f23.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Débats d'actualité et politique</span></a></li>
+																<li><a href="viewforum_f17.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Sports</span></a></li>
+																<li><a href="viewforum_f26.html" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Paris sportifs</span></a></li>
+																<li><a href="viewforum_f15.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Cinéma</span></a></li>
+																<li><a href="viewforum_f18.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Séries</span></a></li>
+																<li><a href="viewforum_f19.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Musique</span></a></li>
+																<li><a href="viewforum_f20.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Littérature - BD - Mangas</span></a></li>
+																<li><a href="viewforum_f21.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux vidéo</span></a></li>
+																<li><a href="viewforum_f22.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux de société</span></a></li>
+																<li><a href="viewforum_f16.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Loup-Garou</span></a></li>
+																<li><a href="viewforum_f27.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Secret Santa</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php?sid=929d7010353f40f53e5ffe01dedbffc9.html">Qui est en ligne ?</a></h3>
+		<p>Utilisateurs parcourant ce forum : Aucun utilisateur inscrit et 1 invité</p>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="index.html" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Accueil du forum</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+02:00</span></li>
+							<li class="rightside">
+				<a href="/app.php.html" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="La liste complète des membres du forum" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+				</a>
+			</li>
+							</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.php.html">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+		<p class="footer-row">
+			Prosilver Dark Edition by <a href="http://www.planetstyles.net/">Premium phpBB Styles</a>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.php.html">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+				<br>MTGVerse est un contenu de fan non officiel autorisé dans le cadre de la Politique des contenus de fans.
+<br>Ni approuvé, ni promu par Wizards. Certaines parties des matériaux utilisés sont la propriété de Wizards of the Coast.
+<br>©Wizards of the Coast LLC.		<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery-3.7.1.min.js?assets_version=128"></script>
+<script src="./assets/javascript/core.js?assets_version=128"></script>
+
+
+
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=128"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=128"></script>
+
+
+
+</body>
+</html>

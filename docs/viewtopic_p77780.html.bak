@@ -1,0 +1,2763 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>BIOTOPES, une édition française - Page 3 - MTGVerse</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - MTGVerse" href="/app.php.html">			<link rel="alternate" type="application/atom+xml" title="Flux - Nouveaux sujets" href="/app.php.html">		<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Jeux de société" href="/app.php.html">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujet - BIOTOPES, une édition française" href="/app.php.html">	
+	<link rel="canonical" href="viewtopic_t1212.html">
+
+<!--
+	phpBB style name: Prosilver (Dark Edition)
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by: PlanetStyles.net ( http://www.planetstyles.net)
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/stylesheet.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/fr/stylesheet.css?assets_version=128" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver_dark/theme/tweaks.css?assets_version=128" rel="stylesheet">
+<![endif]-->
+
+		<meta name="MAS" content="Member Avatar & Status [MAS]=Dark❶ [dark1]" />
+<style type="text/css">
+    .mention {
+        color: #ff4500;
+    }
+</style>
+<link href="./ext/dark1/memberavatarstatus/styles/all/theme/mas_header.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_background.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_mobile.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/paul999/mention/styles/all/theme/mention.css?assets_version=128" rel="stylesheet" media="screen">
+
+<link href="./styles/prosilver_dark/theme/colours/grey.css?assets_version=128" rel="stylesheet">
+
+<style>
+	.mas-status-dot.mas-color {
+		background-color: #000000;
+	}
+	.mas-status-dot.mas-color:after {
+		background-color: #000000;
+	}
+	.mas-status-online .mas-status-dot.mas-color {
+		background-color: #00FF00;
+	}
+	.mas-status-online .mas-status-dot.mas-color:after {
+		background-color: #00FF00;
+	}
+</style>
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+/* Responsive header banner: show only the full banner on desktop and the mobile one on small screens. */
+.banner-header { text-align: center; margin: 0 auto; }
+.banner-header .header-banner img, .banner-header .mobile-header-banner img { display:block; max-width:100%; height:auto; margin:0 auto; }
+/* hide mobile banner on desktop */
+.banner-header .mobile-header-banner { display: none; }
+/* show mobile banner only on small screens and hide full banner there */
+@media only screen and (max-width: 700px) {
+  .banner-header .mobile-header-banner { display: block !important; }
+  .banner-header .header-banner { display: none !important; }
+}
+/* Hide the style name and other small theme credit labels which were left in the static export */
+/* Hide the style name and other small theme credit labels which were left in the static export */
+.copyright .footer-row, .site_logo::before, .style-name, .prosilver-label { display: none !important; }
+/* Additional header selectors to hide ProSilver label/logo left by theme in header */
+.site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
+/* Hide posting / reply / new topic / registration / login controls on static site */
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+/* Hide reply/quote links inside posts */
+a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
+/* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
+#hidden { display: none !important; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="index.html" title="Accueil du forum"><span class="site_logo"></span></a>
+				<h1>MTGVerse</h1>
+				<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									<div class="banner-header">
+<div id="hidden">
+	<h1>MTGVerse</h1>
+	<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+	<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+</div>
+<div class="header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="header-banner" src="https://mtgverse.com/images/banner_full.jpg" alt="Accueil du forum" ></a>
+	</div>
+<div class="mobile-header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="mobile-header-banner" src="https://mtgverse.com/images/banner_700.jpg" alt="Accueil du forum" ></a>
+	</div>
+</div>
+
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.html?search_id=unanswered&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Sujets sans réponse</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.html?search_id=active_topics&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Sujets actifs</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Rechercher</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php.html" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewtopic.php.html" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="index.html" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Accueil du forum</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="14"><a itemprop="item" href="viewforum_f14.html"><span itemprop="name">Forums privés</span></a><meta itemprop="position" content="2" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="22"><a itemprop="item" href="viewforum_f22.html"><span itemprop="name">Jeux de société</span></a><meta itemprop="position" content="3" /></span>
+							
+					</li>
+
+		<li id="search-box" class="search-box rightside responsive-hide">
+	<form action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9" method="get" id="search">
+	<fieldset>
+		<input name="keywords" id="keyword" type="search" maxlength="128" title="Rechercher par mots-clés" class="inputbox search tiny" size="20" value="" placeholder="Rechercher…" >
+		<button class="button button-search" type="submit" title="Rechercher">
+		<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+		</button>
+		<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+		<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+		</a>
+	</fieldset>
+</form>
+</li>
+<li class="rightside responsive-search">
+	<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Accéder aux paramètres avancés de la recherche" role="menuitem">
+	<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+	</a>
+</li>
+
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="viewtopic_t1212.html">BIOTOPES, une édition française</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Il n'y a pas que Magic dans la vie<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=1212&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=1212&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t1212.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Rechercher…" />
+				<button class="button button-search" type="submit" title="Rechercher">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</button>
+				<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+				</a>
+				<input type="hidden" name="t" value="1212" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="929d7010353f40f53e5ffe01dedbffc9" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			132 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t1212_start25.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t1212.html>1212</a></li>
+				<li><a class="button" href="viewtopic_t1212_start25.html" role="button">2</a></li>
+			<li class="active"><span>3</span></li>
+				<li><a class="button" href="viewtopic_t1212_start75.html" role="button">4</a></li>
+				<li><a class="button" href="viewtopic_t1212_start100.html" role="button">5</a></li>
+				<li><a class="button" href="viewtopic_t1212_start125.html" role="button">6</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t1212_start75.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p77731" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77731">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_133.jpg" width="150" height="110" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=133&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">263</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:14</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Jess">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Jess</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77731&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77731">
+
+					<h3 class="first">
+						<a href="viewtopic_p77731.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77731&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77731.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a></strong> &raquo; </span><time datetime="2023-03-28T12:08:36+00:00">28 mars 2023, 14:08</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=77729&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p77729"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=58&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Chattard</a> a écrit : <a href="viewtopic_p77729.html" aria-label="Consulter le message cité" data-post-id="77729" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">28 mars 2023, 13:57</span></cite>
+GG !!!<br>
+<br>
+Tu peux remercier @Ngold qui a bien battu le rassemblement des troupes sur le discord ! (ne fréquentant pas ce sous-forum ce serait passé totalement sous le radar sinon).
+</div></blockquote>
+
+T'inkt on a un deal lui et moi à coup de bouteilles de whisky jap' (c'est la tradition)  <img class="smilies" src="./images/smilies/icon_razz.gif" width="15" height="15" alt=":p" title="Razz"></div>
+
+			
+			
+									
+						
+							<div id="sig77731" class="signature">Non !</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77749" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77749">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77749&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77749">
+
+					<h3 >
+						<a href="viewtopic_p77749.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77749&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77749.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2023-03-28T18:20:09+00:00">28 mars 2023, 20:20</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">107%, félicitations <img class="smilies" src="./images/smilies/icon_wink.gif" width="15" height="15" alt=";)" title="Wink"> comme je disais sur le Discord j'hésite un peu vu que mes finances sont pas au paroxysme, et si le prix est amplement justifié, il trigger la réflexion au lieu de l'achat impulsif (et pourtant, je +1 à fond les raisons du cout élevé).<br>
+<br>
+Il me reste 1 jour pour me décider ou non, moins la pression ceci dit maintenant que vous avez réussi le pari <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"><br>
+<br>
+Congratz again, le jeu a l'air bien sympa il me tente fort...</div>
+
+			
+			
+									
+						
+							<div id="sig77749" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77750" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77750">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_52.jpg" width="148" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">Ngold</a>							</dt>
+
+						<dd class="profile-rank">Modérateur</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=52&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1398</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 21:24</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Ngold">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Ngold</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77750&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77750">
+
+					<h3 >
+						<a href="viewtopic_p77750.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77750&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77750.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">Ngold</a></strong> &raquo; </span><time datetime="2023-03-28T20:42:48+00:00">28 mars 2023, 22:42</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=77727&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p77727"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Jess</a> a écrit : <a href="viewtopic_p77727.html" aria-label="Consulter le message cité" data-post-id="77727" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">28 mars 2023, 13:39</span></cite>
+Yeeees, merci les amis  <img class="smilies" src="./images/smilies/eusa_dance.gif" width="27" height="16" alt="\:D/" title="Dancing"> <br>
+<br>
+On aura appris plein de choses sur cette campagne. Hâte que vous puissiez recevoir vos copies et que vous me fassiez vos feedbacks.
+</div></blockquote>
+
+HO GOD YOU MADE IT !!!<br>
+<br>
+J'étais en mode Leeroy Jenkins en me disant que c'était mort mais qu'on allait tout donner quand même et c'est passé, c'est cool !!!<br>
+<br>
+Félicitations, hâte de tester, on postera nos photos !<br>
+<br>
+Et preneur du whisky jap' <img class="smilies" src="./images/smilies/icon_razz.gif" width="15" height="15" alt=":p" title="Razz"></div>
+
+			
+			
+									
+						
+							<div id="sig77750" class="signature">Au début on voulait faire les 10 Commandements, mais on n'avait pas de pyramide. Alors on a voulu faire Autant en emporte le vent, mais on n'avait pas Clark Gabble. Alors on a filmé le chat</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77754" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77754">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77754&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77754">
+
+					<h3 >
+						<a href="viewtopic_p77754.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77754&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77754.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2023-03-28T21:58:41+00:00">28 mars 2023, 23:58</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Je n'ai jamais douté.<br>
+<br>
+ <img class="smilies" src="./images/smilies/moustache.png" width="30" height="30" alt=":moustache:" title="moustache"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77779" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77779">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77779&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77779">
+
+					<h3 >
+						<a href="viewtopic_p77779.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77779&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77779.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2023-03-29T17:04:26+00:00">29 mars 2023, 19:04</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Hop achat de dernière minute, y'a intérêt à ce que ça soit ultime, à ce prix !  <img class="smilies" src="./images/smilies/icon_mrgreen.gif" width="15" height="15" alt=":mrgreen:" title="Mr. Green"> <br>
+<br>
+...et il faut que j'arrête de faire des achats compulsifs alors que j'ai pas trop de thunes  <img class="smilies" src="./images/smilies/icon_redface.gif" width="15" height="15" alt=":oops:" title="Embarassed"></div>
+
+			
+			
+									
+						
+							<div id="sig77779" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77780" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77780">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_59.jpg" width="120" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=59&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">203</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 24 avr. 2021, 02:28</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Tap">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Tap</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77780&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77780">
+
+					<h3 >
+						<a href="viewtopic_p77780.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77780&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77780.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a></strong> &raquo; </span><time datetime="2023-03-29T18:37:44+00:00">29 mars 2023, 20:37</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Partie en cours!</div>
+
+			
+							<dl class="attachbox">
+					<dt>
+						Pièces jointes
+					</dt>
+											<dd>
+			
+		
+				<dl class="file">
+			<dt class="attach-image"><img src="./download/file.php?id=889&amp;sid=929d7010353f40f53e5ffe01dedbffc9" class="postimage" alt="4AA40B8E-0BF4-4CCE-9393-5975F1AF716E.jpeg" onclick="viewableArea(this);" /></dt>
+						<dd>4AA40B8E-0BF4-4CCE-9393-5975F1AF716E.jpeg (626.42 Kio) Consulté 402 fois</dd>
+		</dl>
+		
+		
+			</dd>
+									</dl>
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77781" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77781">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_133.jpg" width="150" height="110" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=133&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">263</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:14</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Jess">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Jess</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77781&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77781">
+
+					<h3 >
+						<a href="viewtopic_p77781.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77781&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77781.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a></strong> &raquo; </span><time datetime="2023-03-29T18:52:06+00:00">29 mars 2023, 20:52</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=77779&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p77779"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Stef</a> a écrit : <a href="viewtopic_p77779.html" aria-label="Consulter le message cité" data-post-id="77779" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">29 mars 2023, 19:04</span></cite>
+Hop achat de dernière minute, y'a intérêt à ce que ça soit ultime, à ce prix !  <img class="smilies" src="./images/smilies/icon_mrgreen.gif" width="15" height="15" alt=":mrgreen:" title="Mr. Green"> <br>
+<br>
+...et il faut que j'arrête de faire des achats compulsifs alors que j'ai pas trop de thunes  <img class="smilies" src="./images/smilies/icon_redface.gif" width="15" height="15" alt=":oops:" title="Embarassed">
+</div></blockquote>
+
+ <img class="smilies" src="./images/smilies/wub.gif" width="16" height="24" alt=":love:" title="Je t'aime !"></div>
+
+			
+			
+									
+						
+							<div id="sig77781" class="signature">Non !</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77785" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77785">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_59.jpg" width="120" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=59&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">203</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 24 avr. 2021, 02:28</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Tap">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Tap</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77785&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77785">
+
+					<h3 >
+						<a href="viewtopic_p77785.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77785&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77785.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a></strong> &raquo; </span><time datetime="2023-03-29T22:31:12+00:00">30 mars 2023, 00:31</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Et partie terminée.<br>
+C’était ma deuxième, j’ai bcp mieux optimisé et j’ai compris comment faire démarrer et alimenter le moteur, c’était cool.<br>
+Je gagne avec 75 points.<br>
+(Bon y’a 2 joueurs qui découvraient et qui se sont galèré)</div>
+
+			
+							<dl class="attachbox">
+					<dt>
+						Pièces jointes
+					</dt>
+											<dd>
+			
+		
+				<dl class="file">
+			<dt class="attach-image"><img src="./download/file.php?id=890&amp;sid=929d7010353f40f53e5ffe01dedbffc9" class="postimage" alt="AE9A2DFC-355B-4DE3-B691-1270AD958FB4.jpeg" onclick="viewableArea(this);" /></dt>
+						<dd>AE9A2DFC-355B-4DE3-B691-1270AD958FB4.jpeg (666.21 Kio) Consulté 379 fois</dd>
+		</dl>
+		
+		
+			</dd>
+									</dl>
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77830" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77830">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_133.jpg" width="150" height="110" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=133&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">263</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:14</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Jess">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Jess</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77830&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77830">
+
+					<h3 >
+						<a href="viewtopic_p77830.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77830&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77830.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a></strong> &raquo; </span><time datetime="2023-03-30T13:42:10+00:00">30 mars 2023, 15:42</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">75 pts c'est pas mal du tout <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"><br>
+Un petit feedback niveau plaisir de jeu ?<br>
+<br>
+La prochaine fois fais-les jouer avec la rivière dont je parle quelques messages au-dessus, ça aide pas mal au début même si ça rallonge la partie.</div>
+
+			
+			
+									
+						
+							<div id="sig77830" class="signature">Non !</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77832" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77832">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_59.jpg" width="120" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=59&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">203</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 24 avr. 2021, 02:28</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Tap">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Tap</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77832&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77832">
+
+					<h3 >
+						<a href="viewtopic_p77832.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77832&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77832.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a></strong> &raquo; </span><time datetime="2023-03-30T14:05:03+00:00">30 mars 2023, 16:05</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">On en a discuté vite fait mais ils ont voté non pour la rivière <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"><br>
+<br>
+Le jeu est très apprécié au club en tout cas, le président en particulier a eu un coup de coeur et fait sa promo dès qu'il en a l'occasion <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"><br>
+<br>
+J'ai que 2 parties au compteur mais perso j'ai pris du plaisir a jouer et je rejouerai sans souci ^^ La mécanique est fluide mais ya suffisamment de profondeur pour avoir envie de rejouer.<br>
+La sur la 2ieme j'ai eu le déclic sur le fait de laisser 1 cube sur chaque espèce pour comboter transfert puis reproduction chaque tour, ca a vraiment tout changé sur la physionomie de ma partie. Et en plus, c'est raccord avec le thème, si tu sollicite trop l'ecosystème, le moteur se grippe <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77841" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77841">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_122.jpeg" width="130" height="149" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Muradin</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=122&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">41</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:56</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Muradin">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Muradin</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77841&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77841">
+
+					<h3 >
+						<a href="viewtopic_p77841.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77841&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77841.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Muradin</a></strong> &raquo; </span><time datetime="2023-03-30T16:50:44+00:00">30 mars 2023, 18:50</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">J'en ai pris un pour moi et un pour l'asso. <br>
+<br>
+GG pour la campagne. Passer de 72% à 135% en trois jours, c'était tendu.<br>
+Le premier retour que je ferai, c'est que 3 semaines pour financer la campagne, ça me paraît court. Mais je n'ai aucune idée du temps moyen d'habitude ^^<br>
+Y aurai pas eu de pub ici, je serai passé à côté du jeu.<br>
+Du coup, dès que j'ai pledge, j'ai arrosé les groupes Facebook de ludistes alsaciens.<br>
+<br>
+En regardant la liste des boutiques partenaires, ça m'a aussi étonné de ne pas voir de pub de leur part.<br>
+Je suis Fungames et Philibert et je n'ai rien vu passer.<br>
+<br>
+Et petite question, pour les cartes, il y en a combien et c'est quel format ?<br>
+Vu que je risque de présenter le’jeu sur un festival dès que je le reçois, il va falloir que j'achète des sleeves avant de recevoir le jeu</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p77858" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile77858">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_133.jpg" width="150" height="110" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=133&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">263</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:14</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Jess">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Jess</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=77858&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content77858">
+
+					<h3 >
+						<a href="viewtopic_p77858.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=77858&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p77858.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a></strong> &raquo; </span><time datetime="2023-03-31T07:15:39+00:00">31 mars 2023, 09:15</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=77841&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p77841"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Muradin</a> a écrit : <a href="viewtopic_p77841.html" aria-label="Consulter le message cité" data-post-id="77841" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">30 mars 2023, 18:50</span></cite>
+J'en ai pris un pour moi et un pour l'asso. <br>
+<br>
+GG pour la campagne. Passer de 72% à 135% en trois jours, c'était tendu.<br>
+Le premier retour que je ferai, c'est que 3 semaines pour financer la campagne, ça me paraît court. Mais je n'ai aucune idée du temps moyen d'habitude ^^<br>
+Y aurai pas eu de pub ici, je serai passé à côté du jeu.<br>
+Du coup, dès que j'ai pledge, j'ai arrosé les groupes Facebook de ludistes alsaciens.<br>
+<br>
+En regardant la liste des boutiques partenaires, ça m'a aussi étonné de ne pas voir de pub de leur part.<br>
+Je suis Fungames et Philibert et je n'ai rien vu passer.<br>
+<br>
+Et petite question, pour les cartes, il y en a combien et c'est quel format ?<br>
+Vu que je risque de présenter le’jeu sur un festival dès que je le reçois, il va falloir que j'achète des sleeves avant de recevoir le jeu
+</div></blockquote>
+
+Les cartes sont standard pour du format "mini", 67x44mm (le gros avantage de la taille, c'est que tu peux faire tenir 5 joueurs sur une seule table sans problème). De tête c'est 88 cartes espèces + 4 cartes biotopes par joueur, soit 108 cartes au total.<br>
+<br>
+Concernant la campagne, 3 semaines c'est a priori standard. Notre CM a organisé une campagne de haut vol, on est passés sur 4 chaines d'influenceurs, on a été repartagés par Lucky Duck Games, on a organisé des jeux concours... on paye juste le fait d'être un nouvel éditeur sur le marché.</div>
+
+			
+			
+									
+						
+							<div id="sig77858" class="signature">Non !</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81392" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81392">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_133.jpg" width="150" height="110" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=133&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">263</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:14</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Jess">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Jess</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81392&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81392">
+
+					<h3 >
+						<a href="viewtopic_p81392.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81392&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81392.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a></strong> &raquo; </span><time datetime="2023-06-06T22:38:09+00:00">07 juin 2023, 00:38</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Hello les gens,<br>
+<br>
+Un mot rapide pour vous dire que le jeu vient de finir d'être imprimé en région parisienne.<br>
+On est en train de traiter l'inclusion des kits deluxe, et tout devrait partir dans les jours qui suivent.<br>
+Pour ceux qui ont commandé, vous avez dû recevoir un email ou un message sur GOTT pour vous inviter à choisir quelle version vous voulez, la collector ou la retail (pour les fans de lapins).<br>
+<br>
+Encore merci pour votre soutien, ça fait chaud au coeur - et j'espère qu'on pourra se lancer une game un de ces quat'  <img class="smilies" src="./images/smilies/wub.gif" width="16" height="24" alt=":love:" title="Je t'aime !"></div>
+
+			
+			
+									
+						
+							<div id="sig81392" class="signature">Non !</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81394" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81394">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81394&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81394">
+
+					<h3 >
+						<a href="viewtopic_p81394.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81394&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81394.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2023-06-07T05:50:49+00:00">07 juin 2023, 07:50</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Cœur avec les doigts.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81396" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81396">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_256.jpg" width="80" height="80" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Crincrin</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=256&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1965</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 20:02</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Crincrin">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Crincrin</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81396&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81396">
+
+					<h3 >
+						<a href="viewtopic_p81396.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81396&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81396.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Crincrin</a></strong> &raquo; </span><time datetime="2023-06-07T06:25:58+00:00">07 juin 2023, 08:25</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=81392&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p81392"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Jess</a> a écrit : <a href="viewtopic_p81392.html" aria-label="Consulter le message cité" data-post-id="81392" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">07 juin 2023, 00:38</span></cite>
+Pour ceux qui ont commandé, vous avez dû recevoir un email ou un message sur GOTT 
+</div></blockquote>
+Si on n'a eu ni l'un ni l'autre il faut s'inquiéter ou il peut y avoir du délai ?</div>
+
+			
+			
+									
+						
+							<div id="sig81396" class="signature">La présidentielle c'est le 251ème étage de la tour céleste des concours de quéquette - Chattard 2021</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81406" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81406">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=80&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_80.gif" width="64" height="64" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=80&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Sacha</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=80&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">223</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:14</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Sacha">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Sacha</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81406&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81406">
+
+					<h3 >
+						<a href="viewtopic_p81406.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81406&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81406.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=80&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Sacha</a></strong> &raquo; </span><time datetime="2023-06-07T07:03:52+00:00">07 juin 2023, 09:03</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">et on est d'accord que si on ne répond rien, c'est qu'on a la collector ? <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81408" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81408">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81408&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81408">
+
+					<h3 >
+						<a href="viewtopic_p81408.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81408&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81408.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2023-06-07T07:10:27+00:00">07 juin 2023, 09:10</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Yep, le formulaire a remplir c'est seulement pour ceux qui ont préco et ne voudraient pas la couverture alternative.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81440" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81440">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81440&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81440">
+
+					<h3 >
+						<a href="viewtopic_p81440.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81440&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81440.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2023-06-07T11:20:46+00:00">07 juin 2023, 13:20</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Normalement chacun a du recevoir cet email ce matin<br>
+
+<blockquote class="uncited"><div>Bonjour à tous !<br>
+<br>
+En attendant de vous montrer de nouvelles photos et vidéos de la production qui suit son cours normalement, un point sur la logistique :<br>
+<br>
+Si tout va bien, Neoludis, notre distributeur, recevra les exemplaires Collector d'ici 10-12 jours et commencera leur envoi dans la foulée.<br>
+Nous allons donc leur envoyer le fichier avec vos adresses postales d'ici la fin de la semaine afin qu'ils puissent anticiper la préparation de ces envois.<br>
+<br>
+Deux informations importantes donc :<br>
+<br>
+    Le choix pour obtenir sa boîte avec la couverture classique est maintenant terminé.<br>
+    Vous avez jusqu'à Vendredi 12h pour modifier votre adresse postale si besoin.<br>
+<br>
+Le fichier sera envoyé à ce moment-là à Neoludis et nous ne pourront plus effectuer de modification.</div></blockquote></div>
+
+			
+			
+									
+						
+							<div id="sig81440" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81441" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81441">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_256.jpg" width="80" height="80" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Crincrin</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=256&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1965</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 20:02</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Crincrin">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Crincrin</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81441&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81441">
+
+					<h3 >
+						<a href="viewtopic_p81441.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81441&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81441.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Crincrin</a></strong> &raquo; </span><time datetime="2023-06-07T11:38:53+00:00">07 juin 2023, 13:38</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Oui j'ai bien reçu ça par la suite, mais ça colle pas au message de <em class="mention">@Jess</em> qui disait qu'on allait pouvoir choisir le design de la boite alors que le message reçu dit que ça n'est plus possible.<br>
+Peu m'importe, je ne comptais pas changer, c'était juste pour signaler.</div>
+
+			
+			
+									
+						
+							<div id="sig81441" class="signature">La présidentielle c'est le 251ème étage de la tour céleste des concours de quéquette - Chattard 2021</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81447" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81447">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81447&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81447">
+
+					<h3 >
+						<a href="viewtopic_p81447.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81447&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81447.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2023-06-07T12:29:03+00:00">07 juin 2023, 14:29</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Le message en question date déjà du mois dernier, tu l'as loupé a priori, puisque le plus récent est bien arrivé dans ta bal.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81468" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81468">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_133.jpg" width="150" height="110" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=133&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">263</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:14</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Jess">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Jess</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81468&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81468">
+
+					<h3 >
+						<a href="viewtopic_p81468.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81468&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81468.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a></strong> &raquo; </span><time datetime="2023-06-07T21:23:39+00:00">07 juin 2023, 23:23</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Alors a priori, les emails de choix de version ont été envoyés aux backers qui ont demandés à recevoir la version retail.<br>
+Donc si vous avez choisi la version collector, c'est bien cette dernière que vous recevrez ! (j'espère que je suis clair)</div>
+
+			
+			
+									
+						
+							<div id="sig81468" class="signature">Non !</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81478" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81478">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=216&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_216.png" width="112" height="112" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=216&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">niarfounet</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=216&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">241</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 12:39</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter niarfounet">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter niarfounet</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81478&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81478">
+
+					<h3 >
+						<a href="viewtopic_p81478.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81478&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81478.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=216&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">niarfounet</a></strong> &raquo; </span><time datetime="2023-06-08T08:32:31+00:00">08 juin 2023, 10:32</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Mais on était pas censé pouvoir voter pour la pochette collector ?<br>
+<br>
+Perso j'ai été assez surpris de recevoir un mail me demandant si je voulais la pochette collector ou la pochette standard mais de jamais avoir été mis au courant pour les votes.<br>
+<br>
+Après, j'aime beaucoup la pochette collector donc je chouine pas trop quand même.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81479" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81479">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_133.jpg" width="150" height="110" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=133&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">263</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:14</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Jess">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Jess</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81479&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81479">
+
+					<h3 >
+						<a href="viewtopic_p81479.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81479&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81479.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=133&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Jess</a></strong> &raquo; </span><time datetime="2023-06-08T08:36:02+00:00">08 juin 2023, 10:36</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=81478&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p81478"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=216&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">niarfounet</a> a écrit : <a href="viewtopic_p81478.html" aria-label="Consulter le message cité" data-post-id="81478" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">08 juin 2023, 10:32</span></cite>
+Mais on était pas censé pouvoir voter pour la pochette collector ?<br>
+<br>
+Perso j'ai été assez surpris de recevoir un mail me demandant si je voulais la pochette collector ou la pochette standard mais de jamais avoir été mis au courant pour les votes.<br>
+<br>
+Après, j'aime beaucoup la pochette collector donc je chouine pas trop quand même.
+</div></blockquote>
+
+Si et on a bien communiqué dessus, que ce soit sur le GOTT ou nos différents réseaux sociaux.<br>
+Désolé si tu l'as raté  <img class="smilies" src="./images/smilies/Hail.sml.gif" width="27" height="22" alt=":amen:" title="amen"></div>
+
+			
+			
+									
+						
+							<div id="sig81479" class="signature">Non !</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81486" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81486">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_256.jpg" width="80" height="80" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Crincrin</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=256&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1965</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 20:02</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Crincrin">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Crincrin</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81486&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81486">
+
+					<h3 >
+						<a href="viewtopic_p81486.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81486&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81486.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Crincrin</a></strong> &raquo; </span><time datetime="2023-06-08T09:30:23+00:00">08 juin 2023, 11:30</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Oui pour le coup j'avais bien eu l'info (même si je ne sais plus comment) pour le vote de l'illustration collector.<br>
+<br>
+Et si je comprends bien c'est donc normal de ne pas voir reçu la proposition de choix par la suite.</div>
+
+			
+			
+									
+						
+							<div id="sig81486" class="signature">La présidentielle c'est le 251ème étage de la tour céleste des concours de quéquette - Chattard 2021</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p81488" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile81488">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=81488&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content81488">
+
+					<h3 >
+						<a href="viewtopic_p81488.html">Re: BIOTOPES, une édition française</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=81488&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p81488.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2023-06-08T09:47:37+00:00">08 juin 2023, 11:47</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Perso j'ai voté (pour celle-là) et j'ai quand même reçu le mail avec le lien du formulaire pour choisir entre les deux versions.  <img class="smilies" src="./images/smilies/icon_mrgreen.gif" width="15" height="15" alt=":mrgreen:" title="Mr. Green"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=1212&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=1212&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t1212.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=1212&amp;start=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les messages</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="s">Sujet</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a" selected="selected">Croissant</option><option value="d">Décroissant</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Aller" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			132 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t1212_start25.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t1212.html>1212</a></li>
+				<li><a class="button" href="viewtopic_t1212_start25.html" role="button">2</a></li>
+			<li class="active"><span>3</span></li>
+				<li><a class="button" href="viewtopic_t1212_start75.html" role="button">4</a></li>
+				<li><a class="button" href="viewtopic_t1212_start100.html" role="button">5</a></li>
+				<li><a class="button" href="viewtopic_t1212_start125.html" role="button">6</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t1212_start75.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="viewforum_f22.html" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à « Jeux de société »</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Aller" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Aller</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="viewforum_f3.html" class="jumpbox-cat-link"> <span> Magic: The Gathering</span></a></li>
+																<li><a href="viewforum_f4.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Discussions</span></a></li>
+																<li><a href="viewforum_f5.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nouveautés &amp; Rumeurs</span></a></li>
+																<li><a href="viewforum_f8.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Draft &amp; Scellé</span></a></li>
+																<li><a href="viewforum_f9.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit compétitif</span></a></li>
+																<li><a href="viewforum_f10.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit non compétitif</span></a></li>
+																<li><a href="viewforum_f11.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Autres formats</span></a></li>
+																<li><a href="viewforum_f12.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Questions de règles</span></a></li>
+																<li><a href="viewforum_f13.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Magic Arena &amp; MTGO</span></a></li>
+																<li><a href="viewforum_f6.html" class="jumpbox-cat-link"> <span> Bavardages</span></a></li>
+																<li><a href="viewforum_f7.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Mène-à-Rien</span></a></li>
+																<li><a href="viewforum_f14.html" class="jumpbox-cat-link"> <span> Forums privés</span></a></li>
+																<li><a href="viewforum_f23.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Débats d'actualité et politique</span></a></li>
+																<li><a href="viewforum_f17.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Sports</span></a></li>
+																<li><a href="viewforum_f26.html" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Paris sportifs</span></a></li>
+																<li><a href="viewforum_f15.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Cinéma</span></a></li>
+																<li><a href="viewforum_f18.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Séries</span></a></li>
+																<li><a href="viewforum_f19.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Musique</span></a></li>
+																<li><a href="viewforum_f20.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Littérature - BD - Mangas</span></a></li>
+																<li><a href="viewforum_f21.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux vidéo</span></a></li>
+																<li><a href="viewforum_f22.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux de société</span></a></li>
+																<li><a href="viewforum_f16.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Loup-Garou</span></a></li>
+																<li><a href="viewforum_f27.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Secret Santa</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php?sid=929d7010353f40f53e5ffe01dedbffc9.html">Qui est en ligne ?</a></h3>
+		<p>Utilisateurs parcourant ce forum : Aucun utilisateur inscrit et 1 invité</p>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="index.html" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Accueil du forum</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+02:00</span></li>
+							<li class="rightside">
+				<a href="/app.php.html" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="La liste complète des membres du forum" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+				</a>
+			</li>
+							</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.php.html">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+		<p class="footer-row">
+			Prosilver Dark Edition by <a href="http://www.planetstyles.net/">Premium phpBB Styles</a>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.php.html">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+				<br>MTGVerse est un contenu de fan non officiel autorisé dans le cadre de la Politique des contenus de fans.
+<br>Ni approuvé, ni promu par Wizards. Certaines parties des matériaux utilisés sont la propriété de Wizards of the Coast.
+<br>©Wizards of the Coast LLC.		<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	<img class="sr-only" aria-hidden="true" src="&#x2F;app.php&#x2F;cron&#x2F;cron.task.core.tidy_sessions&#x3F;sid&#x3D;929d7010353f40f53e5ffe01dedbffc9" width="1" height="1" alt="">
+</div>
+
+<script src="./assets/javascript/jquery-3.7.1.min.js?assets_version=128"></script>
+<script src="./assets/javascript/core.js?assets_version=128"></script>
+
+
+
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=128"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=128"></script>
+
+
+
+</body>
+</html>

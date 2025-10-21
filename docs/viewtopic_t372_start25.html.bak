@@ -1,0 +1,2253 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>[Conseils] Achats - Page 2 - MTGVerse</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - MTGVerse" href="/app.php.html">			<link rel="alternate" type="application/atom+xml" title="Flux - Nouveaux sujets" href="/app.php.html">		<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Jeux de société" href="/app.php.html">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujet - [Conseils] Achats" href="/app.php.html">	
+	<link rel="canonical" href="viewtopic_t372.html">
+
+<!--
+	phpBB style name: Prosilver (Dark Edition)
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by: PlanetStyles.net ( http://www.planetstyles.net)
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/stylesheet.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/fr/stylesheet.css?assets_version=128" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver_dark/theme/tweaks.css?assets_version=128" rel="stylesheet">
+<![endif]-->
+
+		<meta name="MAS" content="Member Avatar & Status [MAS]=Dark❶ [dark1]" />
+<style type="text/css">
+    .mention {
+        color: #ff4500;
+    }
+</style>
+<link href="./ext/dark1/memberavatarstatus/styles/all/theme/mas_header.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_background.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_mobile.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/paul999/mention/styles/all/theme/mention.css?assets_version=128" rel="stylesheet" media="screen">
+
+<link href="./styles/prosilver_dark/theme/colours/grey.css?assets_version=128" rel="stylesheet">
+
+<style>
+	.mas-status-dot.mas-color {
+		background-color: #000000;
+	}
+	.mas-status-dot.mas-color:after {
+		background-color: #000000;
+	}
+	.mas-status-online .mas-status-dot.mas-color {
+		background-color: #00FF00;
+	}
+	.mas-status-online .mas-status-dot.mas-color:after {
+		background-color: #00FF00;
+	}
+</style>
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+/* Responsive header banner: show only the full banner on desktop and the mobile one on small screens. */
+.banner-header { text-align: center; margin: 0 auto; }
+.banner-header .header-banner img, .banner-header .mobile-header-banner img { display:block; max-width:100%; height:auto; margin:0 auto; }
+/* hide mobile banner on desktop */
+.banner-header .mobile-header-banner { display: none; }
+/* show mobile banner only on small screens and hide full banner there */
+@media only screen and (max-width: 700px) {
+  .banner-header .mobile-header-banner { display: block !important; }
+  .banner-header .header-banner { display: none !important; }
+}
+/* Hide the style name and other small theme credit labels which were left in the static export */
+/* Hide the style name and other small theme credit labels which were left in the static export */
+.copyright .footer-row, .site_logo::before, .style-name, .prosilver-label { display: none !important; }
+/* Additional header selectors to hide ProSilver label/logo left by theme in header */
+.site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
+/* Hide posting / reply / new topic / registration / login controls on static site */
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+/* Hide reply/quote links inside posts */
+a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
+/* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
+#hidden { display: none !important; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="index.html" title="Accueil du forum"><span class="site_logo"></span></a>
+				<h1>MTGVerse</h1>
+				<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									<div class="banner-header">
+<div id="hidden">
+	<h1>MTGVerse</h1>
+	<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+	<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+</div>
+<div class="header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="header-banner" src="https://mtgverse.com/images/banner_full.jpg" alt="Accueil du forum" ></a>
+	</div>
+<div class="mobile-header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="mobile-header-banner" src="https://mtgverse.com/images/banner_700.jpg" alt="Accueil du forum" ></a>
+	</div>
+</div>
+
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.html?search_id=unanswered&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Sujets sans réponse</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.html?search_id=active_topics&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Sujets actifs</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Rechercher</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php.html" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewtopic.php.html" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="index.html" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Accueil du forum</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="14"><a itemprop="item" href="viewforum_f14.html"><span itemprop="name">Forums privés</span></a><meta itemprop="position" content="2" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="22"><a itemprop="item" href="viewforum_f22.html"><span itemprop="name">Jeux de société</span></a><meta itemprop="position" content="3" /></span>
+							
+					</li>
+
+		<li id="search-box" class="search-box rightside responsive-hide">
+	<form action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9" method="get" id="search">
+	<fieldset>
+		<input name="keywords" id="keyword" type="search" maxlength="128" title="Rechercher par mots-clés" class="inputbox search tiny" size="20" value="" placeholder="Rechercher…" >
+		<button class="button button-search" type="submit" title="Rechercher">
+		<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+		</button>
+		<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+		<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+		</a>
+	</fieldset>
+</form>
+</li>
+<li class="rightside responsive-search">
+	<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Accéder aux paramètres avancés de la recherche" role="menuitem">
+	<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+	</a>
+</li>
+
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="viewtopic_t372.html">[Conseils] Achats</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Il n'y a pas que Magic dans la vie<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=372&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=372&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t372.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Rechercher…" />
+				<button class="button button-search" type="submit" title="Rechercher">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</button>
+				<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+				</a>
+				<input type="hidden" name="t" value="372" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="929d7010353f40f53e5ffe01dedbffc9" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			44 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t372_start0.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t372.html>372</a></li>
+			<li class="active"><span>2</span></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p71007" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71007">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71007&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71007">
+
+					<h3 class="first">
+						<a href="viewtopic_p71007.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71007&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71007.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-12-02T12:09:38+00:00">02 déc. 2022, 13:09</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Bah 7Wonders Architects. <br>
+En récent et très à la mode il y a Turing Machine.<br>
+Les différents Azul.<br>
+Skyjo.<br>
+The Mind.<br>
+Paquet de Chips.<br>
+<br>
+En gros tout ce qui va être conseillé en tête de gondole dans un random Cultura-like.<br>
+<br>
+Pas pour autant que je les conseillerai.  <img class="smilies" src="./images/smilies/icon_mrgreen.gif" width="15" height="15" alt=":mrgreen:" title="Mr. Green"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p71037" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71037">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=135&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Samish</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=135&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">734</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:23</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Samish">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Samish</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71037&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71037">
+
+					<h3 >
+						<a href="viewtopic_p71037.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71037&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71037.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=135&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Samish</a></strong> &raquo; </span><time datetime="2022-12-02T16:48:34+00:00">02 déc. 2022, 17:48</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">J'ai un peu décroché cette année, ça y'est j'ai l'overdose des nouveautés, j'ai quasi que joué à des trucs que j'avais déjà...<br>
+<br>
+Cela dit, tu peux mater la vidéo des meilleures ventes de l'année du Passe-Temps pour avoir des idées:<br>
+<br>
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/9OZa-XLxT0E/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/9OZa-XLxT0E"></iframe></span></span></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p71046" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71046">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_161.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Niluje</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=161&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">897</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:12</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Niluje">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Niluje</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71046&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71046">
+
+					<h3 >
+						<a href="viewtopic_p71046.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71046&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71046.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Niluje</a></strong> &raquo; </span><time datetime="2022-12-02T22:02:41+00:00">02 déc. 2022, 23:02</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">J'ai bien aimé 7 wonders architect (testé que sur BGA), jouable en duel ou à plus (7 max je crois).</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p71048" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71048">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=74&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_74.jpg" width="74" height="94" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=74&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Magicovore</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=74&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">336</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 02:05</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Magicovore">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Magicovore</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71048&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71048">
+
+					<h3 >
+						<a href="viewtopic_p71048.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71048&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71048.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=74&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Magicovore</a></strong> &raquo; </span><time datetime="2022-12-02T23:52:26+00:00">03 déc. 2022, 00:52</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Si vous n'avez pas encore So Clover et/ou Fiesta de los Muertos dans les jeux d'association d'idées c'est pas vraiment utile d'acheter autre chose même si c'est pas des vraies nouveautés.<br>
+<br>
+7Wonders Architects vous risquez quand même de vous faire chier très fort si vous déjà craqué un fetch après un brainstorm. C'est un jeu qui est là pour permettre à un public néophyte de découvrir le loisir mais c'est à mettre à côté d'Aventuriers du Rail et Kingdomino (ce dernier offrant quand même un peu plus d'intérêt pour des gamers).<br>
+<br>
+Akropolis est pas mal pour rassembler un public un peu joueur et un public un peu casu dans les trucs récents. C'est un jeu de pose de tuiles à la Kingdomino en un peu moins léger (principalement les tuiles ont plus de cases et on peut construire des étages pour marquer plus de points).</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p71049" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71049">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71049&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71049">
+
+					<h3 >
+						<a href="viewtopic_p71049.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71049&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71049.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2022-12-03T00:51:26+00:00">03 déc. 2022, 01:51</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Merci pour vos premières réponses déjà, je vais tacher d'éplucher ça <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"><br>
+<br>
+Pour 7Wonders Architects, y'a des chances pour que ça ne soit pas un jeu 2022. Hint : on me l'a offert en 2021. Et +1 ça se rangerait plutôt au rayon Kingdomino.</div>
+
+			
+			
+									
+						
+							<div id="sig71049" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p71050" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71050">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_59.jpg" width="120" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=59&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">203</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 24 avr. 2021, 02:28</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Tap">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Tap</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71050&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71050">
+
+					<h3 >
+						<a href="viewtopic_p71050.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71050&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71050.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a></strong> &raquo; </span><time datetime="2022-12-03T01:25:09+00:00">03 déc. 2022, 02:25</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">+1 pour akropolis qui est très sympa tout en restant dans le familial.<br>
+<br>
+7wonders architect j'ai testé 1 fois et j'ai vomi. Ca touche très bien sa cible, dont je ne fais assurément pas partie. C'est joli, les règles sont simples, tout en n'ayant aucun intérêt ludique a mes yeux ^^ je pick tous les jours kingdomino au dessus si je veux jouer avec des enfants ou mes parents pour le coup.<br>
+<br>
+turing machine, testé a essen, le concept est cool mais j'ai un peu peur que ca soit un peu frustrant si le niveau est pas homogène. cad que si le niveau de reflexion moyen du forum joue avec des casu, les casu ont aucune chance. et je pense que ca peut du coup être assez peu amusant pour eux.<br>
+<br>
+living forest est aussi pas mal plébiscité, même si je ne suis pas non plus la cible.<br>
+<br>
+en belle découverte à essen, Challengers! revisite un peu le deckbuilding en mode "auto-chess", cad que tu construit ton deck mais le combat se résout en mode automatique (modulo certain pouvoirs qui influent un peu sur le stacking de ton deck). ca a l'avantage de très bien se jouer jusqu'à 8 joueurs (c'est du 1v1 avec un pseudo système de ronde suisses intégré) tout en étant pas très long (je dirais 30-45min la partie complète).</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p71051" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71051">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=74&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_74.jpg" width="74" height="94" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=74&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Magicovore</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=74&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">336</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 02:05</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Magicovore">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Magicovore</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71051&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71051">
+
+					<h3 >
+						<a href="viewtopic_p71051.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71051&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71051.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=74&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Magicovore</a></strong> &raquo; </span><time datetime="2022-12-03T02:08:59+00:00">03 déc. 2022, 03:08</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Je plussoie le post de tap, avec Turing Machine qui devrait plaire au mtgversien moyen mais à ne pas sortir avec des moldus et living forest qui devrait vous décevoir (je m'explique moyennement le succès de ce jeu qui me semble assez injouable si la table joue correctement, mais je suppose que ça doit pas arriver souvent, je pense qu'il plait surtout pour la combo thème/visuel/matos/diégétique même si je le trouve seulement okay+ sur ces aspects).<br>
+<br>
+Tu m'as bien hypé sur Challengers! qui, s'il tourne bien, peut cocher plein de cases intéressantes d'un point de vue produit et game design (amplitude du nombre de joueur, originalité, rythme, tension, challenge, complexité), un autobattler en board game qui reproduit des matchs comme Storybook Brawl ça peut vraiment être le feu, et ça existait pas jusqu'ici.<br>
+Il a l'air très moche c'est dommage, mais je vais le tester dès que j'en aurai l'occasion (donc probablement en mai  <img class="smilies" src="./images/smilies/eusa_whistle.gif" width="22" height="16" alt=":-+" title="Whistle">).</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p71055" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71055">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71055&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71055">
+
+					<h3 >
+						<a href="viewtopic_p71055.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71055&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71055.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2022-12-03T08:04:53+00:00">03 déc. 2022, 09:04</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ah mais j'avais mal compris lanquestion en fait, fallait argumenter et pas sortir une liste brute des trucs à la mode ?<br>
+Nan parce que je ne conseille aucun des jeux que j'ai cité hein.  <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"><br>
+<br>
+L'exemple de Turing Machine est assez concret : c'est un joli jeu, petit bijou de conception, vraiment de la belle ouvrage mais faut pas se leurrer c'est "juste" un Mastermind de notre enfance (très) amélioré, avec absolument zéro interaction entre joueurs et zéro ambiance.<br>
+Parfait en one-shot pour découvrir et apprécier le taf réalisé par les concepteurs, mais du coup adapté à une assoc ou un bar à jeu. Ça n'a rien à faire dans les étagères d'un particulier, imo, malgré l'excellente critique générale. <br>
+Malheureusement c'est le cas d'au moins la moitié des sorties à l'année.<br>
+<br>
+Non s'il faut être dans le conseil brut, en jeu accessible sorti cette année, s'il faut en choisir un seul je conseille <strong class="text-strong"> Cascadia</strong> à mes proches.<br>
+<br>
+On est d'accord que tu ne demandes pas des jeux experts à 60 boules et +, 1h de mise en place et d'explication, 3h de partie ?</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p71062" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile71062">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=137&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">WordsRWords</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=137&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">166</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:25</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter WordsRWords">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter WordsRWords</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=71062&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content71062">
+
+					<h3 >
+						<a href="viewtopic_p71062.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=71062&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p71062.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=137&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">WordsRWords</a></strong> &raquo; </span><time datetime="2022-12-03T13:50:44+00:00">03 déc. 2022, 14:50</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">+1 sur Akropolis MVP cette année pour rassembler<br>
+<br>
+Édit: Pour développer, j'ai initié du geek niveau TFM, des amateurs jeux d'apéro/jeux midrange et ma tendre mère qui ne jure que pas les petits chevaux et aventuriers du rail regular, toujours avec le même succès.<br>
+Peut être un petit bémol quand un seul des joueurs commence à savoir évaluer ses scores potentiels vite, mais s'orienter achievement pour les expérimentés peut corriger ça.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p73825" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile73825">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=73825&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content73825">
+
+					<h3 >
+						<a href="viewtopic_p73825.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=73825&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p73825.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2023-01-16T21:03:40+00:00">16 janv. 2023, 22:03</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ca vaut quoi le nouveau jeu de Riri Garfield : "MindBug" ? C'est sorti aux US, non ?</div>
+
+			
+			
+									
+						
+							<div id="sig73825" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p73826" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile73826">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=383&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_383.jpg" width="150" height="107" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=383&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Gilles</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=383&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1063</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 28 mai 2021, 18:25</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Gilles">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Gilles</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=73826&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content73826">
+
+					<h3 >
+						<a href="viewtopic_p73826.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=73826&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p73826.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=383&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Gilles</a></strong> &raquo; </span><time datetime="2023-01-16T21:07:02+00:00">16 janv. 2023, 22:07</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Kickstarté et reçu y a quelques mois. C'est pas ouf. Sur les quelques parties que j'ai fait, certaines combos de cartes sont simplement imbattables et entrainent des fins de game absolument pas drôle. Peut être qu'après quelques parties de plus, j'aurais pu mieux apprécié mais ça a pas trop convaincu autour de moi donc pas retest.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p73828" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile73828">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_59.jpg" width="120" height="100" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=59&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">203</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 24 avr. 2021, 02:28</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Tap">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Tap</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=73828&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content73828">
+
+					<h3 >
+						<a href="viewtopic_p73828.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=73828&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p73828.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tap</a></strong> &raquo; </span><time datetime="2023-01-16T22:06:41+00:00">16 janv. 2023, 23:06</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">je crois que mes potes l'ont ramené d'essen ya 1 an et demi <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"><br>
+<br>
+Perso j'aime bien, après oui ya des setup ou tu va pas pouvoir t'en sortir même en faisant les bons choix, mais bon la partie dure 15min max donc c'est pas bien grave.<br>
+<br>
+C'est un bon jeu pour combler un temps mort.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p78019" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile78019">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_122.jpeg" width="130" height="149" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Muradin</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=122&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">41</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:56</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Muradin">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Muradin</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=78019&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content78019">
+
+					<h3 >
+						<a href="viewtopic_p78019.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=78019&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p78019.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Muradin</a></strong> &raquo; </span><time datetime="2023-04-03T11:59:56+00:00">03 avr. 2023, 13:59</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Hello,<br>
+<br>
+Avec mon asso, on va organiser un festival de jeux les 10 et 11 juin.<br>
+On a déjà pas mal réfléchi à la liste des jeux qu'on veut proposer. <br>
+On est déjà très bien loti en jeux experts et initiés qui sont sortis cette année. <br>
+Pour les jeux enfants et famille, on a regardé ce qui avait gagné des prix récemment, et on va pouvoir emprunter un bon nombre à notre boutique partenaire, dont les nommés aux As d’or.<br>
+<br>
+Mais par le plus grand des hasards, est-ce que vous auriez des petites pépites à nous conseiller qui seraient passées sous les radars, ou sorties depuis le FIJ ou qui ont une sortie de prévue d'ici juin ?<br>
+<br>
+Le cahier des charges :<br>
+- Public : de préférence enfant ou famille, mais si vous avez une suggestion initié ou expert, il ne faut pas hésiter non plus <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"><br>
+- Sortie : de préférence entre février 2023 et juin 2023, mais on peut remonter à juin 2022<br>
+- Durée : pas plus de 3h la partie, explication de règles incluses. En dehors des tables expert sur lesquelles on fait sauter cette limite, on aimerait bien que les gens tournent pour pouvoir tester plein de jeux<br>
+- Type de jeu : on veut éviter les jeux évolutifs ou de campagne<br>
+- Langue : française obligatoire<br>
+<br>
+Les jeux récents qu'on va proposer :<br>
+<span class="spoiler-inline-js"><input type="button" value="Spoiler" class="button2" style="font-size:10px;padding:0 3px;border-radius:2px" onclick="nextSibling.style.display = nextSibling.style.display==='none' ? 'block' : 'none';"><div style="margin-top:3px;padding:5px;border:1px dotted darkgray;display:none">Sabika<br>
+Carnegie<br>
+Tiletum<br>
+Marrakesh (en espérant que le jeu sorte avant le festival)<br>
+Coffee Traders<br>
+Imperial Steam<br>
+Ark Nova<br>
+Biotopes (en espérant que le jeu sorte avant le festival)<br>
+Rauha<br>
+Mech a dream<br>
+Les tribus du vent<br>
+Turing Machine<br>
+King of Monster Island<br>
+Tiwanaku<br>
+Heat: Pedal to the Metal<br>
+les animaux de Baker Street<br>
+Maudit mot dit<br>
+That's Not a Hat<br>
+Splendor Duel<br>
+Mindbug: First Contact<br>
+Challengers !<br>
+Akropolis<br>
+Les tours ambulantes<br>
+Mantis<br>
+Tentacolor<br>
+Hâpy Families<br>
+La Colline aux feux follets<br>
+<br>
+(On a écarté Alice Is Missing parce qu'il nous semble compliqué à jouer et apprécier en festival)<br>
+</div></span><br>
+<br>
+Merci d'avance  <img class="smilies" src="./images/smilies/Hail.sml.gif" width="27" height="22" alt=":amen:" title="amen"></div>
+
+			
+			
+													<div class="notice">
+					Dernière modification par <a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Muradin</a> le 03 avr. 2023, 16:31, modifié 1 fois.
+									</div>
+			
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p78036" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile78036">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=135&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Samish</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=135&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">734</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:23</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Samish">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Samish</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=78036&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content78036">
+
+					<h3 >
+						<a href="viewtopic_p78036.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=78036&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p78036.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=135&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Samish</a></strong> &raquo; </span><time datetime="2023-04-03T13:07:39+00:00">03 avr. 2023, 15:07</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">En dehors de ta liste, trois suggestions:<br>
+<br>
+- En initié (mais très accessible) : <strong class="text-strong">After Us</strong>, chez Catch Up Games. Du deckbuilding bien cool, avec une petite part de chaos. Après en avoir fait une partie, j'avais juste envie d'en refaire une, et ce n'est pas souvent que ça arrive. <a href="https://www.trictrac.net/jeu-de-societe/after-us" class="postlink" target="_blank" rel="noopener noreferrer nofollow">https://www.trictrac.net/jeu-de-societe/after-us</a><br>
+<br>
+- En très familial : <strong class="text-strong">Happy Bee</strong>, chez Helvetiq. Les auteurs sont des copains, mais pas besoin de ça pour que j'apprécie le jeu. Un jeu de majorité assez malin où l'on va parfois jouer nos cartes pour tenter de gagner des points, parfois pour préparer le coup suivant. Car une fois joué, on reprend ces cartes en main, et on passe les cartes non jouées à notre voisin. C'est très rapide à prendre en main, il y a une part de chance mais aussi moyen d'optimiser. A 5 ou 6 ça couine assez souvent. <a href="https://www.trictrac.net/jeu-de-societe/happy-bee" class="postlink" target="_blank" rel="noopener noreferrer nofollow">https://www.trictrac.net/jeu-de-societe/happy-bee</a><br>
+<br>
+- En familial : <strong class="text-strong">Kites</strong>. Un coopératif où on doit collectivement se débarrasser de toutes nos cartes. Oui mais les cartes ont des couleurs identiques à des sabliers posés sur la table. A chaque fois qu'on joue une carte, on retourne les sablier correspondants. Si un sablier se vide complétement on a perdu. Je n'y ai pas encore joué, mais j'ai très envie de tester, et ça me parait un parfait jeu de festival. <a href="https://www.trictrac.net/jeu-de-societe/kites" class="postlink" target="_blank" rel="noopener noreferrer nofollow">https://www.trictrac.net/jeu-de-societe/kites</a></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p78038" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile78038">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_90.png" width="128" height="128" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a>							</dt>
+
+						<dd class="profile-rank">Membré</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=90&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">5758</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:17</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Kaptain">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Kaptain</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=78038&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content78038">
+
+					<h3 >
+						<a href="viewtopic_p78038.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=78038&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p78038.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kaptain</a></strong> &raquo; </span><time datetime="2023-04-03T13:22:46+00:00">03 avr. 2023, 15:22</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Alors ma première réflexion à la vue de votre liste préliminaire, c'est que "moins de 3h règles incluses" ça ne matche pas avec une paire de vos plus gros jeux.<br>
+N'oubliez pas qu'un public de festival est majoritairement moins affûté qu'un public de membres réguliers d'une assoc.<br>
+À ce titre un Coffee Traders (par exemple) en moins de 3h règles incluses c'est totalement illusoire, imo.<br>
+Néanmoins il peut être intéressant de présenter de tels jeux, puisque (toujours avec l'exemple de Coffee Traders) ils peuvent constituer des curiosités ludiques attractives pour un groupe de joueurs confirmés : le jeu étant rare, tous les potentiels joueurs "affûtés" ne l'ont pas forcément eu en main malgré eux.<br>
+C'est peut-être d'ailleurs votre raisonnement !<br>
+<br>
+<strong class="text-strong">Kites</strong> : Excellent jeu de festival, il est original, facile à prendre en main, rapide (donc il peut énormément tourner), et t'as pas franchement envie d'en faire plus de 3 parties dans ta vie.  <img class="smilies" src="./images/smilies/icon_mrgreen.gif" width="15" height="15" alt=":mrgreen:" title="Mr. Green"><br>
+<br>
+Je vous propose <strong class="text-strong">Earth</strong> en initié/expert (la frontière est floue hein), qui sort incessamment sous peu (les KS sont livrés cette semaine, et dans la foulée en boutique). J'en suis tombé amoureux, j'y ai déjà joué une trentaine de fois sur BGA. C'est assez jouissif dans le genre génération de moteur débridé et assumé. <br>
+<br>
+<strong class="text-strong">Phantom Ink</strong> dans la gamme des jeux de mots à deviner (faut toujours en avoir un à proposer !). Le plus convaincant auquel j'ai joué depuis des années : pas de temps mort pendant lequel tu attends, puisque les deux équipes doivent réfléchir en même temps sur les même indices.<br>
+<br>
+Contrairement à Samish je n'ai pas aimé <strong class="text-strong">After Us</strong>, où l'interaction est vraiment totalement absente !<br>
+<br>
+On m'a dit le plus grand bien de <strong class="text-strong">Voyageurs du Tigre du Sud</strong> mais pas encore testé.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p78058" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile78058">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_122.jpeg" width="130" height="149" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Muradin</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=122&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">41</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:56</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Muradin">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Muradin</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=78058&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content78058">
+
+					<h3 >
+						<a href="viewtopic_p78058.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=78058&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p78058.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=122&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Muradin</a></strong> &raquo; </span><time datetime="2023-04-03T14:30:41+00:00">03 avr. 2023, 16:30</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=78038&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p78038"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Kaptain</a> a écrit : <a href="viewtopic_p78038.html" aria-label="Consulter le message cité" data-post-id="78038" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">03 avr. 2023, 15:22</span></cite>
+Alors ma première réflexion à la vue de votre liste préliminaire, c'est que "moins de 3h règles incluses" ça ne matche pas avec une paire de vos plus gros jeux.</div></blockquote>
+À la relecture, c'est pas très clair effectivement ^^.<br>
+La limite de 3h, on la fait sauter sur les jeux experts. Désolé pour le manque de clarté <img class="smilies" src="./images/smilies/eusa_angel.gif" width="15" height="15" alt="O:)" title="Angel"> <br>
+Merci pour les premiers retours. Je regarde et je note ça sur notre liste.<br>
+<br>
+Ah et parmi les jeux listés, on va en avoir une partie qui sera présenté sur table fixe tout au long du week-end.<br>
+Ceux qui ne passeront pas le cut de la sélection finale iront rejoindre les jeux plus anciens dans la section jeux en libre-service ou chacun pourra aller chercher un jeu et jouer sur une table qui n'est pas réservée pour un jeu fixe. <br>
+Et dans cette section jeux en libre-service, on va retrouver pas mal de classiques enfant, famille, apero games, party games, ...<br>
+Le but de la section jeux fixes est de mettre en avant les nouveautés et les jeux récompensés en ayant un bénévole par lot de 2 ou 3 jeux qui va expliquer les règles.<br>
+Alors que dans la partie jeux libre-services, on va avoir tendance à avoir de jeux où les gens peuvent lire les règles eux-mêmes, même si il va y avoir des bénévoles pour les aider si besoin.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p78069" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile78069">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=135&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Samish</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=135&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">734</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:23</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Samish">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Samish</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=78069&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content78069">
+
+					<h3 >
+						<a href="viewtopic_p78069.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=78069&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p78069.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=135&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Samish</a></strong> &raquo; </span><time datetime="2023-04-03T15:40:01+00:00">03 avr. 2023, 17:40</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=78038&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p78038"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=90&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Kaptain</a> a écrit : <a href="viewtopic_p78038.html" aria-label="Consulter le message cité" data-post-id="78038" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">03 avr. 2023, 15:22</span></cite>
+<br>
+Contrairement à Samish je n'ai pas aimé <strong class="text-strong">After Us</strong>, où l'interaction est vraiment totalement absente !<br>
+
+</div></blockquote>
+
+Ah oui, j'ai pas pensé à préciser ça <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile">. Après, un de mes jeux préférés est Race For The Galaxy, donc pas étonnant que l'absence d'interaction ne me rebute pas tant que ça tant que c'est compensé par de la combo dans tous les sens, mais c'est vrai que ça peut être un repoussoir pour d'autres personnes. D'ailleurs j'ai beaucoup aimé Rauha récemment qui m'a fait une impression similaire (on combote et on optimise en fonction d'un nombre limité de choix), et j'ai des collègues de jeu qui ne l'aiment pas pour cette même raison.<br>
+<br>
+Ceci dit, ça en fait un intérêt de plus en festival : les jeux très clivants expliqués en 10 min et joués en 30-45, c'est cool de pouvoir les tester en festoche pour savoir si on est team Kaptain ou team Samish.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p80563" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile80563">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=105&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_105.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=105&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Lenteric</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=105&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">858</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:09</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Lenteric">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Lenteric</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=80563&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content80563">
+
+					<h3 >
+						<a href="viewtopic_p80563.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=80563&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p80563.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=105&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Lenteric</a></strong> &raquo; </span><time datetime="2023-05-26T21:22:18+00:00">26 mai 2023, 23:22</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Hello, si quelqu’un peut m’aider, je recherche une boîte de D&amp;D boîte bleue à acheter…<br>
+<br>
+A votre bon cœur.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p91152" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile91152">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_119.jpg" width="102" height="136" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Xuelynom</a>							</dt>
+
+						<dd class="profile-rank">Calembourrin</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=119&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1179</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:49</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Xuelynom">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Xuelynom</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=91152&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content91152">
+
+					<h3 >
+						<a href="viewtopic_p91152.html">Re: [Conseils] Achats</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=91152&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p91152.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=119&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Xuelynom</a></strong> &raquo; </span><time datetime="2023-12-29T21:46:26+00:00">29 déc. 2023, 22:46</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=71050&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p71050"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=59&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Tap</a> a écrit : <a href="viewtopic_p71050.html" aria-label="Consulter le message cité" data-post-id="71050" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">03 déc. 2022, 02:25</span></cite>
+<br>
+7wonders architect j'ai testé 1 fois et j'ai vomi. Ca touche très bien sa cible, dont je ne fais assurément pas partie. C'est joli, les règles sont simples, tout en n'ayant aucun intérêt ludique a mes yeux ^^ je pick tous les jours kingdomino au dessus si je veux jouer avec des enfants ou mes parents pour le coup.<br>
+<br>
+
+</div></blockquote>
+
+J etais persuadé en avoir lu du bien ici<br>
+<br>
+J aurais du vérifier.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=372&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=372&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t372.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=372&amp;start=25&amp;sid=929d7010353f40f53e5ffe01dedbffc9">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les messages</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="s">Sujet</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a" selected="selected">Croissant</option><option value="d">Décroissant</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Aller" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			44 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t372_start0.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t372.html>372</a></li>
+			<li class="active"><span>2</span></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="viewforum_f22.html" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à « Jeux de société »</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Aller" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Aller</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="viewforum_f3.html" class="jumpbox-cat-link"> <span> Magic: The Gathering</span></a></li>
+																<li><a href="viewforum_f4.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Discussions</span></a></li>
+																<li><a href="viewforum_f5.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nouveautés &amp; Rumeurs</span></a></li>
+																<li><a href="viewforum_f8.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Draft &amp; Scellé</span></a></li>
+																<li><a href="viewforum_f9.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit compétitif</span></a></li>
+																<li><a href="viewforum_f10.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit non compétitif</span></a></li>
+																<li><a href="viewforum_f11.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Autres formats</span></a></li>
+																<li><a href="viewforum_f12.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Questions de règles</span></a></li>
+																<li><a href="viewforum_f13.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Magic Arena &amp; MTGO</span></a></li>
+																<li><a href="viewforum_f6.html" class="jumpbox-cat-link"> <span> Bavardages</span></a></li>
+																<li><a href="viewforum_f7.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Mène-à-Rien</span></a></li>
+																<li><a href="viewforum_f14.html" class="jumpbox-cat-link"> <span> Forums privés</span></a></li>
+																<li><a href="viewforum_f23.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Débats d'actualité et politique</span></a></li>
+																<li><a href="viewforum_f17.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Sports</span></a></li>
+																<li><a href="viewforum_f26.html" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Paris sportifs</span></a></li>
+																<li><a href="viewforum_f15.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Cinéma</span></a></li>
+																<li><a href="viewforum_f18.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Séries</span></a></li>
+																<li><a href="viewforum_f19.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Musique</span></a></li>
+																<li><a href="viewforum_f20.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Littérature - BD - Mangas</span></a></li>
+																<li><a href="viewforum_f21.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux vidéo</span></a></li>
+																<li><a href="viewforum_f22.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux de société</span></a></li>
+																<li><a href="viewforum_f16.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Loup-Garou</span></a></li>
+																<li><a href="viewforum_f27.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Secret Santa</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php?sid=929d7010353f40f53e5ffe01dedbffc9.html">Qui est en ligne ?</a></h3>
+		<p>Utilisateurs parcourant ce forum : Aucun utilisateur inscrit et 1 invité</p>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="index.html" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Accueil du forum</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+02:00</span></li>
+							<li class="rightside">
+				<a href="/app.php.html" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="La liste complète des membres du forum" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+				</a>
+			</li>
+							</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.php.html">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+		<p class="footer-row">
+			Prosilver Dark Edition by <a href="http://www.planetstyles.net/">Premium phpBB Styles</a>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.php.html">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+				<br>MTGVerse est un contenu de fan non officiel autorisé dans le cadre de la Politique des contenus de fans.
+<br>Ni approuvé, ni promu par Wizards. Certaines parties des matériaux utilisés sont la propriété de Wizards of the Coast.
+<br>©Wizards of the Coast LLC.		<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery-3.7.1.min.js?assets_version=128"></script>
+<script src="./assets/javascript/core.js?assets_version=128"></script>
+
+
+
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=128"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=128"></script>
+
+
+
+</body>
+</html>

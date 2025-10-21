@@ -1,0 +1,1406 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Mène-à-Rien - Page 5 - MTGVerse</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - MTGVerse" href="/app.php.html">			<link rel="alternate" type="application/atom+xml" title="Flux - Nouveaux sujets" href="/app.php.html">		<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Mène-à-Rien" href="/app.php.html">		
+	<link rel="canonical" href="viewforum_f7.html">
+
+<!--
+	phpBB style name: Prosilver (Dark Edition)
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by: PlanetStyles.net ( http://www.planetstyles.net)
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/stylesheet.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/fr/stylesheet.css?assets_version=128" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver_dark/theme/tweaks.css?assets_version=128" rel="stylesheet">
+<![endif]-->
+
+		<meta name="MAS" content="Member Avatar & Status [MAS]=Dark❶ [dark1]" />
+<style type="text/css">
+    .mention {
+        color: #ff4500;
+    }
+</style>
+<link href="./ext/dark1/memberavatarstatus/styles/all/theme/mas_header.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_background.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_mobile.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/paul999/mention/styles/all/theme/mention.css?assets_version=128" rel="stylesheet" media="screen">
+
+<link href="./styles/prosilver_dark/theme/colours/grey.css?assets_version=128" rel="stylesheet">
+
+<style>
+	.mas-status-dot.mas-color {
+		background-color: #000000;
+	}
+	.mas-status-dot.mas-color:after {
+		background-color: #000000;
+	}
+	.mas-status-online .mas-status-dot.mas-color {
+		background-color: #00FF00;
+	}
+	.mas-status-online .mas-status-dot.mas-color:after {
+		background-color: #00FF00;
+	}
+</style>
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+/* Responsive header banner: show only the full banner on desktop and the mobile one on small screens. */
+.banner-header { text-align: center; margin: 0 auto; }
+.banner-header .header-banner img, .banner-header .mobile-header-banner img { display:block; max-width:100%; height:auto; margin:0 auto; }
+/* hide mobile banner on desktop */
+.banner-header .mobile-header-banner { display: none; }
+/* show mobile banner only on small screens and hide full banner there */
+@media only screen and (max-width: 700px) {
+  .banner-header .mobile-header-banner { display: block !important; }
+  .banner-header .header-banner { display: none !important; }
+}
+/* Hide the style name and other small theme credit labels which were left in the static export */
+/* Hide the style name and other small theme credit labels which were left in the static export */
+.copyright .footer-row, .site_logo::before, .style-name, .prosilver-label { display: none !important; }
+/* Additional header selectors to hide ProSilver label/logo left by theme in header */
+.site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
+/* Hide posting / reply / new topic / registration / login controls on static site */
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+/* Hide reply/quote links inside posts */
+a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
+/* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
+#hidden { display: none !important; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewforum ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="index.html" title="Accueil du forum"><span class="site_logo"></span></a>
+				<h1>MTGVerse</h1>
+				<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									<div class="banner-header">
+<div id="hidden">
+	<h1>MTGVerse</h1>
+	<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+	<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+</div>
+<div class="header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="header-banner" src="https://mtgverse.com/images/banner_full.jpg" alt="Accueil du forum" ></a>
+	</div>
+<div class="mobile-header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="mobile-header-banner" src="https://mtgverse.com/images/banner_700.jpg" alt="Accueil du forum" ></a>
+	</div>
+</div>
+
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.html?search_id=unanswered&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Sujets sans réponse</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.html?search_id=active_topics&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Sujets actifs</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Rechercher</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php.html" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewforum.php.html" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="index.html" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Accueil du forum</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="6"><a itemprop="item" href="viewforum_f6.html"><span itemprop="name">Bavardages</span></a><meta itemprop="position" content="2" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="7"><a itemprop="item" href="viewforum_f7.html"><span itemprop="name">Mène-à-Rien</span></a><meta itemprop="position" content="3" /></span>
+							
+					</li>
+
+		<li id="search-box" class="search-box rightside responsive-hide">
+	<form action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9" method="get" id="search">
+	<fieldset>
+		<input name="keywords" id="keyword" type="search" maxlength="128" title="Rechercher par mots-clés" class="inputbox search tiny" size="20" value="" placeholder="Rechercher…" >
+		<button class="button button-search" type="submit" title="Rechercher">
+		<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+		</button>
+		<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+		<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+		</a>
+	</fieldset>
+</form>
+</li>
+<li class="rightside responsive-search">
+	<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Accéder aux paramètres avancés de la recherche" role="menuitem">
+	<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+	</a>
+</li>
+
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		<h2 class="forum-title"><a href="viewforum_f7.html">Mène-à-Rien</a></h2>
+<div>
+	<!-- NOTE: remove the style="display: none" when you want to have the forum description on the forum body -->
+	<div style="display: none !important;">C'est ainsi que commença la déchéance de MF, Requiem et Wizard's Lair<br /></div>	</div>
+
+
+
+	<div class="action-bar bar-top">
+
+				
+		<a href="./posting.php?mode=post&amp;f=7&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Publier un nouveau sujet">
+							<span>Nouveau sujet</span> <i class="icon fa-pencil fa-fw" aria-hidden="true"></i>
+					</a>
+				
+			<div class="search-box" role="search">
+			<form method="get" id="forum-search" action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9">
+			<fieldset>
+				<input class="inputbox search tiny" type="search" name="keywords" id="search_keywords" size="20" placeholder="Rechercher…" />
+				<button class="button button-search" type="submit" title="Rechercher">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</button>
+				<a href="./search.html?fid%5B%5D=7&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+				</a>
+				<input type="hidden" name="fid[0]" value="7" />
+<input type="hidden" name="sid" value="929d7010353f40f53e5ffe01dedbffc9" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+	<div class="pagination">
+				341 sujets
+					<ul>
+	<li class="dropdown-container dropdown-button-control dropdown-page-jump page-jump">
+		<a class="button button-icon-only dropdown-trigger" href="#" title="Cliquez ici afin d’atteindre une page…" role="button"><i class="icon fa-level-down fa-rotate-270" aria-hidden="true"></i><span class="sr-only">Page <strong>5</strong> sur <strong>14</strong></span></a>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+				<li>Aller sur la page :</li>
+				<li class="page-jump-form">
+					<input type="number" name="page-number" min="1" max="999999" title="Saisissez le numéro de la page que vous souhaitez atteindre" class="inputbox tiny" data-per-page="25" data-base-url=".&#x2F;viewforum.php&#x3F;f&#x3D;7&amp;amp&#x3B;sid&#x3D;929d7010353f40f53e5ffe01dedbffc9" data-start-name="start" />
+					<input class="button2" value="Aller" type="button" />
+				</li>
+			</ul>
+		</div>
+	</li>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewforum_f7.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="viewforum_f7.html" role="button">1</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="viewforum_f7_start50.html" role="button">3</a></li>
+				<li><a class="button" href="viewforum_f7_start75.html" role="button">4</a></li>
+			<li class="active"><span>5</span></li>
+				<li><a class="button" href="viewforum_f7_start125.html" role="button">6</a></li>
+				<li><a class="button" href="viewforum_f7_start150.html" role="button">7</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="viewforum_f7_start325.html" role="button">14</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewforum_f7.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+			</div>
+
+	</div>
+
+
+
+
+	
+			<div class="forumbg">
+		<div class="inner">
+		<ul class="topiclist">
+			<li class="header">
+				<dl class="row-item">
+					<dt><div class="list-inner">Sujets</div></dt>
+					<dd class="posts">Réponses</dd>
+					<dd class="views">Vues</dd>
+					<dd class="lastpost"><span>Dernier message</span></dd>
+				</dl>
+			</li>
+		</ul>
+		<ul class="topiclist topics">
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1244.html" class="topictitle">[RESOLU] Playstation 4 qui reste bloquée sur un écran d'appairage de manette</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a> &laquo; <a href="viewtopic_p76976.html" title="Aller au dernier message"><time datetime="2023-03-10T20:42:46+00:00">10 mars 2023, 21:42</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>22</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a> &raquo; <time datetime="2023-03-08T19:26:45+00:00">08 mars 2023, 20:26</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">22 <dfn>Réponses</dfn></dd>
+				<dd class="views">11074 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>													<a href="viewtopic_p76976.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-03-10T20:42:46+00:00">10 mars 2023, 21:42</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1246.html" class="topictitle">[RÉSOLU] (TI) laptop mort</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a> &laquo; <a href="viewtopic_p76975.html" title="Aller au dernier message"><time datetime="2023-03-10T19:20:47+00:00">10 mars 2023, 20:20</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>8</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a> &raquo; <time datetime="2023-03-09T19:30:25+00:00">09 mars 2023, 20:30</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">8 <dfn>Réponses</dfn></dd>
+				<dd class="views">796 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a>													<a href="viewtopic_p76975.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-03-10T19:20:47+00:00">10 mars 2023, 20:20</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1224.html" class="topictitle">(Problème iPhone) ce couillon se déco du wifi sans prévenir</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a> &laquo; <a href="viewtopic_p76931.html" title="Aller au dernier message"><time datetime="2023-03-09T19:29:00+00:00">09 mars 2023, 20:29</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>2</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a> &raquo; <time datetime="2023-02-26T20:59:57+00:00">26 févr. 2023, 21:59</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">2 <dfn>Réponses</dfn></dd>
+				<dd class="views">381 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a>													<a href="viewtopic_p76931.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-03-09T19:29:00+00:00">09 mars 2023, 20:29</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1239.html" class="topictitle">Pc et bips au démarrage, c'est grave docteur?</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a> &laquo; <a href="viewtopic_p76924.html" title="Aller au dernier message"><time datetime="2023-03-09T17:06:38+00:00">09 mars 2023, 18:06</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>14</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a> &raquo; <time datetime="2023-03-06T12:46:26+00:00">06 mars 2023, 13:46</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">14 <dfn>Réponses</dfn></dd>
+				<dd class="views">1387 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a>													<a href="viewtopic_p76924.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-03-09T17:06:38+00:00">09 mars 2023, 18:06</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1223.html" class="topictitle">Help : Succession / Acceptation à concurrence actif net</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=112&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kobold</a> &laquo; <a href="viewtopic_p76362.html" title="Aller au dernier message"><time datetime="2023-03-03T15:47:48+00:00">03 mars 2023, 16:47</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>4</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=83&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Pazu</a> &raquo; <time datetime="2023-02-26T08:23:54+00:00">26 févr. 2023, 09:23</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">4 <dfn>Réponses</dfn></dd>
+				<dd class="views">841 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=112&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kobold</a>													<a href="viewtopic_p76362.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-03-03T15:47:48+00:00">03 mars 2023, 16:47</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1218.html" class="topictitle">[elroy] wifi6 ou CPL</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=112&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kobold</a> &laquo; <a href="viewtopic_p75612.html" title="Aller au dernier message"><time datetime="2023-02-24T16:05:23+00:00">24 févr. 2023, 17:05</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>5</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=149&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mensha</a> &raquo; <time datetime="2023-02-21T14:19:55+00:00">21 févr. 2023, 15:19</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">5 <dfn>Réponses</dfn></dd>
+				<dd class="views">724 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=112&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kobold</a>													<a href="viewtopic_p75612.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-02-24T16:05:23+00:00">24 févr. 2023, 17:05</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1214.html" class="topictitle">Story Killers</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=87&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Boldhead</a> &laquo; <a href="viewtopic_p75173.html" title="Aller au dernier message"><time datetime="2023-02-16T12:49:20+00:00">16 févr. 2023, 13:49</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>2</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=121&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">marneus</a> &raquo; <time datetime="2023-02-16T08:25:04+00:00">16 févr. 2023, 09:25</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">2 <dfn>Réponses</dfn></dd>
+				<dd class="views">506 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=87&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Boldhead</a>													<a href="viewtopic_p75173.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-02-16T12:49:20+00:00">16 févr. 2023, 13:49</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1209.html" class="topictitle">[elroy] Écran PC</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=106&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">alfly</a> &laquo; <a href="viewtopic_p75136.html" title="Aller au dernier message"><time datetime="2023-02-14T18:22:34+00:00">14 févr. 2023, 19:22</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>12</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=256&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Crincrin</a> &raquo; <time datetime="2023-02-11T13:04:39+00:00">11 févr. 2023, 14:04</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">12 <dfn>Réponses</dfn></dd>
+				<dd class="views">1195 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=106&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">alfly</a>													<a href="viewtopic_p75136.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-02-14T18:22:34+00:00">14 févr. 2023, 19:22</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1201.html" class="topictitle">créer puis copier image windows</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a> &laquo; <a href="viewtopic_p74870.html" title="Aller au dernier message"><time datetime="2023-02-05T17:29:20+00:00">05 févr. 2023, 18:29</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>2</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a> &raquo; <time datetime="2023-02-01T17:29:30+00:00">01 févr. 2023, 18:29</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">2 <dfn>Réponses</dfn></dd>
+				<dd class="views">459 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a>													<a href="viewtopic_p74870.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-02-05T17:29:20+00:00">05 févr. 2023, 18:29</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1199.html" class="topictitle">Littérature</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=357&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Swap</a> &laquo; <a href="viewtopic_p74719.html" title="Aller au dernier message"><time datetime="2023-01-31T18:21:53+00:00">31 janv. 2023, 19:21</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>8</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=357&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Swap</a> &raquo; <time datetime="2023-01-28T16:21:21+00:00">28 janv. 2023, 17:21</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">8 <dfn>Réponses</dfn></dd>
+				<dd class="views">1013 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=357&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Swap</a>													<a href="viewtopic_p74719.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-31T18:21:53+00:00">31 janv. 2023, 19:21</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1192.html" class="topictitle">Sites de Freelance</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=313&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Li Mahong</a> &laquo; <a href="viewtopic_p74465.html" title="Aller au dernier message"><time datetime="2023-01-25T19:58:19+00:00">25 janv. 2023, 20:58</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>5</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=313&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Li Mahong</a> &raquo; <time datetime="2023-01-23T23:27:01+00:00">24 janv. 2023, 00:27</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">5 <dfn>Réponses</dfn></dd>
+				<dd class="views">672 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=313&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Li Mahong</a>													<a href="viewtopic_p74465.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-25T19:58:19+00:00">25 janv. 2023, 20:58</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1180.html" class="topictitle">[elr0y] Android - double compte whatsapp - clone app</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=268&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">MutoKenji</a> &laquo; <a href="viewtopic_p74218.html" title="Aller au dernier message"><time datetime="2023-01-22T13:32:38+00:00">22 janv. 2023, 14:32</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>2</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=268&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">MutoKenji</a> &raquo; <time datetime="2023-01-13T19:18:39+00:00">13 janv. 2023, 20:18</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">2 <dfn>Réponses</dfn></dd>
+				<dd class="views">571 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=268&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">MutoKenji</a>													<a href="viewtopic_p74218.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-22T13:32:38+00:00">22 janv. 2023, 14:32</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1184.html" class="topictitle">Probabilité et Magic</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=217&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Ragisacam</a> &laquo; <a href="viewtopic_p73943.html" title="Aller au dernier message"><time datetime="2023-01-17T21:52:19+00:00">17 janv. 2023, 22:52</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>5</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=349&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">meuhmeuh</a> &raquo; <time datetime="2023-01-17T17:21:00+00:00">17 janv. 2023, 18:21</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">5 <dfn>Réponses</dfn></dd>
+				<dd class="views">1009 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=217&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Ragisacam</a>													<a href="viewtopic_p73943.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-17T21:52:19+00:00">17 janv. 2023, 22:52</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t440.html" class="topictitle">[Elroy] nouveau téléphone portable</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=194&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Haaggen</a> &laquo; <a href="viewtopic_p73719.html" title="Aller au dernier message"><time datetime="2023-01-14T20:27:06+00:00">14 janv. 2023, 21:27</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>72</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=91&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Majax</a> &raquo; <time datetime="2021-08-17T18:36:00+00:00">17 août 2021, 20:36</time>
+																				</div>
+
+												<div class="pagination">
+							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
+							<ul>
+															<li><a class="button" href="href=" class="button" "viewtopic_t440.html>440</a></li>
+																							<li><a class="button" href="viewtopic_t440_start25.html">2</a></li>
+																							<li><a class="button" href="viewtopic_t440_start50.html">3</a></li>
+																																													</ul>
+						</div>
+						
+											</div>
+				</dt>
+				<dd class="posts">72 <dfn>Réponses</dfn></dd>
+				<dd class="views">9819 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=194&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Haaggen</a>													<a href="viewtopic_p73719.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-14T20:27:06+00:00">14 janv. 2023, 21:27</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t660.html" class="topictitle">Deathpool 2022</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=99&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">tobtob</a> &laquo; <a href="viewtopic_p73642.html" title="Aller au dernier message"><time datetime="2023-01-13T06:42:36+00:00">13 janv. 2023, 07:42</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>466</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=56&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">smc</a> &raquo; <time datetime="2021-12-26T09:06:08+00:00">26 déc. 2021, 10:06</time>
+																				</div>
+
+												<div class="pagination">
+							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
+							<ul>
+															<li><a class="button" href="href=" class="button" "viewtopic_t660.html>660</a></li>
+																							<li class="ellipsis"><span>…</span></li>
+																							<li><a class="button" href="viewtopic_t660_start350.html">15</a></li>
+																							<li><a class="button" href="viewtopic_t660_start375.html">16</a></li>
+																							<li><a class="button" href="viewtopic_t660_start400.html">17</a></li>
+																							<li><a class="button" href="viewtopic_t660_start425.html">18</a></li>
+																							<li><a class="button" href="viewtopic_t660_start450.html">19</a></li>
+																																													</ul>
+						</div>
+						
+											</div>
+				</dt>
+				<dd class="posts">466 <dfn>Réponses</dfn></dd>
+				<dd class="views">62573 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=99&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">tobtob</a>													<a href="viewtopic_p73642.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-13T06:42:36+00:00">13 janv. 2023, 07:42</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1177.html" class="topictitle">[urgent] réparer pdf</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=304&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Matsaya</a> &laquo; <a href="viewtopic_p73576.html" title="Aller au dernier message"><time datetime="2023-01-12T09:33:18+00:00">12 janv. 2023, 10:33</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>16</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=304&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Matsaya</a> &raquo; <time datetime="2023-01-10T12:30:38+00:00">10 janv. 2023, 13:30</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">16 <dfn>Réponses</dfn></dd>
+				<dd class="views">1581 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=304&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Matsaya</a>													<a href="viewtopic_p73576.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-12T09:33:18+00:00">12 janv. 2023, 10:33</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1172.html" class="topictitle">Déménagement</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=62&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mr. Grand</a> &laquo; <a href="viewtopic_p72726.html" title="Aller au dernier message"><time datetime="2023-01-03T21:19:12+00:00">03 janv. 2023, 22:19</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>12</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=149&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mensha</a> &raquo; <time datetime="2023-01-02T10:42:32+00:00">02 janv. 2023, 11:42</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">12 <dfn>Réponses</dfn></dd>
+				<dd class="views">1149 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=62&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mr. Grand</a>													<a href="viewtopic_p72726.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-03T21:19:12+00:00">03 janv. 2023, 22:19</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1170_start50550.html" class="topictitle">2023</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">SeikoTheWiz</a> &laquo; <a href="viewtopic_p72583.html" title="Aller au dernier message"><time datetime="2023-01-02T10:27:50+00:00">02 janv. 2023, 11:27</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>11</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=68&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Kenny</a> &raquo; <time datetime="2023-01-01T05:49:54+00:00">01 janv. 2023, 06:49</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">11 <dfn>Réponses</dfn></dd>
+				<dd class="views">1105 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">SeikoTheWiz</a>													<a href="viewtopic_p72583.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2023-01-02T10:27:50+00:00">02 janv. 2023, 11:27</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1157.html" class="topictitle">Truc de ouf</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a> &laquo; <a href="viewtopic_p71829.html" title="Aller au dernier message"><time datetime="2022-12-15T14:57:08+00:00">15 déc. 2022, 15:57</time></a>
+													</div>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a> &raquo; <time datetime="2022-12-15T14:57:08+00:00">15 déc. 2022, 15:57</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">0 <dfn>Réponses</dfn></dd>
+				<dd class="views">1089 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=243&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">LE Beun</a>													<a href="viewtopic_p71829.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2022-12-15T14:57:08+00:00">15 déc. 2022, 15:57</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1131.html" class="topictitle">Changement d'ordi portable</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=75&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">elr0y</a> &laquo; <a href="viewtopic_p70770.html" title="Aller au dernier message"><time datetime="2022-11-27T23:04:46+00:00">28 nov. 2022, 00:04</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>5</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Niluje</a> &raquo; <time datetime="2022-11-18T21:37:27+00:00">18 nov. 2022, 22:37</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">5 <dfn>Réponses</dfn></dd>
+				<dd class="views">817 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=75&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">elr0y</a>													<a href="viewtopic_p70770.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2022-11-27T23:04:46+00:00">28 nov. 2022, 00:04</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t582.html" class="topictitle">Quel costume pour une soirée &quot;jeu de mot&quot; ?</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=96&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Vash</a> &laquo; <a href="viewtopic_p70739.html" title="Aller au dernier message"><time datetime="2022-11-26T08:56:56+00:00">26 nov. 2022, 09:56</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>86</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=127&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Raphiduck</a> &raquo; <time datetime="2021-11-16T17:10:19+00:00">16 nov. 2021, 18:10</time>
+																				</div>
+
+												<div class="pagination">
+							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
+							<ul>
+															<li><a class="button" href="href=" class="button" "viewtopic_t582.html>582</a></li>
+																							<li><a class="button" href="viewtopic_t582_start25.html">2</a></li>
+																							<li><a class="button" href="viewtopic_t582_start50.html">3</a></li>
+																							<li><a class="button" href="viewtopic_t582_start75.html">4</a></li>
+																																													</ul>
+						</div>
+						
+											</div>
+				</dt>
+				<dd class="posts">86 <dfn>Réponses</dfn></dd>
+				<dd class="views">15594 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=96&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Vash</a>													<a href="viewtopic_p70739.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2022-11-26T08:56:56+00:00">26 nov. 2022, 09:56</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1136.html" class="topictitle">Code Pokemon</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a> &laquo; <a href="viewtopic_p70534.html" title="Aller au dernier message"><time datetime="2022-11-23T14:37:02+00:00">23 nov. 2022, 15:37</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>1</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=313&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Li Mahong</a> &raquo; <time datetime="2022-11-23T14:09:54+00:00">23 nov. 2022, 15:09</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">1 <dfn>Réponses</dfn></dd>
+				<dd class="views">357 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=101&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">EtMini</a>													<a href="viewtopic_p70534.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2022-11-23T14:37:02+00:00">23 nov. 2022, 15:37</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1133.html" class="topictitle">Recherche resto sympa à Milan</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">sapro</a> &laquo; <a href="viewtopic_p70389.html" title="Aller au dernier message"><time datetime="2022-11-22T09:05:26+00:00">22 nov. 2022, 10:05</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>1</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=207&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Rémy</a> &raquo; <time datetime="2022-11-21T22:40:57+00:00">21 nov. 2022, 23:40</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">1 <dfn>Réponses</dfn></dd>
+				<dd class="views">360 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">sapro</a>													<a href="viewtopic_p70389.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2022-11-22T09:05:26+00:00">22 nov. 2022, 10:05</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg2">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1127.html" class="topictitle">MTGVerse Intelligence collective: décide de mon orientation professionnelle</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=94&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">eths</a> &laquo; <a href="viewtopic_p70348.html" title="Aller au dernier message"><time datetime="2022-11-21T17:01:48+00:00">21 nov. 2022, 18:01</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>20</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=94&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">eths</a> &raquo; <time datetime="2022-11-16T22:35:48+00:00">16 nov. 2022, 23:35</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">20 <dfn>Réponses</dfn></dd>
+				<dd class="views">2831 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=94&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">eths</a>													<a href="viewtopic_p70348.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2022-11-21T17:01:48+00:00">21 nov. 2022, 18:01</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+	
+
+	
+	
+				<li class="row bg1">
+						<dl class="row-item topic_read">
+				<dt title="Aucun message non lu">
+										<div class="list-inner">
+																		<a href="viewtopic_t1117.html" class="topictitle">[Kobold] Stock-options non-cotée</a>																								<br />
+						
+												<div class="responsive-show" style="display: none;">
+							Dernier message par <a href="./memberlist.php?mode=viewprofile&amp;u=165&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Grignou</a> &laquo; <a href="viewtopic_p70325.html" title="Aller au dernier message"><time datetime="2022-11-21T11:29:29+00:00">21 nov. 2022, 12:29</time></a>
+													</div>
+														<span class="responsive-show left-box" style="display: none;">Réponses : <strong>1</strong></span>
+													
+						<div class="topic-poster responsive-hide left-box">
+																												par <a href="./memberlist.php?mode=viewprofile&amp;u=124&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">ieyasu</a> &raquo; <time datetime="2022-10-31T11:09:52+00:00">31 oct. 2022, 12:09</time>
+																				</div>
+
+						
+											</div>
+				</dt>
+				<dd class="posts">1 <dfn>Réponses</dfn></dd>
+				<dd class="views">561 <dfn>Vues</dfn></dd>
+				<dd class="lastpost">
+					<span><dfn>Dernier message </dfn>par <a href="./memberlist.php?mode=viewprofile&amp;u=165&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Grignou</a>													<a href="viewtopic_p70325.html" title="Aller au dernier message">
+								<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only"></span>
+							</a>
+												<br /><time datetime="2022-11-21T11:29:29+00:00">21 nov. 2022, 12:29</time>
+					</span>
+				</dd>
+			</dl>
+					</li>
+		
+				</ul>
+		</div>
+	</div>
+	
+
+	<div class="action-bar bar-bottom">
+					
+			<a href="./posting.php?mode=post&amp;f=7&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Publier un nouveau sujet">
+							<span>Nouveau sujet</span> <i class="icon fa-pencil fa-fw" aria-hidden="true"></i>
+						</a>
+
+					
+					<form method="post" action="./viewforum.php?f=7&amp;start=100&amp;sid=929d7010353f40f53e5ffe01dedbffc9">
+			<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les sujets</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="r">Réponses</option><option value="s">Sujet</option><option value="v">Vues</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a">Croissant</option><option value="d" selected="selected">Décroissant</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Aller" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+			</form>
+		
+		<div class="pagination">
+						341 sujets
+							<ul>
+	<li class="dropdown-container dropdown-button-control dropdown-page-jump page-jump">
+		<a class="button button-icon-only dropdown-trigger" href="#" title="Cliquez ici afin d’atteindre une page…" role="button"><i class="icon fa-level-down fa-rotate-270" aria-hidden="true"></i><span class="sr-only">Page <strong>5</strong> sur <strong>14</strong></span></a>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+				<li>Aller sur la page :</li>
+				<li class="page-jump-form">
+					<input type="number" name="page-number" min="1" max="999999" title="Saisissez le numéro de la page que vous souhaitez atteindre" class="inputbox tiny" data-per-page="25" data-base-url=".&#x2F;viewforum.php&#x3F;f&#x3D;7&amp;amp&#x3B;sid&#x3D;929d7010353f40f53e5ffe01dedbffc9" data-start-name="start" />
+					<input class="button2" value="Aller" type="button" />
+				</li>
+			</ul>
+		</div>
+	</li>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewforum_f7.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="viewforum_f7.html" role="button">1</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="viewforum_f7_start50.html" role="button">3</a></li>
+				<li><a class="button" href="viewforum_f7_start75.html" role="button">4</a></li>
+			<li class="active"><span>5</span></li>
+				<li><a class="button" href="viewforum_f7_start125.html" role="button">6</a></li>
+				<li><a class="button" href="viewforum_f7_start150.html" role="button">7</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="viewforum_f7_start325.html" role="button">14</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewforum_f7.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="index.html" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à l’accueil du forum</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Aller" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Aller</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="viewforum_f3.html" class="jumpbox-cat-link"> <span> Magic: The Gathering</span></a></li>
+																<li><a href="viewforum_f4.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Discussions</span></a></li>
+																<li><a href="viewforum_f5.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nouveautés &amp; Rumeurs</span></a></li>
+																<li><a href="viewforum_f8.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Draft &amp; Scellé</span></a></li>
+																<li><a href="viewforum_f9.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit compétitif</span></a></li>
+																<li><a href="viewforum_f10.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit non compétitif</span></a></li>
+																<li><a href="viewforum_f11.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Autres formats</span></a></li>
+																<li><a href="viewforum_f12.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Questions de règles</span></a></li>
+																<li><a href="viewforum_f13.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Magic Arena &amp; MTGO</span></a></li>
+																<li><a href="viewforum_f6.html" class="jumpbox-cat-link"> <span> Bavardages</span></a></li>
+																<li><a href="viewforum_f7.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Mène-à-Rien</span></a></li>
+																<li><a href="viewforum_f14.html" class="jumpbox-cat-link"> <span> Forums privés</span></a></li>
+																<li><a href="viewforum_f23.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Débats d'actualité et politique</span></a></li>
+																<li><a href="viewforum_f17.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Sports</span></a></li>
+																<li><a href="viewforum_f26.html" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Paris sportifs</span></a></li>
+																<li><a href="viewforum_f15.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Cinéma</span></a></li>
+																<li><a href="viewforum_f18.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Séries</span></a></li>
+																<li><a href="viewforum_f19.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Musique</span></a></li>
+																<li><a href="viewforum_f20.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Littérature - BD - Mangas</span></a></li>
+																<li><a href="viewforum_f21.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux vidéo</span></a></li>
+																<li><a href="viewforum_f22.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux de société</span></a></li>
+																<li><a href="viewforum_f16.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Loup-Garou</span></a></li>
+																<li><a href="viewforum_f27.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Secret Santa</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php?sid=929d7010353f40f53e5ffe01dedbffc9.html">Qui est en ligne ?</a></h3>
+		<p>Utilisateurs parcourant ce forum : Aucun utilisateur inscrit et 1 invité</p>
+	</div>
+
+	<div class="stat-block permissions">
+		<h3>Permissions du forum</h3>
+		<p>Vous <strong>ne pouvez pas</strong> publier de nouveaux sujets dans ce forum<br />Vous <strong>ne pouvez pas</strong> répondre aux sujets dans ce forum<br />Vous <strong>ne pouvez pas</strong> modifier vos messages dans ce forum<br />Vous <strong>ne pouvez pas</strong> supprimer vos messages dans ce forum<br />Vous <strong>ne pouvez pas</strong> transférer de pièces jointes dans ce forum<br /></p>
+	</div>
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="index.html" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Accueil du forum</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+02:00</span></li>
+							<li class="rightside">
+				<a href="/app.php.html" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="La liste complète des membres du forum" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+				</a>
+			</li>
+							</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.php.html">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+		<p class="footer-row">
+			Prosilver Dark Edition by <a href="http://www.planetstyles.net/">Premium phpBB Styles</a>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.php.html">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+				<br>MTGVerse est un contenu de fan non officiel autorisé dans le cadre de la Politique des contenus de fans.
+<br>Ni approuvé, ni promu par Wizards. Certaines parties des matériaux utilisés sont la propriété de Wizards of the Coast.
+<br>©Wizards of the Coast LLC.		<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery-3.7.1.min.js?assets_version=128"></script>
+<script src="./assets/javascript/core.js?assets_version=128"></script>
+
+
+
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=128"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=128"></script>
+
+
+
+</body>
+</html>

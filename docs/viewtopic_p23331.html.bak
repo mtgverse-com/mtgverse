@@ -1,0 +1,2877 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>[Brawl] Listes de decks - Page 2 - MTGVerse</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - MTGVerse" href="/app.php.html">			<link rel="alternate" type="application/atom+xml" title="Flux - Nouveaux sujets" href="/app.php.html">		<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Autres formats" href="/app.php.html">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujet - [Brawl] Listes de decks" href="/app.php.html">	
+	<link rel="canonical" href="viewtopic_t187.html">
+
+<!--
+	phpBB style name: Prosilver (Dark Edition)
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by: PlanetStyles.net ( http://www.planetstyles.net)
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/stylesheet.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/fr/stylesheet.css?assets_version=128" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver_dark/theme/tweaks.css?assets_version=128" rel="stylesheet">
+<![endif]-->
+
+		<meta name="MAS" content="Member Avatar & Status [MAS]=Dark❶ [dark1]" />
+<style type="text/css">
+    .mention {
+        color: #ff4500;
+    }
+</style>
+<link href="./ext/dark1/memberavatarstatus/styles/all/theme/mas_header.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_background.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_mobile.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/paul999/mention/styles/all/theme/mention.css?assets_version=128" rel="stylesheet" media="screen">
+
+<link href="./styles/prosilver_dark/theme/colours/grey.css?assets_version=128" rel="stylesheet">
+
+<style>
+	.mas-status-dot.mas-color {
+		background-color: #000000;
+	}
+	.mas-status-dot.mas-color:after {
+		background-color: #000000;
+	}
+	.mas-status-online .mas-status-dot.mas-color {
+		background-color: #00FF00;
+	}
+	.mas-status-online .mas-status-dot.mas-color:after {
+		background-color: #00FF00;
+	}
+</style>
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+/* Responsive header banner: show only the full banner on desktop and the mobile one on small screens. */
+.banner-header { text-align: center; margin: 0 auto; }
+.banner-header .header-banner img, .banner-header .mobile-header-banner img { display:block; max-width:100%; height:auto; margin:0 auto; }
+/* hide mobile banner on desktop */
+.banner-header .mobile-header-banner { display: none; }
+/* show mobile banner only on small screens and hide full banner there */
+@media only screen and (max-width: 700px) {
+  .banner-header .mobile-header-banner { display: block !important; }
+  .banner-header .header-banner { display: none !important; }
+}
+/* Hide the style name and other small theme credit labels which were left in the static export */
+/* Hide the style name and other small theme credit labels which were left in the static export */
+.copyright .footer-row, .site_logo::before, .style-name, .prosilver-label { display: none !important; }
+/* Additional header selectors to hide ProSilver label/logo left by theme in header */
+.site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
+/* Hide posting / reply / new topic / registration / login controls on static site */
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+/* Hide reply/quote links inside posts */
+a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
+/* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
+#hidden { display: none !important; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="index.html" title="Accueil du forum"><span class="site_logo"></span></a>
+				<h1>MTGVerse</h1>
+				<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									<div class="banner-header">
+<div id="hidden">
+	<h1>MTGVerse</h1>
+	<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+	<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+</div>
+<div class="header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="header-banner" src="https://mtgverse.com/images/banner_full.jpg" alt="Accueil du forum" ></a>
+	</div>
+<div class="mobile-header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="mobile-header-banner" src="https://mtgverse.com/images/banner_700.jpg" alt="Accueil du forum" ></a>
+	</div>
+</div>
+
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.html?search_id=unanswered&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Sujets sans réponse</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.html?search_id=active_topics&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Sujets actifs</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Rechercher</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php.html" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewtopic.php.html" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="index.html" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Accueil du forum</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="3"><a itemprop="item" href="viewforum_f3.html"><span itemprop="name">Magic: The Gathering</span></a><meta itemprop="position" content="2" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="11"><a itemprop="item" href="viewforum_f11.html"><span itemprop="name">Autres formats</span></a><meta itemprop="position" content="3" /></span>
+							
+					</li>
+
+		<li id="search-box" class="search-box rightside responsive-hide">
+	<form action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9" method="get" id="search">
+	<fieldset>
+		<input name="keywords" id="keyword" type="search" maxlength="128" title="Rechercher par mots-clés" class="inputbox search tiny" size="20" value="" placeholder="Rechercher…" >
+		<button class="button button-search" type="submit" title="Rechercher">
+		<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+		</button>
+		<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+		<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+		</a>
+	</fieldset>
+</form>
+</li>
+<li class="rightside responsive-search">
+	<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Accéder aux paramètres avancés de la recherche" role="menuitem">
+	<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+	</a>
+</li>
+
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="viewtopic_t187.html">[Brawl] Listes de decks</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Brawl, Legacy, Commander, Wagic, Cube, Empereur, et tous les autres formats spéciaux<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=187&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="viewtopic_t187.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Rechercher…" />
+				<button class="button button-search" type="submit" title="Rechercher">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</button>
+				<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+				</a>
+				<input type="hidden" name="t" value="187" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="929d7010353f40f53e5ffe01dedbffc9" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			56 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t187_start0.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t187.html>187</a></li>
+			<li class="active"><span>2</span></li>
+				<li><a class="button" href="viewtopic_t187_start50.html" role="button">3</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t187_start50.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p23173" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23173">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23173&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23173">
+
+					<h3 class="first">
+						<a href="viewtopic_p23173.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23173&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23173.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2021-09-01T14:54:20+00:00">01 sept. 2021, 16:54</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">ben justement... en standard t'as sans doute raison (et c'est super triste, je suis content d'être Diamant , avec les lows, où on affronte plus de deux decks différents), mais en Brawl, je suis sûr que tu prendrais mes decks pour des pet decks, et pourtant, sur mes 19 decks, le plus mauvais doit être à 60% de victoire...   C'est donc le format idéal pour respirer, avoir un peu diversité ET ne pas forcément perdre. Bref, le meilleur format</div>
+
+			
+			
+									
+						
+							<div id="sig23173" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23175" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23175">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">SeikoTheWiz</a>							</dt>
+
+						<dd class="profile-rank">Jiba</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=116&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1207</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:36</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter SeikoTheWiz">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter SeikoTheWiz</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23175&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23175">
+
+					<h3 >
+						<a href="viewtopic_p23175.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23175&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23175.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">SeikoTheWiz</a></strong> &raquo; </span><time datetime="2021-09-01T15:19:48+00:00">01 sept. 2021, 17:19</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Va te falloir une app de stats si tu penses que sur tes 18 decks le plus nuls est à 60% de WR mec  :lol:</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23176" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23176">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23176&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23176">
+
+					<h3 >
+						<a href="viewtopic_p23176.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23176&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23176.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-09-01T15:20:39+00:00">01 sept. 2021, 17:20</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=23170&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p23170"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Watanabe</a> a écrit : <a href="viewtopic_p23170.html" aria-label="Consulter le message cité" data-post-id="23170" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">01 sept. 2021, 16:24</span></cite>
+<blockquote cite="./viewtopic.php?p=23153&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p23153"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p23153.html" aria-label="Consulter le message cité" data-post-id="23153" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">01 sept. 2021, 14:37</span></cite>
+Sinon @Stef : Tant que le brawl historique sera réservé à des événements, je crois que je n'arriverai pas à m'y concentrer.
+</div></blockquote>
+
+C'est pas réservé à des events. Tu en as en BO1 tout le temps maintenant.
+</div></blockquote>
+
+Ah merde ! Merci ! <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"> (vraiment)<br>
+<br>
+Mais du coup, va falloir me monter un (des) deck .. .</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23178" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23178">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23178&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23178">
+
+					<h3 >
+						<a href="viewtopic_p23178.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23178&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23178.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2021-09-01T15:26:06+00:00">01 sept. 2021, 17:26</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=23175&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p23175"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">SeikoTheWiz</a> a écrit : <a href="viewtopic_p23175.html" aria-label="Consulter le message cité" data-post-id="23175" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">01 sept. 2021, 17:19</span></cite>
+Va te falloir une app de stats si tu penses que sur tes 18 decks le plus nuls est à 60% de WR mec  :lol:
+</div></blockquote>
+
+je pense pas, je le sais, et oui, grâce à MTGA Assistant (jusqu'à l'update en tout cas). C'est mon Toski le pire...  55%<br>
+<br>
+En standard, mon pire c'est un grixis control,  20%...<br>
+<br>
+d'autres questions?  <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"></div>
+
+			
+			
+									
+						
+							<div id="sig23178" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23180" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23180">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">SeikoTheWiz</a>							</dt>
+
+						<dd class="profile-rank">Jiba</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=116&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1207</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:36</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter SeikoTheWiz">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter SeikoTheWiz</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23180&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23180">
+
+					<h3 >
+						<a href="viewtopic_p23180.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23180&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23180.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">SeikoTheWiz</a></strong> &raquo; </span><time datetime="2021-09-01T15:27:45+00:00">01 sept. 2021, 17:27</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Tu dois être un sacrée génie si t'as 18 decks qui font plus de 55% <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23182" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23182">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23182&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23182">
+
+					<h3 >
+						<a href="viewtopic_p23182.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23182&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23182.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2021-09-01T15:44:51+00:00">01 sept. 2021, 17:44</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Non, puisque je suis nul en standard ou historique... c'est juste que le Brawl est un format qui me convient parfaitement... (notamment avec ma façon d'éparpiller mes wild cards plutôt que de les concentrer en x4)</div>
+
+			
+			
+									
+						
+							<div id="sig23182" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23183" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23183">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_147.png" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Watanabe</a>							</dt>
+
+						<dd class="profile-rank">Belge</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=147&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">346</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Watanabe">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Watanabe</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23183&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23183">
+
+					<h3 >
+						<a href="viewtopic_p23183.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23183&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23183.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Watanabe</a></strong> &raquo; </span><time datetime="2021-09-01T15:46:07+00:00">01 sept. 2021, 17:46</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=23176&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p23176"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p23176.html" aria-label="Consulter le message cité" data-post-id="23176" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">01 sept. 2021, 17:20</span></cite>
+<blockquote cite="./viewtopic.php?p=23170&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p23170"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Watanabe</a> a écrit : <a href="viewtopic_p23170.html" aria-label="Consulter le message cité" data-post-id="23170" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">01 sept. 2021, 16:24</span></cite>
+<blockquote cite="./viewtopic.php?p=23153&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p23153"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p23153.html" aria-label="Consulter le message cité" data-post-id="23153" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">01 sept. 2021, 14:37</span></cite>
+Sinon @Stef : Tant que le brawl historique sera réservé à des événements, je crois que je n'arriverai pas à m'y concentrer.
+</div></blockquote>
+
+C'est pas réservé à des events. Tu en as en BO1 tout le temps maintenant.
+</div></blockquote>
+
+Ah merde ! Merci ! <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"> (vraiment)<br>
+<br>
+Mais du coup, va falloir me monter un (des) deck .. .
+</div></blockquote>
+
+Désolé d'avoir ruiné tes soirées <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23275" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23275">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23275&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23275">
+
+					<h3 >
+						<a href="viewtopic_p23275.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23275&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23275.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-09-02T12:03:53+00:00">02 sept. 2021, 14:03</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">WOOOOOW !!!<br>
+<br>
+Le brawl historic c'est une nouvelle dimension !<br>
+<br>
+100 cartes, et un pool vachement différent (au niveau des commandants et dans une moindre mesure au niveau des cartes). Les commandant jumpstart ils rigolent 0.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23276" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23276">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23276">
+
+					<h3 >
+						<a href="viewtopic_p23276.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23276.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2021-09-02T12:11:48+00:00">02 sept. 2021, 14:11</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Rhââ arrête de me tenter... bon, je crois que je vais refaire un bon vieux Niv Izzet 5 couleurs...</div>
+
+			
+			
+									
+						
+							<div id="sig23276" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23281" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23281">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23281&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23281">
+
+					<h3 >
+						<a href="viewtopic_p23281.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23281&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23281.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2021-09-02T12:32:09+00:00">02 sept. 2021, 14:32</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Les decks dont le commandant ne sert à rien d'autre qu'avoir les 5 couleurs pour juste faire un singleton 5c "good stuff", ça devrait être interdit par la convention de Genève.</div>
+
+			
+			
+													<div class="notice">
+					Dernière modification par <a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a> le 02 sept. 2021, 14:45, modifié 1 fois.
+									</div>
+			
+						
+							<div id="sig23281" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23283" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23283">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23283&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23283">
+
+					<h3 >
+						<a href="viewtopic_p23283.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23283&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23283.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-09-02T12:44:51+00:00">02 sept. 2021, 14:44</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">+1 ailleurs et de ce que j'ai lu sur le brawlH : +1000</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23285" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23285">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23285&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23285">
+
+					<h3 >
+						<a href="viewtopic_p23285.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23285&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23285.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2021-09-02T12:46:37+00:00">02 sept. 2021, 14:46</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">ah bon?  Quand je jouais Niv Izzet je piochais régulièrement 3 ou 4 cartes multicolores... ça me semblait pas inutile (vu que ça m'a souvent fait gagner)<br>
+<br>
+Bien sûr, comme avec Kenrith (mais un peu moins), la combo avec Fires of invention est pornographique...</div>
+
+			
+			
+									
+						
+							<div id="sig23285" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23298" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23298">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23298&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23298">
+
+					<h3 >
+						<a href="viewtopic_p23298.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23298&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23298.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-09-02T14:21:42+00:00">02 sept. 2021, 16:21</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Disons qu'heureusement que les généraux 5 couleurs ne son pas inutiles vu leur coût. Mais en gros, ils servent juste de support à toujours les mêmes 99 cartes identiques pour finir en "Good Stuff 5 colors"</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23299" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23299">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23299&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23299">
+
+					<h3 >
+						<a href="viewtopic_p23299.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23299&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23299.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2021-09-02T14:26:08+00:00">02 sept. 2021, 16:26</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">ah ok je savais pas... moi je joue Kenrith et Niz Mizzet différemment pourtant...  dans NIv Izzet  98% des cartes sont soit multicolores, soit impactant les cartes multicolores.<br>
+<br>
+Dans Kenrith, beaucoup moins...</div>
+
+			
+			
+									
+						
+							<div id="sig23299" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23331" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23331">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23331&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23331">
+
+					<h3 >
+						<a href="viewtopic_p23331.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23331&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23331.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2021-09-02T19:56:32+00:00">02 sept. 2021, 21:56</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><span style="font-size:200%;line-height:116%">/</span> <img src="https://www.gifservice.fr/img/gif-vignette-large/99ba776f49daac6b189e0a1f24742d8e/161135.gif" class="postimage" alt="Image"></div>
+
+			
+			
+									
+						
+							<div id="sig23331" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23503" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23503">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23503&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23503">
+
+					<h3 >
+						<a href="viewtopic_p23503.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23503&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23503.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-09-03T23:33:47+00:00">04 sept. 2021, 01:33</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">ok, j'en peux plus: tous mes adversaires jouent 5 couleurs, j'ai l'impression de voir le meme deck golos qui tue aux zombies à chaque coup.<br>
+Je vais repasser au brawl standard fissa<br>
+<br>
+ce brawl historic est assez peu original et assez peu diversifié</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23517" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23517">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=82&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tom</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=82&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">259</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:35</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Tom">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Tom</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23517&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23517">
+
+					<h3 >
+						<a href="viewtopic_p23517.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23517&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23517.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=82&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tom</a></strong> &raquo; </span><time datetime="2021-09-04T09:38:33+00:00">04 sept. 2021, 11:38</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">@Etienne je partage quelques listes (non 5 colours field of the dead) qui marchent très bien:<br>
+<br>
+<span class="spoiler-inline-js"><input type="button" value="Spoiler" class="button2" style="font-size:10px;padding:0 3px;border-radius:2px" onclick="nextSibling.style.display = nextSibling.style.display==='none' ? 'block' : 'none';"><div style="margin-top:3px;padding:5px;border:1px dotted darkgray;display:none">Commander<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Kumena, Tyrant of Orazca</a> (RIX) 162<br>
+<br>
+Deck<a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer"></a><br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Benthic Biomancer</a> (RNA) 32<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Merfolk Windrobber</a> (ZNR) 70<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Mistcaller</a> (M19) 62<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Mist-Cloaked Herald</a> (RIX) 43<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Shoreline Scout</a> (J21) 12<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Brineborn Cutthroat</a> (M20) 50<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Master of the Pearl Trident</a> (J21) 37<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Merfolk Looter</a> (M10) 61<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Merfolk Trickster </a>(DAR) 56<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">River Sneak</a> (XLN) 70<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Silvergill Adept</a> (RIX) 53<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Thieving Skydiver</a> (ZNR) 85<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Merrow Reejerey</a> (LRW) 74<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Svyelun of Sea and Sky</a> (MH2) 69<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Jade Bearer</a> (RIX) 134<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Kumena's Speaker</a> (XLN) 196<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Deeproot Champion</a> (XLN) 185<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Deeproot Elite</a> (RIX) 127<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Merfolk Branchwalker</a> (XLN) 197<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Merfolk Mistbinder</a> (RIX) 164<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Merfolk Skydiver</a> (WAR) 205<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Metallic Mimic</a> (KLR) 251<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Faceless Agent</a> (J21) 1<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Masked Vandal </a>(KHM) 184<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Pact of Negation</a> (AKR) 73<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Annul</a> (KHM) 42<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Concerted Defense</a> (ZNR) 52<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Miscast</a> (M21) 57<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Spell Pierce</a> (XLN) 81<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Censor</a> (AKR) 52<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Counterspell</a> (STA) 15<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Disdainful Stroke</a> (GRN) 37<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Essence Capture</a> (RNA) 37<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Essence Scatter</a> (AKR) 60<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Jwari Disruption</a> (ZNR) 64<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Memory Lapse</a> (STA) 16<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Negate</a> (STA) 18<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Tale's End </a>(M20) 77<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Test of Talents</a> (STX) 59<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Mystical Dispute </a>(ELD) 58<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Neutralize</a> (IKO) 59<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Saw It Coming</a> (KHM) 76<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Sinister Sabotage</a> (GRN) 54<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Decisive Denial</a> (STX) 177<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Opt</a> (STA) 19<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Once Upon a Time</a> (ELD) 169<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Mystic Subdual</a> (IKO) 57<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Wilt</a> (IKO) 176<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Mu Yanling, Sky Dancer</a> (M20) 68<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Stifle</a> (SCG) 52<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Chart a Course</a> (XLN) 48<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Frogify</a> (ELD) 47<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Wizard's Retort </a>(DAR) 75<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Veil of Summer </a>(M20) 198<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Bind the Monster </a>(KHM) 48<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Reject</a> (STX) 50<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Brazen Borrower</a> (ELD) 39<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Search for Azcanta</a> (XLN) 74<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Repudiate // Replicate</a> (RNA) 227<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Hall of Storm Giants</a> (AFR) 257<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Barkchannel Pathway </a>(KHM) 251<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Botanical Sanctum</a> (KLR) 281<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Breeding Pool </a>(RNA) 246<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Vineglimmer Snarl</a> (STX) 274<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Temple of Mystery</a> (M21) 254<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Command Tower</a> (ELD) 333<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Faceless Haven</a> (KHM) 255<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Field of Ruin</a> (XLN) 254<br>
+18 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Snow-Covered Island</a> (KHM) 278<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Hinterland Harbor</a> (DAR) 240<br>
+9 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Snow-Covered Forest</a> (KHM) 284<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Quandrix Campus </a>(STX) 271<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Rimewood Falls</a> (KHM) 266<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Thornwood Falls</a> (M20) 258</div></span><br>
+<br>
+<span class="spoiler-inline-js"><input type="button" value="Spoiler" class="button2" style="font-size:10px;padding:0 3px;border-radius:2px" onclick="nextSibling.style.display = nextSibling.style.display==='none' ? 'block' : 'none';"><div style="margin-top:3px;padding:5px;border:1px dotted darkgray;display:none">Commander<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Gallia of the Endless Dance</a> (THB) 217<br>
+<br>
+Deck<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Bomat Courier</a> (KLR) 225<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Fanatical Firebrand</a> (RIX) 101<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Fervent Champion</a> (ELD) 124<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Hall Monitor</a> (STX) 105<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Reckless Ringleader</a> (J21) 21<br>
+1<a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer"> Tin Street Dodger</a> (RNA) 120<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Gingerbrute</a> (ELD) 219<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Blazing Rootwalla</a> (MH2) 115<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Flameblade Adept</a> (AKH) 131<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Grim Lavamancer</a> (JMP) 331<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Jaspera Sentinel</a> (KHM) 178<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Llanowar Elves</a> (M19) 314<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Longtusk Stalker</a> (J21) 27<br>
+1<a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer"> Gilded Goose</a> (ELD) 160<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Pelt Collector</a> (GRN) 141<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Wildwood Tracker</a> (ELD) 183<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Robber of the Rich</a> (ELD) 138<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Earthshaker Khenra</a> (AKR) 152<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Burning-Tree Emissary</a> (GTC) 216<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Goblin Anarchomancer</a> (MH2) 200<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Zhur-Taa Goblin</a> (RNA) 215<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Ahn-Crop Crasher</a> (AKR) 137<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Arni Brokenbrow</a> (KHM) 120<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Bolt Hound</a> (M21) 131<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Irreverent Revelers</a> (THB) 143<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Legion Warboss</a> (GRN) 109<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Lightning Phoenix</a> (JMP) 21<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Phoenix of Ash</a> (THB) 148<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Subira, Tulzidi Caravanner</a> (M21) 162<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Captain Lannery Storm</a> (XLN) 136<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Gruul Spellbreaker</a> (RNA) 179<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Clamor Shaman</a> (RNA) 96<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Forbidden Friendship</a> (IKO) 119<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Chandra, Acolyte of Flame</a> (M20) 126<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Hazoret the Fervent</a> (AKR) 159<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Hellrider</a> (JMP) 334<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Questing Beast</a> (ELD) 171<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Glorybringer</a> (AKR) 157<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Goldspan Dragon</a> (KHM) 139<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Urabrask the Hidden</a> (NPH) 98<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Froghemoth </a>(AFR) 184<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Embercleave</a> (ELD) 120<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Lightning Bolt</a> (STA) 42<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Experimental Frenzy</a> (GRN) 99<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Once Upon a Time</a> (ELD) 169<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Ranger Class</a> (AFR) 202<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Gemrazer </a>(IKO) 155<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Inferno of the Star Mounts </a>(AFR) 151<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Toski, Bearer of Secrets</a> (KHM) 197<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Domri, Anarch of Bolas</a> (WAR) 191<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Abrade</a> (AKR) 136<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Thundering Rebuke </a>(ZNR) 170<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Domri's Ambush </a>(WAR) 192<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Dragon's Fire</a> (AFR) 139<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Wilt</a> (IKO) 176<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Universal Automaton</a> (MH1) 235<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Masked Vandal</a> (KHM) 184<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Goblin Ruinblaster</a> (ZEN) 127<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Unholy Heat</a> (MH2) 145<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Cragcrown Pathway</a> (ZNR) 261<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Stomping Ground</a> (RNA) 259<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Rootbound Crag</a> (XLN) 256<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Temple of Abandon</a> (THB) 244<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Command Tower</a> (ELD) 333<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Fabled Passage</a> (M21) 246<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Den of the Bugbear </a>(AFR) 254<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Ramunap Ruins</a> (AKR) 326<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Shatterskull Smashing</a> (ZNR) 161<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Lair of the Hydra</a> (AFR) 259<br>
+14 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Forest</a> (ANA) 9<br>
+16 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Mountain</a> (ANA) 7</div></span><br>
+<br>
+<span class="spoiler-inline-js"><input type="button" value="Spoiler" class="button2" style="font-size:10px;padding:0 3px;border-radius:2px" onclick="nextSibling.style.display = nextSibling.style.display==='none' ? 'block' : 'none';"><div style="margin-top:3px;padding:5px;border:1px dotted darkgray;display:none">Commander<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">General Kudro of Drannith</a> (IKO) 187<br>
+<br>
+Deck<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Giant Killer</a> (ELD) 14<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Dauntless Bodyguard</a> (DAR) 14<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Law-Rune Enforcer</a> (WAR) 20<br>
+1<a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer"> Thraben Inspector</a> (SOI) 44<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Ranger-Captain of Eos</a> (MH1) 21<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Hero of Precinct One</a> (RNA) 11<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Luminarch Aspirant</a> (ZNR) 24<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Seasoned Hallowblade</a> (M21) 34<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Thalia, Guardian of Thraben</a> (DKA) 24<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Tithe Taker</a> (RNA) 27<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Elite Spellbinder</a> (STX) 17<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Gideon Blackblade</a> (WAR) 13<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Cave of the Frost Dragon</a> (AFR) 253<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Thalia's Lieutenant</a> (J21) 27<br>
+12 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Snow-Covered Swamp</a> (KHM) 281<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Hive of the Eye Tyrant</a> (AFR) 258<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Sanctuary Lockdown</a> (IKO) 28<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Selfless Glyphweaver</a> (STX) 157<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Castle Ardenvale</a> (ELD) 238<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Basri's Lieutenant</a> (M21) 9<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Elspeth, Sun's Nemesis</a> (THB) 14<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Ranger of Eos</a> (ALA) 21<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Esper Sentinel</a> (MH2) 12<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Forsworn Paladin</a> (AFR) 104<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Command Tower</a> (ELD) 333<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Glint-Sleeve Siphoner</a> (KLR) 92<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Kitesail Freebooter</a> (XLN) 110<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Knight of Malice</a> (DAR) 97<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Orzhov Enforcer</a> (RNA) 79<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Priest of Forgotten Gods</a> (RNA) 83<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Seekers' Squire</a> (XLN) 121<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Faceless Agent</a> (J21) 1<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Demon's Disciple</a> (ZNR) 97<br>
+1<a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer"> Plaguecrafter</a> (GRN) 82<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Temple of Silence</a> (M21) 255<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Godless Shrine</a> (RNA) 248<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">General's Enforcer</a> (IKO) 188<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Imperious Oligarch</a> (RNA) 184<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Killian, Ink Duelist</a> (STX) 197<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Silverquill Silencer</a> (STX) 234<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Triumphant Adventurer</a> (AFR) 237<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Ajani, Adversary of Tyrants</a> (M19) 3<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Concealed Courtyard</a> (KLR) 282<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Rally the Ranks</a> (KHM) 20<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Kaya the Inexorable</a> (KHM) 218<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Isolated Chapel</a> (DAR) 241<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Swords to Plowshares</a> (STA) 10<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Radiant Destiny</a> (RIX) 18<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Brightclimb Pathway</a> (ZNR) 259<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Thoughtseize</a> (AKR) 127<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Subversive Acolyte</a> (J21) 19<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Shineshadow Snarl</a> (STX) 272<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Vraska's Contempt</a> (XLN) 129<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Gruesome Menagerie</a> (GRN) 71<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Command the Dreadhorde</a> (WAR) 82<br>
+1<a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer"> Despark</a> (STA) 59<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Sorin, Vengeful Bloodlord</a> (WAR) 217<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Metallic Mimic</a> (KLR) 251<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Icon of Ancestry</a> (M20) 229<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Vanquisher's Banner</a> (XLN) 251<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Banishing Light</a> (THB) 4<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Castle Locthwain</a> (ELD) 241<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Cast Out</a> (AKR) 9<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Conclave Tribunal</a> (GRN) 6<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Duress</a> (STA) 29<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Field of Ruin</a> (THB) 242<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Faceless Haven</a> (KHM) 255<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Fabled Passage</a> (ELD) 244<br>
+13 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Snow-Covered Plains</a> (KHM) 276<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Heartless Act</a> (IKO) 91<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Call of the Death-Dweller</a> (IKO) 78<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Drill Bit</a> (RNA) 73<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Dire Tactics</a> (IKO) 183<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Humiliate</a> (STX) 193<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Mortify</a> (RNA) 192<br>
+1 <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Agadeem's Awakening</a> (ZNR) 90<br>
+</div></span><br>
+<br>
+De manière générale, dans une optique compétitive je vois aucune raison de jouer 5 colours control. Y'a trop de decks rapides (la trinité kinnan/winota/freyalise) qui envoient dans l'espace les decks qui veulent avoir un tout petit peu de temps</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23519" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23519">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23519&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23519">
+
+					<h3 >
+						<a href="viewtopic_p23519.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23519&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23519.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-09-04T10:18:55+00:00">04 sept. 2021, 12:18</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Je viens de découvrir Freyalise ... quelle plaie ! <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"><br>
+<br>
+Merci <span class="mention">@Tom</span> pour ces listes ! Je vais les tester avec plaisir. Je jouais WG enchant pour l'instant, mais avec une liste qui ne me semblait pas optimale.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23525" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23525">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23525&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23525">
+
+					<h3 >
+						<a href="viewtopic_p23525.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23525&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23525.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2021-09-04T12:15:08+00:00">04 sept. 2021, 14:15</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=23519&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p23519"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p23519.html" aria-label="Consulter le message cité" data-post-id="23519" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">04 sept. 2021, 12:18</span></cite>
+Je viens de découvrir Freyalise ... quelle plaie ! <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy">
+</div></blockquote>
+
+moi aussi, mais pas en Brawl, en jumpstart... C'est vrai que ça manquait une carte bill dans un jeu elfe ultra bill...</div>
+
+			
+			
+									
+						
+							<div id="sig23525" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23538" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23538">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=82&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tom</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=82&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">259</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:35</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Tom">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Tom</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23538&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23538">
+
+					<h3 >
+						<a href="viewtopic_p23538.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23538&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23538.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=82&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Tom</a></strong> &raquo; </span><time datetime="2021-09-04T16:06:05+00:00">04 sept. 2021, 18:06</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=23519&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p23519"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Etienne</a> a écrit : <a href="viewtopic_p23519.html" aria-label="Consulter le message cité" data-post-id="23519" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">04 sept. 2021, 12:18</span></cite>
+Je viens de découvrir Freyalise ... quelle plaie ! <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"><br>
+<br>
+Merci @Tom pour ces listes ! Je vais les tester avec plaisir. Je jouais WG enchant pour l'instant, mais avec une liste qui ne me semblait pas optimale.
+</div></blockquote>
+
+j'ai un wg enchant qui fonctionne bien, je posterai la liste si tu veux comparer.<br>
+<br>
+Pour info la liste kumena est pas intuitive à bien jouer: faut surtout pas enchainer les ondins en mode j'aggresse, sur le début de game tu as deux objectifs, par ordre d'importance:<br>
+<br>
+1) contrer tout ce qui pourrait être un gros problème<br>
+2) assembler 3 ondins dont kumena pour draw<br>
+<br>
+si t'y arrives tu écrases l'adversaire sous le ça et tu tapes avec les ondins que tu ne mobilises pas pour draw  <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p23540" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile23540">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=23540&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content23540">
+
+					<h3 >
+						<a href="viewtopic_p23540.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=23540&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p23540.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2021-09-04T17:09:00+00:00">04 sept. 2021, 19:09</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Merci pour les listes. Justement je voulais songer à monter un jeu Merfolk, <del>par contre visiblement il manque Jumpstart 2 dans ton pool (je vois <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Lieuse-brume ondine</a> mais je ne vois pas <a class="card-link" href="#" target="_blank" rel="nofollow noopener noreferrer">Maître du Trident de Perles</a> par exemple). Je vais m'inspirer un peu cependant.</del><br>
+<br>
+Je suis aveugle <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"> merci pour les listes, je vais m'inspirer du Merfolk <img class="smilies" src="./images/smilies/icon_wink.gif" width="15" height="15" alt=";)" title="Wink"></div>
+
+			
+			
+									
+						
+							<div id="sig23540" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p27748" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile27748">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=27748&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content27748">
+
+					<h3 >
+						<a href="viewtopic_p27748.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=27748&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p27748.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-10-05T11:22:32+00:00">05 oct. 2021, 13:22</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Monté en 2-2 parce que j'avais une quête bleue.<br>
+<br>
+J'ai trouvé ça drôle.<br>
+
+<p class="decklist-link" data-target="_blank" data-rel="nofollow noopener noreferrer">Commander<br>
+1 Lier, Disciple of the Drowned (MID) 59<br>
+<br>
+Deck<br>
+1 Hall of Storm Giants (AFR) 257<br>
+1 Jwari Disruption (ZNR) 64<br>
+22 Snow-Covered Island (KHM) 278<br>
+1 Faceless Haven (KHM) 255<br>
+1 Arcane Signet (ELD) 331<br>
+1 Replicating Ring (KHM) 244<br>
+1 Consider (MID) 44<br>
+1 Fading Hope (MID) 51<br>
+1 Otherworldly Gaze (MID) 67<br>
+1 Shell Shield (ZNR) 79<br>
+1 You See a Guard Approach (AFR) 85<br>
+1 Deliberate (ZNR) 56<br>
+1 Behold the Multiverse (KHM) 46<br>
+1 Saw It Coming (KHM) 76<br>
+1 Negate (STA) 18<br>
+1 Mystic Reflection (KHM) 69<br>
+1 Resculpt (STX) 51<br>
+1 You Come to a River (AFR) 83<br>
+1 Graven Lore (KHM) 61<br>
+1 Maddening Cacophony (ZNR) 67<br>
+1 Serpentine Curve (STX) 52<br>
+1 Split the Party (AFR) 76<br>
+1 Tempted by the Oriq (STX) 58<br>
+1 Sleep (ANB) 33<br>
+1 Lullmage's Domination (ZNR) 66<br>
+1 Multiple Choice (STX) 48<br>
+1 Alrund's Epiphany (KHM) 41<br>
+1 Ravenform (KHM) 72<br>
+1 Mercurial Transformation (STX) 47<br>
+1 Ascendant Spirit (KHM) 43<br>
+1 Avalanche Caller (KHM) 45<br>
+1 Ruin Crab (ZNR) 75<br>
+1 Malevolent Hermit (MID) 61<br>
+1 Sea Gate Stormcaller (ZNR) 77<br>
+1 Unblinking Observer (MID) 82<br>
+1 Yuan-Ti Malison (AFR) 86<br>
+1 Icebreaker Kraken (KHM) 63<br>
+1 Iymrith, Desert Doom (AFR) 62
+</p></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p27749" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile27749">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=27749&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content27749">
+
+					<h3 >
+						<a href="viewtopic_p27749.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=27749&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p27749.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-10-05T11:23:45+00:00">05 oct. 2021, 13:23</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Mercurial transformation est une erreur. Je ne sais pas ce que j'ai mis à la place.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p27751" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile27751">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_85.jpeg" width="129" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=85&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">8679</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Zoorp">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Zoorp</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=27751&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content27751">
+
+					<h3 >
+						<a href="viewtopic_p27751.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=27751&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p27751.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=85&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Zoorp</a></strong> &raquo; </span><time datetime="2021-10-05T11:37:39+00:00">05 oct. 2021, 13:37</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Un deck bleu qui dit "pas de contre"?   Joli, à tester!</div>
+
+			
+			
+									
+						
+							<div id="sig27751" class="signature">Ragisacam  : "la religion, c'est juste le premier Ponzi ever"</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p27799" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile27799">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=93&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1916</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Etienne">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Etienne</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=27799&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content27799">
+
+					<h3 >
+						<a href="viewtopic_p27799.html">Re: [Brawl] Listes de decks</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=27799&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p27799.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=93&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Etienne</a></strong> &raquo; </span><time datetime="2021-10-05T16:33:08+00:00">05 oct. 2021, 18:33</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">le principe : jouer des spells tempo, et des spells qui posent des créatures. Les rejouer.<br>
+<br>
+Update "Mercurial transformation":<br>
+<span class="spoiler-inline-js"><input type="button" value="Spoiler" class="button2" style="font-size:10px;padding:0 3px;border-radius:2px" onclick="nextSibling.style.display = nextSibling.style.display==='none' ? 'block' : 'none';"><div style="margin-top:3px;padding:5px;border:1px dotted darkgray;display:none"><p class="decklist-link" data-target="_blank" data-rel="nofollow noopener noreferrer">Commander<br>
+1 Lier, Disciple of the Drowned (MID) 59<br>
+<br>
+Deck<br>
+1 Hall of Storm Giants (AFR) 257<br>
+1 Jwari Disruption (ZNR) 64<br>
+22 Snow-Covered Island (KHM) 278<br>
+1 Faceless Haven (KHM) 255<br>
+1 Arcane Signet (ELD) 331<br>
+1 Replicating Ring (KHM) 244<br>
+1 Consider (MID) 44<br>
+1 Fading Hope (MID) 51<br>
+1 Otherworldly Gaze (MID) 67<br>
+1 Shell Shield (ZNR) 79<br>
+1 You See a Guard Approach (AFR) 85<br>
+1 Deliberate (ZNR) 56<br>
+1 Behold the Multiverse (KHM) 46<br>
+1 Saw It Coming (KHM) 76<br>
+1 Negate (STA) 18<br>
+1 Mystic Reflection (KHM) 69<br>
+1 Resculpt (STX) 51<br>
+1 You Come to a River (AFR) 83<br>
+1 Graven Lore (KHM) 61<br>
+1 Maddening Cacophony (ZNR) 67<br>
+1 Serpentine Curve (STX) 52<br>
+1 Split the Party (AFR) 76<br>
+1 Tempted by the Oriq (STX) 58<br>
+1 Sleep (ANB) 33<br>
+1 Lullmage's Domination (ZNR) 66<br>
+1 Multiple Choice (STX) 48<br>
+1 Alrund's Epiphany (KHM) 41<br>
+1 Ravenform (KHM) 72<br>
+1 Mascot Exhibition (STX) 5<br>
+1 Ascendant Spirit (KHM) 43<br>
+1 Avalanche Caller (KHM) 45<br>
+1 Ruin Crab (ZNR) 75<br>
+1 Malevolent Hermit (MID) 61<br>
+1 Sea Gate Stormcaller (ZNR) 77<br>
+1 Unblinking Observer (MID) 82<br>
+1 Yuan-Ti Malison (AFR) 86<br>
+1 Iymrith, Desert Doom (AFR) 62<br>
+1 Introduction to Annihilation (STX) 3
+</p></div></span></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=187&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="viewtopic_t187.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=187&amp;start=25&amp;sid=929d7010353f40f53e5ffe01dedbffc9">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les messages</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="s">Sujet</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a" selected="selected">Croissant</option><option value="d">Décroissant</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Aller" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			56 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t187_start0.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t187.html>187</a></li>
+			<li class="active"><span>2</span></li>
+				<li><a class="button" href="viewtopic_t187_start50.html" role="button">3</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t187_start50.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="viewforum_f11.html" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à « Autres formats »</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Aller" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Aller</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="viewforum_f3.html" class="jumpbox-cat-link"> <span> Magic: The Gathering</span></a></li>
+																<li><a href="viewforum_f4.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Discussions</span></a></li>
+																<li><a href="viewforum_f5.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nouveautés &amp; Rumeurs</span></a></li>
+																<li><a href="viewforum_f8.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Draft &amp; Scellé</span></a></li>
+																<li><a href="viewforum_f9.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit compétitif</span></a></li>
+																<li><a href="viewforum_f10.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit non compétitif</span></a></li>
+																<li><a href="viewforum_f11.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Autres formats</span></a></li>
+																<li><a href="viewforum_f12.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Questions de règles</span></a></li>
+																<li><a href="viewforum_f13.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Magic Arena &amp; MTGO</span></a></li>
+																<li><a href="viewforum_f6.html" class="jumpbox-cat-link"> <span> Bavardages</span></a></li>
+																<li><a href="viewforum_f7.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Mène-à-Rien</span></a></li>
+																<li><a href="viewforum_f14.html" class="jumpbox-cat-link"> <span> Forums privés</span></a></li>
+																<li><a href="viewforum_f23.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Débats d'actualité et politique</span></a></li>
+																<li><a href="viewforum_f17.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Sports</span></a></li>
+																<li><a href="viewforum_f26.html" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Paris sportifs</span></a></li>
+																<li><a href="viewforum_f15.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Cinéma</span></a></li>
+																<li><a href="viewforum_f18.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Séries</span></a></li>
+																<li><a href="viewforum_f19.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Musique</span></a></li>
+																<li><a href="viewforum_f20.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Littérature - BD - Mangas</span></a></li>
+																<li><a href="viewforum_f21.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux vidéo</span></a></li>
+																<li><a href="viewforum_f22.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux de société</span></a></li>
+																<li><a href="viewforum_f16.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Loup-Garou</span></a></li>
+																<li><a href="viewforum_f27.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Secret Santa</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php?sid=929d7010353f40f53e5ffe01dedbffc9.html">Qui est en ligne ?</a></h3>
+		<p>Utilisateurs parcourant ce forum : Aucun utilisateur inscrit et 1 invité</p>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="index.html" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Accueil du forum</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+02:00</span></li>
+							<li class="rightside">
+				<a href="/app.php.html" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="La liste complète des membres du forum" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+				</a>
+			</li>
+							</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.php.html">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+		<p class="footer-row">
+			Prosilver Dark Edition by <a href="http://www.planetstyles.net/">Premium phpBB Styles</a>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.php.html">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+				<br>MTGVerse est un contenu de fan non officiel autorisé dans le cadre de la Politique des contenus de fans.
+<br>Ni approuvé, ni promu par Wizards. Certaines parties des matériaux utilisés sont la propriété de Wizards of the Coast.
+<br>©Wizards of the Coast LLC.		<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery-3.7.1.min.js?assets_version=128"></script>
+<script src="./assets/javascript/core.js?assets_version=128"></script>
+
+
+
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=128"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=128"></script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,2878 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Valeur du travail - Page 2 - MTGVerse</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - MTGVerse" href="/app.php.html">			<link rel="alternate" type="application/atom+xml" title="Flux - Nouveaux sujets" href="/app.php.html">		<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Débats d'actualité et politique" href="/app.php.html">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujet - Valeur du travail" href="/app.php.html">	
+	<link rel="canonical" href="viewtopic_t239.html">
+
+<!--
+	phpBB style name: Prosilver (Dark Edition)
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by: PlanetStyles.net ( http://www.planetstyles.net)
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/stylesheet.css?assets_version=128" rel="stylesheet">
+<link href="./styles/prosilver_dark/theme/fr/stylesheet.css?assets_version=128" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver_dark/theme/tweaks.css?assets_version=128" rel="stylesheet">
+<![endif]-->
+
+		<meta name="MAS" content="Member Avatar & Status [MAS]=Dark❶ [dark1]" />
+<style type="text/css">
+    .mention {
+        color: #ff4500;
+    }
+</style>
+<link href="./ext/dark1/memberavatarstatus/styles/all/theme/mas_header.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_background.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/hifikabin/headerbanner/styles/prosilver/theme/headerbanner_mobile.css?assets_version=128" rel="stylesheet" media="screen">
+<link href="./ext/paul999/mention/styles/all/theme/mention.css?assets_version=128" rel="stylesheet" media="screen">
+
+<link href="./styles/prosilver_dark/theme/colours/grey.css?assets_version=128" rel="stylesheet">
+
+<style>
+	.mas-status-dot.mas-color {
+		background-color: #000000;
+	}
+	.mas-status-dot.mas-color:after {
+		background-color: #000000;
+	}
+	.mas-status-online .mas-status-dot.mas-color {
+		background-color: #00FF00;
+	}
+	.mas-status-online .mas-status-dot.mas-color:after {
+		background-color: #00FF00;
+	}
+</style>
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+/* Responsive header banner: show only the full banner on desktop and the mobile one on small screens. */
+.banner-header { text-align: center; margin: 0 auto; }
+.banner-header .header-banner img, .banner-header .mobile-header-banner img { display:block; max-width:100%; height:auto; margin:0 auto; }
+/* hide mobile banner on desktop */
+.banner-header .mobile-header-banner { display: none; }
+/* show mobile banner only on small screens and hide full banner there */
+@media only screen and (max-width: 700px) {
+  .banner-header .mobile-header-banner { display: block !important; }
+  .banner-header .header-banner { display: none !important; }
+}
+/* Hide the style name and other small theme credit labels which were left in the static export */
+/* Hide the style name and other small theme credit labels which were left in the static export */
+.copyright .footer-row, .site_logo::before, .style-name, .prosilver-label { display: none !important; }
+/* Additional header selectors to hide ProSilver label/logo left by theme in header */
+.site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
+/* Hide posting / reply / new topic / registration / login controls on static site */
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+/* Hide reply/quote links inside posts */
+a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
+/* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
+#hidden { display: none !important; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="index.html" title="Accueil du forum"><span class="site_logo"></span></a>
+				<h1>MTGVerse</h1>
+				<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									<div class="banner-header">
+<div id="hidden">
+	<h1>MTGVerse</h1>
+	<p>La communauté Magic qui parle beaucoup de tout, et un peu de Magic</p>
+	<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+</div>
+<div class="header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="header-banner" src="https://mtgverse.com/images/banner_full.jpg" alt="Accueil du forum" ></a>
+	</div>
+<div class="mobile-header-banner">
+			<a href="index.html" title="Accueil du forum"><img class="mobile-header-banner" src="https://mtgverse.com/images/banner_700.jpg" alt="Accueil du forum" ></a>
+	</div>
+</div>
+
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+											<li class="separator"></li>
+																									<li>
+								<a href="./search.html?search_id=unanswered&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-gray" aria-hidden="true"></i><span>Sujets sans réponse</span>
+								</a>
+							</li>
+							<li>
+								<a href="./search.html?search_id=active_topics&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-file-o fa-fw icon-blue" aria-hidden="true"></i><span>Sujets actifs</span>
+								</a>
+							</li>
+							<li class="separator"></li>
+							<li>
+								<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+									<i class="icon fa-search fa-fw" aria-hidden="true"></i><span>Rechercher</span>
+								</a>
+							</li>
+					
+											<li class="separator"></li>
+													<li>
+								<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+								</a>
+							</li>
+																			<li>
+								<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+									<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+								</a>
+							</li>
+																<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php.html" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewtopic.php.html" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="index.html" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Accueil du forum</span></a><meta itemprop="position" content="1" /></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="14"><a itemprop="item" href="viewforum_f14.html"><span itemprop="name">Forums privés</span></a><meta itemprop="position" content="2" /></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="23"><a itemprop="item" href="viewforum_f23.html"><span itemprop="name">Débats d'actualité et politique</span></a><meta itemprop="position" content="3" /></span>
+							
+					</li>
+
+		<li id="search-box" class="search-box rightside responsive-hide">
+	<form action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9" method="get" id="search">
+	<fieldset>
+		<input name="keywords" id="keyword" type="search" maxlength="128" title="Rechercher par mots-clés" class="inputbox search tiny" size="20" value="" placeholder="Rechercher…" >
+		<button class="button button-search" type="submit" title="Rechercher">
+		<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+		</button>
+		<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+		<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+		</a>
+	</fieldset>
+</form>
+</li>
+<li class="rightside responsive-search">
+	<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Accéder aux paramètres avancés de la recherche" role="menuitem">
+	<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+	</a>
+</li>
+
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="viewtopic_t239.html">Valeur du travail</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body -->
+<div style="display: none !important;">Pour débattre de l'actualité et bien plus encore<br /></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=239&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=239&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t239.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+			<div class="search-box" role="search">
+			<form method="get" id="topic-search" action="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9">
+			<fieldset>
+				<input class="inputbox search tiny"  type="search" name="keywords" id="search_keywords" size="20" placeholder="Rechercher…" />
+				<button class="button button-search" type="submit" title="Rechercher">
+					<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">Rechercher</span>
+				</button>
+				<a href="./search.html?sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button button-search-end" title="Recherche avancée">
+					<i class="icon fa-cog fa-fw" aria-hidden="true"></i><span class="sr-only">Recherche avancée</span>
+				</a>
+				<input type="hidden" name="t" value="239" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="929d7010353f40f53e5ffe01dedbffc9" />
+
+			</fieldset>
+			</form>
+		</div>
+	
+			<div class="pagination">
+			96 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t239_start0.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t239.html>239</a></li>
+			<li class="active"><span>2</span></li>
+				<li><a class="button" href="viewtopic_t239_start50.html" role="button">3</a></li>
+				<li><a class="button" href="viewtopic_t239_start75.html" role="button">4</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t239_start50.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+	<form method="post" action="./viewtopic.php?t=239&amp;start=25&amp;sid=929d7010353f40f53e5ffe01dedbffc9" data-ajax="vote_poll" data-refresh="true" class="topic_poll">
+
+	<div class="panel">
+		<div class="inner">
+
+		<div class="content">
+			<h2 class="poll-title">Combien d'heures en moyenne consacrez vous à votre emploi par semaine ?</h2>
+			<p class="author"><span class="poll_max_votes">Vous pouvez sélectionner 1 option</span></p>
+
+			<fieldset class="polls">
+											<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="1">
+					<dt><label for="vote_1">Moins de 35 heures</label></dt>
+					<dd style="width: auto;" class="poll_option_select"><input type="radio" name="vote_id[]" id="vote_1" value="1" /></dd>					<dd class="resultbar hidden"><div class="pollbar2" style="width:71%;">25</div></dd>
+					<dd class="poll_option_percent hidden">27%</dd>
+				</dl>
+															<dl class=" most-votes" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="2">
+					<dt><label for="vote_2">De 35 à 39 heures</label></dt>
+					<dd style="width: auto;" class="poll_option_select"><input type="radio" name="vote_id[]" id="vote_2" value="2" /></dd>					<dd class="resultbar hidden"><div class="pollbar2" style="width:100%;">35</div></dd>
+					<dd class="poll_option_percent hidden">38%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="3">
+					<dt><label for="vote_3">De 40 à 45 heures</label></dt>
+					<dd style="width: auto;" class="poll_option_select"><input type="radio" name="vote_id[]" id="vote_3" value="3" /></dd>					<dd class="resultbar hidden"><div class="pollbar2" style="width:60%;">21</div></dd>
+					<dd class="poll_option_percent hidden">23%</dd>
+				</dl>
+															<dl class="" data-alt-text="Vous avez voté pour cette option" data-poll-option-id="4">
+					<dt><label for="vote_4">Plus de 45 heures</label></dt>
+					<dd style="width: auto;" class="poll_option_select"><input type="radio" name="vote_id[]" id="vote_4" value="4" /></dd>					<dd class="resultbar hidden"><div class="pollbar1" style="width:31%;">11</div></dd>
+					<dd class="poll_option_percent hidden">12%</dd>
+				</dl>
+							
+				<dl class="poll_total_votes hidden">
+					<dt>&nbsp;</dt>
+					<dd class="resultbar">Nombre total de votes : <span class="poll_total_vote_cnt">92</span></dd>
+				</dl>
+
+							<dl style="border-top: none;" class="poll_vote">
+					<dt>&nbsp;</dt>
+					<dd class="resultbar"><input type="submit" name="update" value="Voter" class="button1" /></dd>
+				</dl>
+			
+							<dl style="border-top: none;" class="poll_view_results">
+					<dt>&nbsp;</dt>
+					<dd class="resultbar"><a href="viewtopic_t239.html">Consulter les résultats</a></dd>
+				</dl>
+						</fieldset>
+			<div class="vote-submitted hidden">Votre vote a bien été comptabilisé.</div>
+		</div>
+
+		</div>
+		<input type="hidden" name="creation_time" value="1760987385" />
+<input type="hidden" name="form_token" value="2e2f31d7a2218f3c1b51a0527a98ac48d982acf1" />
+
+		
+	</div>
+
+	</form>
+	<hr />
+
+
+			<div id="p6028" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6028">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">remfortz</a>							</dt>
+
+						<dd class="profile-rank">Joueur d'octobre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=201&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">209</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 12:00</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter remfortz">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter remfortz</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6028&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6028">
+
+					<h3 class="first">
+						<a href="viewtopic_p6028.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6028&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6028.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">remfortz</a></strong> &raquo; </span><time datetime="2021-05-10T15:25:40+00:00">10 mai 2021, 17:25</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=5828&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p5828"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=131&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Yoman</a> a écrit : <a href="viewtopic_p5828.html" aria-label="Consulter le message cité" data-post-id="5828" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 09:24</span></cite>
+<blockquote cite="./viewtopic.php?p=5779&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p5779"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">remfortz</a> a écrit : <a href="viewtopic_p5779.html" aria-label="Consulter le message cité" data-post-id="5779" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 06:02</span></cite>
+Pour moi, les deux critères les plus essentiels c'est d'être libre &amp; d'avoir de l'impact ( ou en tout cas de le croire ). A partir de là, je suis chaud travailler tout le temps. 
+</div></blockquote>
+Avec un tel mindset, tu n'as jamais pensé à monter ta boite ?<br>
+En plus ca effacerait ton "handicap" d''être non diplomé.
+</div></blockquote>
+
+C'est ce que je fais actuellement, j'ai fait une rupture conventionnelle avec le conseil et inch'allah. Je monte une boite de data dans magic.<br>
+<br>
+Dans mon parcours, mon CV n'était problématique que quand j'avais pas une bonne histoire à raconter autour. Le conseil m'a appris à le faire et maintenant que j'ai la validation marché d'avoir été CDI dans un cabinet, c'est plutôt un avantage qu'autre chose.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6047" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6047">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_50.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">Mazz</a>							</dt>
+
+						<dd class="profile-rank">Alpha</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=50&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">3227</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 16:51</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Mazz">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Mazz</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6047&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6047">
+
+					<h3 >
+						<a href="viewtopic_p6047.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6047&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6047.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">Mazz</a></strong> &raquo; </span><time datetime="2021-05-10T16:31:31+00:00">10 mai 2021, 18:31</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6021&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6021"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=336&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">KevinD</a> a écrit : <a href="viewtopic_p6021.html" aria-label="Consulter le message cité" data-post-id="6021" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 17:11</span></cite>
+Jusqu'au CoVid, j'étais adepte de la semaine de 35h en trois jours (parfois plus selon l'absence de qualité de l'organisateur - moi compris - du tournoi) environ 30-35 week-ends par an. Ajoutez à ça deux journées de transport oscillant entre 8 et 18h porte à porte, que j'ai fini par considérer comme du travail tellement c'est crevant et les deux derniers jours, un peu de préparation sur les semaines à venir.<br>
+Les trois dernières années auront été à la fois les plus lucratives (en brut salarié, disons 40k) et les pires d'un point de vue humain. Management toxique, sous contrat de prestataire US (qui était plutôt bon donc licenciement à 30 jours #W00t ), "collègues" ultra-compétitifs. Au bout du compte, je suis presque content que les tournois se soient arrêtés, ça m'a permis de faire le point sur ma vie plutôt que de continuer le nez dans le guidon à aller dans le mur.<br>
+<br>
+Ce qui m'a permis de me demander ce que je veux sur le reste de ma vie:<br>
+1- Faire des trucs qui contribuent à la société. Je préfère ne pas travailler que prendre un BS job.<br>
+2- Transmettre du savoir. J'aime bien raconter ma vie et j'ai la prétention d'en tirer des leçons demi-applicables.<br>
+3- Pas plus de 20h/semaine (et encore 20h c'est beaucoup). Notez que si un projet me motive énormément, je pourrais facilement y consacrer beaucoup plus mais l'idée d'avoir l'obligation de travailler à temps plein ne me convient plus.<br>
+4- Le salaire, je m'en moque un peu dans l'absolu, mais un salaire qui ne me satisferait pas intellectuellement (impression d'être sous-valorisé) est un frein à ma motivation. "Je ne le fais pas pour l'argent, mais je ne travaille pas gratuitement"<br>
+5- Peu de contrôle. Il n'y a rien qui m'agace plus que le feedback non construit ou l'impression d'être "contrôlé par principe". Je crois que dans les professions intellectuelles, le micro-management est rédhibitoire, surtout on sent que la personne qui "manage" pose des questions par principe sans vraiment écouter la réponse.<br>
+<br>
+Après, tout ce que je dis là, c'est plus facile quand on checke un bon paquet de privilèges.<br>
+<br>
+Kevin.
+</div></blockquote>
+
+Fini l'arbitrage du coup ?</div>
+
+			
+			
+									
+						
+							<div id="sig6047" class="signature">Laissez les bons temps rouler</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6053" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6053">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=160&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">2Hit Combo</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=160&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">201</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:11</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter 2Hit Combo">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter 2Hit Combo</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6053&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6053">
+
+					<h3 >
+						<a href="viewtopic_p6053.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6053&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6053.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=160&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">2Hit Combo</a></strong> &raquo; </span><time datetime="2021-05-10T16:50:25+00:00">10 mai 2021, 18:50</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">J'ai fait un M2 à la fac, ensuite je voulais pas trop bosser, j'ai fait un an supp en IEJ rattache à ma fac puis, la mort dans l'âme, j'ai du me résoudre  entrer sur le marché du travail. <br>
+<br>
+J'avais fait 0 stage, mon seul contact avec le monde du travail c'était mon stage de troisième (famille de fonctionnaires) , ça partait bien. <br>
+<br>
+Je suis tombé dans le monde de l'associatif, payé par des fonds publics. Grosse asso, plus de 600 salariés. <br>
+<br>
+ Très mal payés pour le niveau de responsabilité, L'État s'est bien rendu compte qu'il attirait les pires profils avec ce niveau de rémunération. Il y a un changement il y a 15 ans, avant que je débute, et l'État a décidé à la place de rétribuer avec du temps. J'ai donc chaque année douze semaines de vacances, soit une par mois. Ça attire surtout, au lieu des andouilles, les jeunes mères et les fumistes.<br>
+<br>
+On a quand même encore pas mal d'andouilles et comme c'est une asso, même si on brasse masse thunes, on ne licencie pas. On a donc des vieux dinosaures incapables d'utiliser un ordinateur et une secretaire qui tape les courriers qui lui sont remis sous forme manuscrite. On a encore un fax dans chaque service. L'avantage, c'est qu'au milieu de tout ça, on peut réussir à bosser le tiers ou la moitié du temps de présence et encore être devant pas mal de collègues. <br>
+<br>
+En étant père de famille, c'est assez appréciable et comme on a commencé à développer le travail, c'est pépère. Impossible de se défoncer au taff pour avoir une prime ou une promotion en revanche, c'est comme dans la fonction publique, échelons et augmentations à l'ancienneté, ce qui pousse à rien branler.<br>
+L'un dans l'autre, le rythme de croisière est agréable mais je me demande ce que ca donnerait si je partais dans une boîte sérieuse.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6058" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6058">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=241&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Snox</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=241&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">51</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 15:59</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Snox">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Snox</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6058&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6058">
+
+					<h3 >
+						<a href="viewtopic_p6058.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6058&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6058.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=241&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Snox</a></strong> &raquo; </span><time datetime="2021-05-10T17:13:18+00:00">10 mai 2021, 19:13</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Un essai de 1932 toujours d'actualité. Il existe en version livre/papier en France. Mais j'ai pas trouvé en ligne (j'ai pas cherché au delà de la page 1 de Google faut dire). <br>
+<br>
+Éloge de l'oisiveté<br>
+<br>
+<a href="https://harpers.org/archive/1932/10/in-praise-of-idleness/" class="postlink" target="_blank" rel="noopener noreferrer nofollow">https://harpers.org/archive/1932/10/in- ... -idleness/</a></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6069" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6069">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=336&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">KevinD</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=336&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">128</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 29 avr. 2021, 23:41</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter KevinD">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter KevinD</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6069&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6069">
+
+					<h3 >
+						<a href="viewtopic_p6069.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6069&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6069.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=336&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">KevinD</a></strong> &raquo; </span><time datetime="2021-05-10T18:39:10+00:00">10 mai 2021, 20:39</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6047&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6047"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Mazz</a> a écrit : <a href="viewtopic_p6047.html" aria-label="Consulter le message cité" data-post-id="6047" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 18:31</span></cite>
+<blockquote cite="./viewtopic.php?p=6021&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6021"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=336&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">KevinD</a> a écrit : <a href="viewtopic_p6021.html" aria-label="Consulter le message cité" data-post-id="6021" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 17:11</span></cite>
+Jusqu'au CoVid, j'étais adepte de la semaine de 35h en trois jours (parfois plus selon l'absence de qualité de l'organisateur - moi compris - du tournoi) environ 30-35 week-ends par an. Ajoutez à ça deux journées de transport oscillant entre 8 et 18h porte à porte, que j'ai fini par considérer comme du travail tellement c'est crevant et les deux derniers jours, un peu de préparation sur les semaines à venir.<br>
+Les trois dernières années auront été à la fois les plus lucratives (en brut salarié, disons 40k) et les pires d'un point de vue humain. Management toxique, sous contrat de prestataire US (qui était plutôt bon donc licenciement à 30 jours #W00t ), "collègues" ultra-compétitifs. Au bout du compte, je suis presque content que les tournois se soient arrêtés, ça m'a permis de faire le point sur ma vie plutôt que de continuer le nez dans le guidon à aller dans le mur.<br>
+<br>
+Ce qui m'a permis de me demander ce que je veux sur le reste de ma vie:<br>
+1- Faire des trucs qui contribuent à la société. Je préfère ne pas travailler que prendre un BS job.<br>
+2- Transmettre du savoir. J'aime bien raconter ma vie et j'ai la prétention d'en tirer des leçons demi-applicables.<br>
+3- Pas plus de 20h/semaine (et encore 20h c'est beaucoup). Notez que si un projet me motive énormément, je pourrais facilement y consacrer beaucoup plus mais l'idée d'avoir l'obligation de travailler à temps plein ne me convient plus.<br>
+4- Le salaire, je m'en moque un peu dans l'absolu, mais un salaire qui ne me satisferait pas intellectuellement (impression d'être sous-valorisé) est un frein à ma motivation. "Je ne le fais pas pour l'argent, mais je ne travaille pas gratuitement"<br>
+5- Peu de contrôle. Il n'y a rien qui m'agace plus que le feedback non construit ou l'impression d'être "contrôlé par principe". Je crois que dans les professions intellectuelles, le micro-management est rédhibitoire, surtout on sent que la personne qui "manage" pose des questions par principe sans vraiment écouter la réponse.<br>
+<br>
+Après, tout ce que je dis là, c'est plus facile quand on checke un bon paquet de privilèges.<br>
+<br>
+Kevin.
+</div></blockquote>
+
+Fini l'arbitrage du coup ?
+</div></blockquote>
+C'est surtout que je ne vois pas dans quelles conditions ça pourrait redevenir attractif pour moi. Mon kif c'était de regarder des parties de joueurs pro et de réparer des erreurs de jeu complexes et d'enquêter pour triche.<br>
+Or je ne pense pas une seconde que le jeu pro reviendra un jour au format papier (Warning : Je n'ai aucun intel là-dessus, c'est juste mon analyse) - mais sait-on jamais et à ce moment là je pourrai me reposer la question - et lancer des drafts à 8 ou des pods de Commander à 4 c'est loin du kif que j'ai décrit juste au-dessus. Par contre je pense possible que reviennent des "conventions", en gros uniquement des Side events.<br>
+<br>
+Kevin.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6080" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6080">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_276.jpg" width="124" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=276&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1896</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 27 avr. 2021, 01:16</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Stef">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Stef</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6080&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6080">
+
+					<h3 >
+						<a href="viewtopic_p6080.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6080&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6080.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Stef</a></strong> &raquo; </span><time datetime="2021-05-10T19:14:16+00:00">10 mai 2021, 21:14</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">C'est rare que je lise un thread avec des posts aussi longs <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"> (et j'avoue, je n'ai pas tout lu mais la plupart, et il y a des témoignages très intéressants merci kevind, samish, et quelques autres...)<br>
+<br>
+Je veux cependant juste dire que la structure du sondage initial, mais aussi la plupart de vos témoignages, me donnent l'impression que je dois vous apparaître comme vivant dans un autre monde... vu que des notions comme durée du temps de travail, congés payés (je n'ai pas pris de réels congés depuis août 2017 et c'était 1 semaine...), droit du travail etc, c'est complètement, mais alors complètement en dehors de mon prisme de pensée professionnel, en tant qu'indépendant. Et j'ai souvent un peu l'impression d'être assez un cas unique sur le forum MF/V, y'a pas trop de témoignages dans lesquels je me reconnais de près ou de loin.<br>
+<br>
+Et le manque "d'options" au sondage m'a donné l'impression que dans la tête de beaucoup, en dehors des "structures classiques" du salariat (grosso modo), il n'y a rien de réellement "existant" -je ne sais pas comment le dire-. J'entendais une pub dire il y a quelques temps "indépendants (ou commerçants je ne sais plus) : vous ne comptez pas vos heures". Et c'est tellement vrai ! Je n'ai absolument aucune idée de mon temps de travail hebdo, je pense que par semaine je dois faire moins de 35h, mais rapporté au fait que je n'ai ni congés ni week-end ni jours fériés, le ratio par rapport aux salariés/fonctionnaires doit s'inverser assez largement.<br>
+<br>
+C'est un rythme de vie vraiment spécial d'avoir sa vie pro à ce point imbriquée dans sa vie perso, au point de se demander souvent si un acte relève du privé ou du professionnel (c'était le cas quand j'étais obligé de m'occuper du forum MF, et que ça me gavait parce que ça tombait sur de mauvais moments... mais aussi sur plein d'autres moments, genre si je fais un achat de cartes lors d'un FNM où je suis sensé m'amuser, à la Poste, etc...). Mais aussi d'être tout à la fois "tout le temps dispo" et "jamais dispo", ou encore d'ignorer quand le taf tombera (non, je ne m'attendais pas hier à 17h, que 3 commandes de joueurs EDH importantes tomberaient et me fassent taffer de 21h jusqu'à 3h du matin pour qu'elles soient expédiées ce midi...), de n'avoir qu'une visibilité extrêmement succinte de l'avenir à court terme et à long terme...</div>
+
+			
+			
+									
+						
+							<div id="sig6080" class="signature">Si on pouvait éviter twitter pour faire de la politique, pour commencer...</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6109" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6109">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_147.png" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Watanabe</a>							</dt>
+
+						<dd class="profile-rank">Belge</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=147&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">346</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Watanabe">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Watanabe</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6109&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6109">
+
+					<h3 >
+						<a href="viewtopic_p6109.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6109&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6109.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Watanabe</a></strong> &raquo; </span><time datetime="2021-05-10T20:02:02+00:00">10 mai 2021, 22:02</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6028&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6028"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">remfortz</a> a écrit : <a href="viewtopic_p6028.html" aria-label="Consulter le message cité" data-post-id="6028" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 17:25</span></cite>
+C'est ce que je fais actuellement, j'ai fait une rupture conventionnelle avec le conseil et inch'allah. Je monte une boite de data dans magic.<br>
+<br>
+Dans mon parcours, mon CV n'était problématique que quand j'avais pas une bonne histoire à raconter autour. Le conseil m'a appris à le faire et maintenant que j'ai la validation marché d'avoir été CDI dans un cabinet, c'est plutôt un avantage qu'autre chose.
+</div></blockquote>
+
+J'imagine que tu le savais déjà, mais Tolki a monté une boite pour faire de la data dans LoL.<br>
+Comme c'est aussi un ancien joueur de MtG, que tu dois mieux connaitre que moi, y'a ptet des filons à prendre.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6110" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6110">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=87&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_87.jpg" width="100" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=87&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Boldhead</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=87&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1131</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 06:52</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Boldhead">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Boldhead</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6110&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6110">
+
+					<h3 >
+						<a href="viewtopic_p6110.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6110&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6110.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=87&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Boldhead</a></strong> &raquo; </span><time datetime="2021-05-10T20:04:47+00:00">10 mai 2021, 22:04</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Rien à voir avec le topic mais il m'a fallu du temps pour comprendre pour "Stef"... J'avais pas fait le lien  <img class="smilies" src="./images/smilies/icon_redface.gif" width="15" height="15" alt=":oops:" title="Embarassed"> <br>
+<br>
+C'était en effet plus une discussion sur la base d'un travail salarié tant la situation d'un indépendant peut varier et tant certains questionnement peuvent être caduques par la nature même des aléas (variabilité des CA en fonction des périodes, incertitudes,...) mais c'est également extrêmement intéressant et mériterai son thread à part entière.<br>
+Cela étant, je pense que ta situation est aussi particulière au sein des indépendants : quelqu'un disposant d'une boutique physique (i.e assujettie à des horaires de ventes) et dont le métier ne touche pas directement à son loisir/passion aura plus de facilité à discerner vie perso et vie pro. Même si l'investissement émotionnel en tant qu'indépendant reste très important.<br>
+<br>
+Mais cela n'empêche pas à mon sens de pouvoir quantifier son temps de travail effectif. Je pense toujours que c'est un raisonnement sain de bien mesurer cette implication aussi pour des indépendants afin d'éviter aussi certains surmenages et cadrer plus correctement les écarts. <br>
+Par exemple, dans ma réponse, j'ai "rationalisé" les temps de travail en un tout, sachant que comme Wata et hormis des points de rdv impondérables en journée, je peux rester assez libre dans l'organisation de mon boulot. Et en travaillant sur des sites ouverts 24/24 7/7, crois moi qu'il m'est arrivé de travailler de nuit, de weekends,... et de reprendre comme une fleur le lendemain matin. <br>
+Il m'arrive encore très régulièrement d'être appelé en congés, en we etc...<br>
+Je n'avais donc pas en tête les 35h "classiques" mais bien le fait de ramener toutes les heures productives ou assimilées (i.e nécessaire à un temps de travail productif) à un temps  global.<br>
+<br>
+Ce n'est surement pas l'indicateur le plus pertinent dans ton cas ou d'autres, mais c'est celui qui me semblait le plus facilement "traduisible" et comparable entre secteurs d'activité. <br>
+Et cela a eu le mérite d'ouvrir la discussion (ou en tout cas d'ouvrir la porte à plein de témoignages) et je suis ravi de la longueur des posts  <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"> <br>
+<br>
+Pour ma part, je reste très surpris de la répartition des réponses majoritairement dans la moitié inférieure du sondage tant je pensais que la catégorie de population sur MTGV se prêtait plus à l'inverse.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6169" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6169">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=91&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_91.jpeg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=91&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Majax</a>							</dt>
+
+						<dd class="profile-rank">Lorenzo Lamas</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=91&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">4593</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 07:29</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Majax">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Majax</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6169&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6169">
+
+					<h3 >
+						<a href="viewtopic_p6169.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6169&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6169.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=91&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Majax</a></strong> &raquo; </span><time datetime="2021-05-10T21:17:33+00:00">10 mai 2021, 23:17</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Super ce topic. Je vais poser ma contribution demain vu que ma vision et mon parcours ont l'air totalement différents de ce qui a été écrit pour le moment.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6192" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6192">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=156&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mrsky</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=156&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">13</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:03</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Mrsky">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Mrsky</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6192&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6192">
+
+					<h3 >
+						<a href="viewtopic_p6192.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6192&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6192.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=156&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mrsky</a></strong> &raquo; </span><time datetime="2021-05-10T21:49:48+00:00">10 mai 2021, 23:49</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=5767&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p5767"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=87&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Boldhead</a> a écrit : <a href="viewtopic_p5767.html" aria-label="Consulter le message cité" data-post-id="5767" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">09 mai 2021, 23:44</span></cite>- Catégorie sociale : Cadre, Agent de Maitrise, Ouvrier/employé ? Avec ou sans management ?<br>
+- Quel est votre critère prioritaire en terme d'emploi ?<br>
+- Seriez vous prêts à consacrer plus de temps à votre travail en échange d'un meilleur salaire ? Et inversement (temps partiel) ?</div></blockquote>
+- Indépendant<br>
+- Apprendre des trucs, créer des trucs, ne pas me faire chier<br>
+- Non mais je gagne déjà bien ma vie (~4k/mois à Lyon) donc c'est biaisé<br>
+<br>
+Je fais parti des gens qui s'éclatent au boulot, donc la valeur du travail c'est délicat à évaluer pour moi car la composante fun existe et compte beaucoup. Le statut d'indépendant me permet de gérer mon temps comme je veux ce qui me permet ensuite de développer des projets perso qui idéalement me feront vivre un jour. La liberté géographique et de gestion de mon temps est primordiale.<br>
+<br>
+Parcours type "je sais pas quoi foutre de ma life" de mon côté je suis suis retrouvé diplômé d'une école de commerce de milieu/bas de tableau en me laissant porter par la vie (après un passage a la fac). Diplômé en 2009 dans la période subprimes, ma formation spé controle de gestion se retrouve confrontée au lockdown des embauches de tous les grands groupes et je me retrouve dans une TPE de collecte et revente de données personnelles. Après 2-3 ans à dans l'ordre : m'amuser a créer les systèmes pour opti la collecte, découvrir le milieu des agences de comm, vomir le milieu des agences de comm, comprendre l'enjeu autour des dites données (en 2009/10 c'était pas comme aujourd'hui), je fais une rupture conventionnelle et je me casse.<br>
+<br>
+Pendant 8-10 mois j'en branle pas une, ne sachant pas trop quoi faire : 3 ans après mon diplôme, les boites dans mon domaine venaient à peine de recommencer à recruter et évidemment ils prennent les nouveaux sortants d'école en priorité. Bref c'est la merde. Par le plus grand des hasard je me retrouve à être top level sur un jeu par navigateur (Travian) et pour passer next level j'ai l'idée d'un outil à dev qui aiderait : problème je suis pas dev. Du coup je m'y met comme ça et en 2 mois une première version de l'outil voit le jour, que je partage avec les autres gros joueurs de l'équipe. L'outil leak et en moins de 6 mois et plusieurs upgrades je me retrouve à gérer un outil utilisé par ~1000 utilisateurs uniques par mois, c'est le début de l'aventure.<br>
+<br>
+8-9 ans plus tard, dont 2+ à vivre dans le sud et 3+ à vivre et bosser à l'étranger (Auckland, NZ), retour au pays en indépendant ce qui me permet de moduler mon temps comme je veux et de bien gagner ma vie, et aussi full remote je bosse d'où je veux. J'ai pas d'enfants et je suis minimaliste donc j'ai pas besoin de beaucoup pour vivre bien, pour le moment je fais un stack pour un achat immobilier (et des Soldevi excavations).</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6197" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6197">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_51.jpg" width="120" height="89" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">sapro</a>							</dt>
+
+						<dd class="profile-rank">Omega</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=51&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">3698</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 20:22</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter sapro">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter sapro</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6197&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6197">
+
+					<h3 >
+						<a href="viewtopic_p6197.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6197&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6197.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">sapro</a></strong> &raquo; </span><time datetime="2021-05-10T22:03:35+00:00">11 mai 2021, 00:03</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ahah, ça doit faire 10 ans que j’avais pas entendu parler de travian, et hier j’ai cherché car j’en ai eu un souvenir en regardant des jeux sur browser <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6201" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6201">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=179&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Skitleer</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=179&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">23</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:52</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Skitleer">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Skitleer</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6201">
+
+					<h3 >
+						<a href="viewtopic_p6201.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6201&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6201.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=179&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Skitleer</a></strong> &raquo; </span><time datetime="2021-05-10T22:09:16+00:00">11 mai 2021, 00:09</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Sympa ce topic. Pour ma part rien de très original. Cadre dans l'informatique depuis bientôt 20 ans, ayant toujours pris soin d'éviter tout ce qui peut s'apparenter a du management. <br>
+Environ 39 h par semaine ( j'ai répondu 35-39, mais ça aurait pu être 40-45).<br>
+Mes critères pour un taf : un minimum intéressant (mais pas vraiment de besoin de me sentir utile : je pourrai dev des applis que personne utilise, si je peux m'amuser à faire du "beau" code ça me va), pas trop de pression, une bonne ambiance de travail, un salaire qui me permet de maintenir mon niveau de vie, suffisamment de vacances. Je suis assez peu aventureux, donc il faudrait un assez gros gap pour que je saute le pas (je sais ce que je perds, mais pas ce que je retrouve.…)<br>
+Au niveau temps de travail, j'ai passe presque 6ans a 80%. A l'époque j'avais réussi à évoluer en interne pour augmenter suffisamment mon salaire pour me le permettre, donc j'étais plutôt dans l'optique gagner plus pour travailler moins. Aujourd'hui j'ai moins le besoin de ce temps supplémentaire donc j'en profite pour gagner plus, mais il est fort possible que je revienne à temps partiel dans quelques années si le besoin s'en fait sentir (quand ma copine n'aura de nouveau plus ses weekend de libre par ex)</div>
+
+			
+			
+									
+						
+							<div id="sig6201" class="signature">https://t.me/pump_upp</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6202" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6202">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=156&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mrsky</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=156&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">13</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:03</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Mrsky">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Mrsky</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6202&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6202">
+
+					<h3 >
+						<a href="viewtopic_p6202.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6202&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6202.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=156&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mrsky</a></strong> &raquo; </span><time datetime="2021-05-10T22:24:58+00:00">11 mai 2021, 00:24</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6197&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6197"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">sapro</a> a écrit : <a href="viewtopic_p6197.html" aria-label="Consulter le message cité" data-post-id="6197" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 mai 2021, 00:03</span></cite>
+Ahah, ça doit faire 10 ans que j’avais pas entendu parler de travian, et hier j’ai cherché car j’en ai eu un souvenir en regardant des jeux sur browser <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile">
+</div></blockquote>
+
+Fuis pauvre fou !  <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"> Ce jeu m'a pris un nombre incalculable de nuits et d'heures en général, mais bon ça a aussi été le déclencheur de mon changement de voie (et pas mal de rencontres mais c'est une autre histoire). L'outil c'était T-Raid, pour opti les pillages, si des connaisseurs sont là par hasard ce serait amusant.<br>
+<br>
+Edit: désolé pour le petit HS, mais du coup la morale c'est que les opportunités peuvent sortir de vraiment n'importe où.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6210" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6210">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_50.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">Mazz</a>							</dt>
+
+						<dd class="profile-rank">Alpha</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=50&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">3227</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 16:51</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Mazz">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Mazz</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6210&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6210">
+
+					<h3 >
+						<a href="viewtopic_p6210.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6210&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6210.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">Mazz</a></strong> &raquo; </span><time datetime="2021-05-11T06:33:30+00:00">11 mai 2021, 08:33</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6202&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6202"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=156&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Mrsky</a> a écrit : <a href="viewtopic_p6202.html" aria-label="Consulter le message cité" data-post-id="6202" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 mai 2021, 00:24</span></cite>
+<blockquote cite="./viewtopic.php?p=6197&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6197"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">sapro</a> a écrit : <a href="viewtopic_p6197.html" aria-label="Consulter le message cité" data-post-id="6197" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 mai 2021, 00:03</span></cite>
+Ahah, ça doit faire 10 ans que j’avais pas entendu parler de travian, et hier j’ai cherché car j’en ai eu un souvenir en regardant des jeux sur browser <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile">
+</div></blockquote>
+
+Fuis pauvre fou !  <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"> Ce jeu m'a pris un nombre incalculable de nuits et d'heures en général, mais bon ça a aussi été le déclencheur de mon changement de voie (et pas mal de rencontres mais c'est une autre histoire). L'outil c'était T-Raid, pour opti les pillages, si des connaisseurs sont là par hasard ce serait amusant.<br>
+<br>
+Edit: désolé pour le petit HS, mais du coup la morale c'est que les opportunités peuvent sortir de vraiment n'importe où.
+</div></blockquote>
+
+Je connaissais un mec qui avait été numéro un à une époque, il passait littéralement sa vie dessus.</div>
+
+			
+			
+									
+						
+							<div id="sig6210" class="signature">Laissez les bons temps rouler</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6220" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6220">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_51.jpg" width="120" height="89" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">sapro</a>							</dt>
+
+						<dd class="profile-rank">Omega</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=51&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">3698</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 20:22</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter sapro">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter sapro</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6220&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6220">
+
+					<h3 >
+						<a href="viewtopic_p6220.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6220&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6220.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">sapro</a></strong> &raquo; </span><time datetime="2021-05-11T06:57:08+00:00">11 mai 2021, 08:57</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Ah mais je compte pas m'y remettre, pour y avoir joué durant mes études je connais le coût de se lever à 3h du mat rien que pour planifier une attaque <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"> Ca m'a juste fait triper la coïncidence sur un truc qui avait disparu de ma vie depuis si longtemps.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6226" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6226">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=171&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">wilfried</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=171&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">655</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:30</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter wilfried">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter wilfried</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6226&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6226">
+
+					<h3 >
+						<a href="viewtopic_p6226.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6226&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6226.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=171&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">wilfried</a></strong> &raquo; </span><time datetime="2021-05-11T07:10:00+00:00">11 mai 2021, 09:10</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6210&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6210"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Mazz</a> a écrit : <a href="viewtopic_p6210.html" aria-label="Consulter le message cité" data-post-id="6210" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 mai 2021, 08:33</span></cite>
+<blockquote cite="./viewtopic.php?p=6202&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6202"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=156&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Mrsky</a> a écrit : <a href="viewtopic_p6202.html" aria-label="Consulter le message cité" data-post-id="6202" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 mai 2021, 00:24</span></cite>
+<blockquote cite="./viewtopic.php?p=6197&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6197"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=51&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">sapro</a> a écrit : <a href="viewtopic_p6197.html" aria-label="Consulter le message cité" data-post-id="6197" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 mai 2021, 00:03</span></cite>
+Ahah, ça doit faire 10 ans que j’avais pas entendu parler de travian, et hier j’ai cherché car j’en ai eu un souvenir en regardant des jeux sur browser <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile">
+</div></blockquote>
+
+Fuis pauvre fou !  <img class="smilies" src="./images/smilies/icon_biggrin.gif" width="15" height="15" alt=":D" title="Very Happy"> Ce jeu m'a pris un nombre incalculable de nuits et d'heures en général, mais bon ça a aussi été le déclencheur de mon changement de voie (et pas mal de rencontres mais c'est une autre histoire). L'outil c'était T-Raid, pour opti les pillages, si des connaisseurs sont là par hasard ce serait amusant.<br>
+<br>
+Edit: désolé pour le petit HS, mais du coup la morale c'est que les opportunités peuvent sortir de vraiment n'importe où.
+</div></blockquote>
+
+Je connaissais un mec qui avait été numéro un à une époque, il passait littéralement sa vie dessus.
+</div></blockquote>
+
+Tu en connais 2 alors <img class="smilies" src="./images/smilies/icon_razz.gif" width="15" height="15" alt=":p" title="Razz"><br>
+<br>
+Ça prenait du temps, mais pas la peine de se lever la nuit quand même, et les bots de pillage c'était interdit à l'époque ou je jouais  <img class="smilies" src="./images/smilies/eusa_whistle.gif" width="22" height="16" alt=":-+" title="Whistle"></div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6281" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6281">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_50.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">Mazz</a>							</dt>
+
+						<dd class="profile-rank">Alpha</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=50&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">3227</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 16:51</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Mazz">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Mazz</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6281&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6281">
+
+					<h3 >
+						<a href="viewtopic_p6281.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6281&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6281.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=50&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #AA0000;" class="username-coloured">Mazz</a></strong> &raquo; </span><time datetime="2021-05-11T08:52:45+00:00">11 mai 2021, 10:52</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=5886&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p5886"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=52&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Ngold</a> a écrit : <a href="viewtopic_p5886.html" aria-label="Consulter le message cité" data-post-id="5886" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 11:21</span></cite>
+Ce topic est génial.<br>
+<br>
+J'ai une énorme dissonance cognitive à envier les modes de vie et le rapport au boulot de Mazz et Lnaho tout en sachant que ce serait impossible pour moi tellement ça me correspondrait pas.<br>
+<br>
++1 sur les enfants. Pour moi le taff désormais, c'est fini à 19h. ça m'arrive de reprendre un peu après quand ma fille dort mais c'est rare.
+</div></blockquote>
+
+Pour bosser dans la prod informatique on est quand même régulièrement en astreinte et on peut être appelé 24/24 quand ça déconne. J'avais notamment déclaré une semaine de 100h sur ma première astreinte quand je bossais pour la BNP, ma boite ne me croyait pas et il a fallu que ce soit le client qui confirme que la semaine avait été plutôt mouvementée <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile"> C'est vraiment quelque chose dont je ne veux plus entendre parler aujourd'hui même si à l'époque je pouvais monter jusqu'à 6k nets les bons mois je ne pouvais rien faire d'autre tellement c'était intense.<br>
+<br>
+C'est juste incompatible avec une vie de famille, il m'arrive quand même de bosser le soir quand j'ai pas réussi à résoudre un incident de prod mais ça m'obsède beaucoup moins qu'à une époque.</div>
+
+			
+			
+									
+						
+							<div id="sig6281" class="signature">Laissez les bons temps rouler</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6286" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6286">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=135&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Samish</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=135&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">734</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:23</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Samish">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Samish</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6286&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6286">
+
+					<h3 >
+						<a href="viewtopic_p6286.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6286&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6286.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=135&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Samish</a></strong> &raquo; </span><time datetime="2021-05-11T08:59:54+00:00">11 mai 2021, 10:59</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6080&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6080"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=276&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Stef</a> a écrit : <a href="viewtopic_p6080.html" aria-label="Consulter le message cité" data-post-id="6080" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 21:14</span></cite>
+C'est un rythme de vie vraiment spécial d'avoir sa vie pro à ce point imbriquée dans sa vie perso, au point de se demander souvent si un acte relève du privé ou du professionnel (c'était le cas quand j'étais obligé de m'occuper du forum MF, et que ça me gavait parce que ça tombait sur de mauvais moments... mais aussi sur plein d'autres moments, genre si je fais un achat de cartes lors d'un FNM où je suis sensé m'amuser, à la Poste, etc...). Mais aussi d'être tout à la fois "tout le temps dispo" et "jamais dispo", ou encore d'ignorer quand le taf tombera (non, je ne m'attendais pas hier à 17h, que 3 commandes de joueurs EDH importantes tomberaient et me fassent taffer de 21h jusqu'à 3h du matin pour qu'elles soient expédiées ce midi...), de n'avoir qu'une visibilité extrêmement succinte de l'avenir à court terme et à long terme...
+</div></blockquote>
+
+Ah ben pour le coup, c'est exactement ce que je vis avec mes engagements associatifs/militants (sauf la question de l'avenir à court terme). D'ailleurs j'ai l'habitude de rigoler en disant que mes 7 heures de temps salarié est un peu mon temps de "repos" de la semaine : c'est le seul moment où je compte mes heures, et j'ai la certitude que je serai pas emmerdé par mes collègues un dimanche matin, alors que par tout les gens avec qui je milite... d'autant plus qu'avec le temps bon nombre d'entre eux sont devenus des amis, et que je ne sais jamais si l'appel va être pour un truc perso pour un problème associatif.<br>
+
+<blockquote cite="./viewtopic.php?p=5890&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p5890"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=98&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">Lnaho</a> a écrit : <a href="viewtopic_p5890.html" aria-label="Consulter le message cité" data-post-id="5890" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">10 mai 2021, 11:29</span></cite>
+Très admirative de tes choix, samish, j'espère avoir la possibilité de venir à QQ chose comme ça dans pas trop longtemps <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile">
+</div></blockquote>
+
+Merci. A noter que ça correspondait vraiment à une aspiration profonde, et je n'ai vraiment rien sacrifié pour le faire, donc si c'est la même chose pour toi, je t'encourage à foncer, c'est très épanouissant, même si parfois un peu usant <img class="smilies" src="./images/smilies/icon_smile.gif" width="15" height="15" alt=":)" title="Smile">. A noter aussi qu'on professionnalise de plus en plus nos mouvements, et qu'il y a de nombreux postes salariés très intéressants qui se créent, et ce sont souvent des personnes arrivées en tant que bénévoles qui les occupent ensuite.<br>
+<br>
+<span class="mention">@remfortz</span> si tu peux nous en dire un peu plus sur le modèle que tu développes, ça m'intéresse perso (si pas possible à ce stade, pas de souci).</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6306" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6306">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=216&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_216.png" width="112" height="112" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=216&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">niarfounet</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=216&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">241</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 12:39</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter niarfounet">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter niarfounet</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6306&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6306">
+
+					<h3 >
+						<a href="viewtopic_p6306.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6306&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6306.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=216&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">niarfounet</a></strong> &raquo; </span><time datetime="2021-05-11T09:25:42+00:00">11 mai 2021, 11:25</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Pendant des années j'ai fait un taf où j'enchaînais les heures (je faisais entre 45 et 70h semaine) dans des horaires de merde (nuit, week-end, jour férié..) pour un salaire assez conséquent mais variable selon les périodes (15% de la recette durant mon service, ça me faisait des salaires entre 3.5 et 6k). Un faux statu d'indépendant qui fait que j'étais pas payé si j'étais malade, que les congés payé n'existait pas etc etc etc...<br>
+C'était un boulot très difficile physiquement (régulièrement des services de 10h debout sans une pause, j'ai fait à plusieurs reprise ouverture/fermeture, soit un service de 19h d'affillée).<br>
+<br>
+Résultat j'ai pas vraiment pu profiter des 3 premières années de mon fils et ça m'a mené au divorce (y a pas que ça, mais ça a fait partie des raisons). J'ai également des soucis de santé qui en découle (problèmes de dos qui mènent à des difficulté à rester debout pour une période de plus d'1h sans ressentir des douleurs assez intense, entre autre).<br>
+<br>
+Depuis janvier 2020 je bosse à un tout autre rythme : J'ai un contrat de 35h semaine, mais en temps réel presté je dois tourner à une vingtaine d'heure semaine.<br>
+Je gagne nettement moins (2k par mois) mais j'ai full avantage : congé virtuellement illimité tant que je suis pas dans l'abus, je redécouvre la joie de pas taffer les week-end et férié. J'ai la blinde de temps à passer avec mon fils quand je l'ai + un patron hors paire (c'est un ami depuis une vingtaine d'année, ce qui était quitte ou double, soit c'était la merde soit ça se passait bien, mais là c'est au top) avec qui je développe un projet perso (développement de jeu vidéo). Une partie de mes frais sont payé par la boîte (téléphone et Internet) et du matos payé par la boîte (un assez bon ordi comme cadeau pour mes 1 ans, un téléphone pour assurer le service + un autre ordi pour le taff).<br>
+<br>
+Bref, jamais je reviendrais à ma vie d'avant, même si ma vie actuelle me force à réfléchir plus sérieusement à mes dépenses là où avant, globalement, si je voulais quelque chose, je me le payais sans trop réfléchir.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6316" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6316">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_147.png" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Watanabe</a>							</dt>
+
+						<dd class="profile-rank">Belge</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=147&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">346</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 09:47</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Watanabe">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Watanabe</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6316&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6316">
+
+					<h3 >
+						<a href="viewtopic_p6316.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6316&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6316.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=147&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Watanabe</a></strong> &raquo; </span><time datetime="2021-05-11T09:51:48+00:00">11 mai 2021, 11:51</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6306&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6306"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=216&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">niarfounet</a> a écrit : <a href="viewtopic_p6306.html" aria-label="Consulter le message cité" data-post-id="6306" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 mai 2021, 11:25</span></cite>
+Résultat j'ai pas vraiment pu profiter des 3 premières années de mon fils et ça m'a mené au divorce (y a pas que ça, mais ça a fait partie des raisons). J'ai également des soucis de santé qui en découle (problèmes de dos qui mènent à des difficulté à rester debout pour une période de plus d'1h sans ressentir des douleurs assez intense, entre autre).
+</div></blockquote>
+
+Ce topic est définitivement top1 sur MTGV pour le moment.<br>
+Merci beaucoup à tous de partager vos parcours, et de rentrer autant dans le détail comme le fait Niarfounet. Typiquement, ce que tu soulignes, c'est exactement la crainte que j'ai / j'avais, et autant j'ai jamais regardé mes horaires ni compter mes heures (ça m'est arrivé de faire 3/4 mois d'affilée sans weekend par exemple), autant pour moi la famille c'est au-dessus de tout. <br>
+Et du coup, quand je lis ça, et ce n'est pas du tout une critique envers toi, bien au contraire, je me dis que le risque existait bel et bien, et qu'aujourd'hui, j'ai aucun regret par rapport à ça.<br>
+<br>
+Encore une fois, pour tous, merci.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6336" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6336">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_161.jpg" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Niluje</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=161&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">897</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:12</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Niluje">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Niluje</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6336&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6336">
+
+					<h3 >
+						<a href="viewtopic_p6336.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6336&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6336.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=161&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Niluje</a></strong> &raquo; </span><time datetime="2021-05-11T10:27:54+00:00">11 mai 2021, 12:27</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">D'ailleurs, ce topic me rappelle que j'avais hésité, à un moment de ma carrière (après 3-4 ans), à me réorienter vers du journalisme sportif. Alors c'était une « petite hésitation » (je regardais ce qui était possible en matière de formations, pas beaucoup plus loin), mais assez rapidement le facteur famille m'a fait dire que ça ne serait pas une bonne idée. Parce que clairement, le sport c'est une passion et j'aurais fait ça avec l'ambition (pas forcément réaliste, y a pas des milliards de postes) aller sur le terrain, ce qui implique de nombreux déplacements, week-end inclus, voire nuit, etc. Bref, un choix de vie assez fort et contraignant pour les proches.<br>
+Au final, j'ai fait une autocensure à ce niveau alors que, paradoxalement, à l'époque je n'étais même pas en couple et j'ai pas trop eu ce genre d'exemple dans mon entourage/celui de mes parents. Mais au fond de moi, je savais que ce n'était pas un sacrifice acceptable, bien plus que la perte de salaire/confort de l'emploi qui en aurait découlé. Et que rebasculer ensuite d'un métier « passion » vers un métier plus pépère, je pense que ça aurait également généré beaucoup de frustration. Et quand je vois ma vie aujourd'hui, au final je ne regrette pas un seul instant de ne pas avoir sauté le pas.<br>
+<br>
+Je resterai dans ce mode encore au moins une bonne douzaine d'années, minimum le temps de la scolarité de ma fille, parce que je sais que comme ça, je serai présent et que ça laissera à ma femme (infirmière dans le public) l'opportunité de switch si elle veut (par exemple en libéral) sans trop de pression. Tant que le job me déplaît pas (même s'il y a parfois des côtés relous) et nous (à ma famille) apporte de quoi vivre sans crainte, ça me suffit.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6363" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6363">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=121&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_121.png" width="150" height="150" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=121&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">marneus</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=121&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">870</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:53</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter marneus">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter marneus</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6363&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6363">
+
+					<h3 >
+						<a href="viewtopic_p6363.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6363&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6363.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=121&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">marneus</a></strong> &raquo; </span><time datetime="2021-05-11T11:44:42+00:00">11 mai 2021, 13:44</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">28 ans, Employé (Expert comptable stagiaire 2ème année ) en province. <br>
+<br>
+Je vais à pied au travail, ma compagne aussi, c'est un luxe que je value très haut.<br>
+<br>
+A côté de ça, je suis facile à 40-45h semaines (contrat de 39heures) avec des périodes où ça peut monter plus haut (période fiscale notamment).<br>
+En plus de cela, le travail est par moment générateur de beaucoup de stress.<br>
+5 semaines de congés par an, 3 en aout, 1 à Noel imposées. 1 fluctuante. <br>
+<br>
+Je pense que j'ai atteint mon salaire plancher en dessous duquel je refuse de descendre. Par contre mon objectif est clairement de réduire et mon temps de travail et mon stress.<br>
+<br>
+Intellectuellement le travail a des aspects parfois très stimulants. Pourtant la majeure partie du travail consiste à traiter/gérer les demandes des clients ce qui est fastidieux et peu enrichissant intellectuellement. <br>
+<br>
+Mon rapport au taf est proche de celui évoqué : je travaille pour subvenir à mes besoins matériels. Si on me donne le choix entre travailler et faire autre chose, ma réponse sera tout le temps "faire autre chose". J'ai vraiment beaucoup de mal à concevoir comment on peut préférer occuper son temps à taffer qu'à passer du temps avec sa famille/ses amis ou juste lancer un putain de draft sur Arena, et je suis assez admiratif de ceux qui donnent ce genre de réponses.<br>
+<br>
+En l'état, j'aimerai me reconvertir, si possible dans la fonction publique. Mais avec un master CCA et un DSCG je suis pas vraiment sur que mes débouchées pro soient grands en dehors de ma branche.</div>
+
+			
+			
+									
+						
+							<div id="sig6363" class="signature">[quote=Kobold post_id=78401 time=1680725785 user_id=112]<br>
+Marneus il est très très relou il est dur à manipuler et il est précis.<br>
+[/quote]</div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6367" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6367">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">SeikoTheWiz</a>							</dt>
+
+						<dd class="profile-rank">Jiba</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=116&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">1207</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 08:36</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter SeikoTheWiz">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter SeikoTheWiz</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6367&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6367">
+
+					<h3 >
+						<a href="viewtopic_p6367.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6367&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6367.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=116&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">SeikoTheWiz</a></strong> &raquo; </span><time datetime="2021-05-11T11:50:31+00:00">11 mai 2021, 13:50</time>
+			</p>
+			
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=6363&amp;sid=929d7010353f40f53e5ffe01dedbffc9#p6363"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=121&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html">marneus</a> a écrit : <a href="viewtopic_p6363.html" aria-label="Consulter le message cité" data-post-id="6363" onclick="if(document.getElementById(hash.substr(1)))href=hash"><i class="icon fa-arrow-circle-up fa-fw" aria-hidden="true"></i></a><span class="responsive-hide">11 mai 2021, 13:44</span></cite>
+5 semaines de congés par an, 3 en aout, 1 à Noel imposées. 1 fluctuante. 
+</div></blockquote>
+Ne pas avoir ça, c'est aussi quelque chose que je value très haut d'ailleurs.<br>
+Pouvoir prendre mes congés n'importe quand et n'importe comme c'est sick++.<br>
+<br>
+Je value pas mal aussi le fait d'être sur une zone (entre saint laz et opera) pleine de bon resto cools. <br>
+<br>
+C'est parmi les critères qui font que je suis encore à mon poste actuellement.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6374" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6374">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=54&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="avatar"><img class="avatar" src="./images/avatars/upload/0c5195e7295488fd9df758c83668fe10_54.jpg" width="150" height="120" alt="Avatar de l’utilisateur" /></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=54&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">nokiou</a>							</dt>
+
+						<dd class="profile-rank">Biographe d'Aboshan</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=54&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">449</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 22 avr. 2021, 21:56</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter nokiou">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter nokiou</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6374&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6374">
+
+					<h3 >
+						<a href="viewtopic_p6374.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6374&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6374.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=54&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" style="color: #008000;" class="username-coloured">nokiou</a></strong> &raquo; </span><time datetime="2021-05-11T12:06:38+00:00">11 mai 2021, 14:06</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Les fonctionnaires territoriaux vous répondront dès qu'ils auront fini la pause café.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p6378" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile6378">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=156&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mrsky</a>							</dt>
+
+						<dd class="profile-rank">Membre</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> <a href="./search.html?author_id=156&amp;sr=posts&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html">13</a></dd>		<dd class="profile-joined"><strong>Inscription :</strong> 26 avr. 2021, 10:03</dd>		
+		
+						
+							<dd class="profile-contact">
+				<strong>Contact :</strong>
+				<div class="dropdown-container dropdown-left">
+					<a href="#" class="dropdown-trigger" title="Contacter Mrsky">
+						<i class="icon fa-commenting-o fa-fw icon-lg" aria-hidden="true"></i><span class="sr-only">Contacter Mrsky</span>
+					</a>
+					<div class="dropdown">
+						<div class="pointer"><div class="pointer-inner"></div></div>
+						<div class="dropdown-contents contact-icons">
+																																								<div>
+																	<a href="./ucp.php?i=pm&amp;mode=compose&amp;action=quotepost&amp;p=6378&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Envoyer un message privé" class="last-cell">
+										<span class="contact-icon pm-icon">Envoyer un message privé</span>									</a>
+																	</div>
+																					</div>
+					</div>
+				</div>
+			</dd>
+				
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content6378">
+
+					<h3 >
+						<a href="viewtopic_p6378.html">Re: Valeur du travail</a>
+		</h3>
+
+													<ul class="post-buttons">
+																										<li>
+							<a href="/app.php.html" title="Rapporter le message" class="button button-icon-only">
+								<i class="icon fa-exclamation fa-fw" aria-hidden="true"></i><span class="sr-only">Rapporter</span>
+							</a>
+						</li>
+																										<li>
+							<a href="./posting.php?mode=quote&amp;p=6378&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="viewtopic_p6378.html" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=156&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" class="username">Mrsky</a></strong> &raquo; </span><time datetime="2021-05-11T12:16:03+00:00">11 mai 2021, 14:16</time>
+			</p>
+			
+			
+			
+			
+			<div class="content">Je vois plusieurs personnes attirées par la fonction publique, puisque c'est le sujet je suis curieux de savoir ce qui vous motive à vouloir la rejoindre ? Je suis tellement dans le schéma indépendant &gt; privé &gt;&gt;&gt;&gt;&gt;&gt; publique que j'ai du mal à cerner. Mon image du publique est probablement fausse/biaisée des gens que je connais qui y sont, à savoir une inertie énorme, prises d'initiatives compliquées, que en gros c'est ta gueule et fait ton boulot.</div>
+
+			
+			
+									
+						
+										
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=239&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																								<li>
+					<a href="./memberlist.php?mode=email&amp;t=239&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="Envoyer le sujet par courriel">
+						<i class="icon fa-envelope-o fa-fw" aria-hidden="true"></i><span>Envoyer le sujet par courriel</span>
+					</a>
+				</li>
+												<li>
+					<a href="viewtopic_t239.html" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=239&amp;start=25&amp;sid=929d7010353f40f53e5ffe01dedbffc9">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les messages</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="s">Sujet</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a" selected="selected">Croissant</option><option value="d">Décroissant</option></select></label>
+								<hr class="dashed" />
+				<input type="submit" class="button2" name="sort" value="Aller" />
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			96 messages
+							<ul>
+			<li class="arrow previous"><a class="button button-icon-only" href="viewtopic_t239_start0.html" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="href=" class="button" "viewtopic_t239.html>239</a></li>
+			<li class="active"><span>2</span></li>
+				<li><a class="button" href="viewtopic_t239_start50.html" role="button">3</a></li>
+				<li><a class="button" href="viewtopic_t239_start75.html" role="button">4</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="viewtopic_t239_start50.html" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="viewforum_f23.html" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à « Débats d'actualité et politique »</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Aller" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Aller</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="viewforum_f3.html" class="jumpbox-cat-link"> <span> Magic: The Gathering</span></a></li>
+																<li><a href="viewforum_f4.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Discussions</span></a></li>
+																<li><a href="viewforum_f5.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Nouveautés &amp; Rumeurs</span></a></li>
+																<li><a href="viewforum_f8.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Draft &amp; Scellé</span></a></li>
+																<li><a href="viewforum_f9.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit compétitif</span></a></li>
+																<li><a href="viewforum_f10.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Construit non compétitif</span></a></li>
+																<li><a href="viewforum_f11.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Autres formats</span></a></li>
+																<li><a href="viewforum_f12.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Questions de règles</span></a></li>
+																<li><a href="viewforum_f13.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Magic Arena &amp; MTGO</span></a></li>
+																<li><a href="viewforum_f6.html" class="jumpbox-cat-link"> <span> Bavardages</span></a></li>
+																<li><a href="viewforum_f7.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Mène-à-Rien</span></a></li>
+																<li><a href="viewforum_f14.html" class="jumpbox-cat-link"> <span> Forums privés</span></a></li>
+																<li><a href="viewforum_f23.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Débats d'actualité et politique</span></a></li>
+																<li><a href="viewforum_f17.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Sports</span></a></li>
+																<li><a href="viewforum_f26.html" class="jumpbox-sub-link"><span class="spacer"></span><span class="spacer"></span> <span>&#8627; &nbsp; Paris sportifs</span></a></li>
+																<li><a href="viewforum_f15.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Cinéma</span></a></li>
+																<li><a href="viewforum_f18.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Séries</span></a></li>
+																<li><a href="viewforum_f19.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Musique</span></a></li>
+																<li><a href="viewforum_f20.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Littérature - BD - Mangas</span></a></li>
+																<li><a href="viewforum_f21.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux vidéo</span></a></li>
+																<li><a href="viewforum_f22.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux de société</span></a></li>
+																<li><a href="viewforum_f16.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Loup-Garou</span></a></li>
+																<li><a href="viewforum_f27.html" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Secret Santa</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+	<div class="stat-block online-list">
+		<h3><a href="./viewonline.php?sid=929d7010353f40f53e5ffe01dedbffc9.html">Qui est en ligne ?</a></h3>
+		<p>Utilisateurs parcourant ce forum : Aucun utilisateur inscrit et 1 invité</p>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="index.html" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Accueil du forum</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+02:00</span></li>
+							<li class="rightside">
+				<a href="/app.php.html" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+							<li class="rightside" data-last-responsive="true">
+					<a href="./memberlist.php?sid=929d7010353f40f53e5ffe01dedbffc9.html.html" title="La liste complète des membres du forum" role="menuitem">
+						<i class="icon fa-group fa-fw" aria-hidden="true"></i><span>Membres</span>
+					</a>
+				</li>
+												<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=team&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html.html" role="menuitem">
+					<i class="icon fa-shield fa-fw" aria-hidden="true"></i><span>L’équipe</span>
+				</a>
+			</li>
+							</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.php.html">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+		<p class="footer-row">
+			Prosilver Dark Edition by <a href="http://www.planetstyles.net/">Premium phpBB Styles</a>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.php.html">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+				<br>MTGVerse est un contenu de fan non officiel autorisé dans le cadre de la Politique des contenus de fans.
+<br>Ni approuvé, ni promu par Wizards. Certaines parties des matériaux utilisés sont la propriété de Wizards of the Coast.
+<br>©Wizards of the Coast LLC.		<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=929d7010353f40f53e5ffe01dedbffc9.html" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	<img class="sr-only" aria-hidden="true" src="&#x2F;app.php&#x2F;cron&#x2F;cron.task.core.tidy_sessions&#x3F;sid&#x3D;929d7010353f40f53e5ffe01dedbffc9" width="1" height="1" alt="">
+</div>
+
+<script src="./assets/javascript/jquery-3.7.1.min.js?assets_version=128"></script>
+<script src="./assets/javascript/core.js?assets_version=128"></script>
+
+
+
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=128"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=128"></script>
+
+
+
+</body>
+</html>
