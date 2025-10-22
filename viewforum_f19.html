@@ -75,12 +75,22 @@
 /* Additional header selectors to hide ProSilver label/logo left by theme in header */
 .site_logo, .site_logo::before, .site_logo::after, .site_logo .prosilver, .style-name, .theme-author, .prosilver-label, .headerbar .site_logo { display: none !important; visibility: hidden !important; }
 /* Hide posting / reply / new topic / registration / login controls on static site */
-.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, .action-bar, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
+.button[title="Répondre"], a.button[title="Répondre"], .post_buttons, .post-buttons, .post-buttons li, form[action*="posting.php"], a[href*="ucp.php?mode=register"], a[href*="ucp.php?mode=login"], a[title="Connexion"], a[title="Inscription"], .quick-login, .headerspace { display: none !important; visibility: hidden !important; }
 /* Hide reply/quote links inside posts */
 a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="posting.php?mode=post"] { display: none !important; }
 /* Hide the duplicated header block used by phpBB (#hidden) produced in the static export */
 #hidden { display: none !important; }
+
+/* Ensure pagination controls are always visible and usable on the static site */
+.pagination { clear: both; margin: 0.6em 0; }
+.pagination ul { list-style: none; margin: 0; padding: 0; display: inline-block; vertical-align: middle; }
+.pagination ul li { display: inline-block; margin: 0 4px; }
+.pagination ul li a.button, .pagination ul li span { display: inline-block !important; padding: 6px 10px; border-radius: 6px; text-decoration: none; }
+.pagination ul li a.button { background: #2b2b2b; color: #fff; }
+.pagination ul li.active span { background: #777; color: #fff; }
 </style>
+
+
 
 
 
@@ -316,7 +326,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t191.html">191</a></li>
+															<li><a class="button" href="viewtopic_t191_start4750.html">191</a></li>
 																							<li><a class="button" href="viewtopic_t191_start25.html">2</a></li>
 																							<li><a class="button" href="viewtopic_t191_start50.html">3</a></li>
 																							<li><a class="button" href="viewtopic_t191_start75.html">4</a></li>
@@ -395,7 +405,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t150.html">150</a></li>
+															<li><a class="button" href="viewtopic_t150_start3725.html">150</a></li>
 																							<li><a class="button" href="viewtopic_t150_start25.html">2</a></li>
 																																													</ul>
 						</div>
@@ -538,7 +548,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t69.html">69</a></li>
+															<li><a class="button" href="viewtopic_t69_start1700.html">69</a></li>
 																							<li><a class="button" href="viewtopic_t69_start25.html">2</a></li>
 																																													</ul>
 						</div>
@@ -579,7 +589,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t18.html">18</a></li>
+															<li><a class="button" href="viewtopic_t18_start425.html">18</a></li>
 																							<li><a class="button" href="viewtopic_t18_start25.html">2</a></li>
 																							<li><a class="button" href="viewtopic_t18_start50.html">3</a></li>
 																							<li><a class="button" href="viewtopic_t18_start75.html">4</a></li>
@@ -622,7 +632,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t151.html">151</a></li>
+															<li><a class="button" href="viewtopic_t151_start3750.html">151</a></li>
 																							<li><a class="button" href="viewtopic_t151_start25.html">2</a></li>
 																																													</ul>
 						</div>
@@ -798,7 +808,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t871.html">871</a></li>
+															<li><a class="button" href="viewtopic_t871_start21750.html">871</a></li>
 																							<li><a class="button" href="viewtopic_t871_start25.html">2</a></li>
 																																													</ul>
 						</div>
@@ -839,7 +849,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t753.html">753</a></li>
+															<li><a class="button" href="viewtopic_t753_start18800.html">753</a></li>
 																							<li><a class="button" href="viewtopic_t753_start25.html">2</a></li>
 																																													</ul>
 						</div>
@@ -880,7 +890,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t71.html">71</a></li>
+															<li><a class="button" href="viewtopic_t71_start1750.html">71</a></li>
 																							<li><a class="button" href="viewtopic_t71_start25.html">2</a></li>
 																																													</ul>
 						</div>
@@ -921,7 +931,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t178.html">178</a></li>
+															<li><a class="button" href="viewtopic_t178_start4425.html">178</a></li>
 																							<li><a class="button" href="viewtopic_t178_start25.html">2</a></li>
 																																													</ul>
 						</div>
@@ -962,7 +972,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t677.html">677</a></li>
+															<li><a class="button" href="viewtopic_t677_start16900.html">677</a></li>
 																							<li><a class="button" href="viewtopic_t677_start25.html">2</a></li>
 																							<li><a class="button" href="viewtopic_t677_start50.html">3</a></li>
 																																													</ul>
@@ -1072,7 +1082,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t635.html">635</a></li>
+															<li><a class="button" href="viewtopic_t635_start15850.html">635</a></li>
 																							<li><a class="button" href="viewtopic_t635_start25.html">2</a></li>
 																							<li><a class="button" href="viewtopic_t635_start50.html">3</a></li>
 																																													</ul>
@@ -1114,7 +1124,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t608.html">608</a></li>
+															<li><a class="button" href="viewtopic_t608_start15175.html">608</a></li>
 																							<li><a class="button" href="viewtopic_t608_start25.html">2</a></li>
 																							<li><a class="button" href="viewtopic_t608_start50.html">3</a></li>
 																																													</ul>
@@ -1156,7 +1166,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t625.html">625</a></li>
+															<li><a class="button" href="viewtopic_t625_start15600.html">625</a></li>
 																							<li><a class="button" href="viewtopic_t625_start25.html">2</a></li>
 																																													</ul>
 						</div>
@@ -1197,7 +1207,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t623.html">623</a></li>
+															<li><a class="button" href="viewtopic_t623_start15550.html">623</a></li>
 																							<li><a class="button" href="viewtopic_t623_start25.html">2</a></li>
 																							<li><a class="button" href="viewtopic_t623_start50.html">3</a></li>
 																																													</ul>
@@ -1239,7 +1249,7 @@ a[href*="posting.php?mode=reply"], a[href*="posting.php?mode=quote"], a[href*="p
 												<div class="pagination">
 							<span><i class="icon fa-clone fa-fw" aria-hidden="true"></i></span>
 							<ul>
-															<li><a class="button" href="viewtopic_t520.html">520</a></li>
+															<li><a class="button" href="viewtopic_t520_start12975.html">520</a></li>
 																							<li><a class="button" href="viewtopic_t520_start25.html">2</a></li>
 																																													</ul>
 						</div>
