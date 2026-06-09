@@ -1,0 +1,12 @@
+{% if S_DISPLAY_SEARCH and HEADERBANNER_SELECT and HEADERBANNER_SEARCH eq 5 and not S_GOOGLESEARCH_POSITION3 %}
+<li id="search-box" class="search-box rightside responsive-hide">
+	{% INCLUDE 'navbarsearch.html' %}
+</li>
+{% endif %}
+{% if S_DISPLAY_SEARCH %}
+<li class="rightside responsive-search">
+	<a href="{{ U_SEARCH }}" title="{{ lang('SEARCH_ADV_EXPLAIN') }}" role="menuitem">
+	<i class="icon fa-search fa-fw" aria-hidden="true"></i><span class="sr-only">{{ lang('SEARCH') }}</span>
+	</a>
+</li>
+{% endif %}

@@ -1,0 +1,8 @@
+services:
+    hifikabin.headerbanner.listener:
+        class: hifikabin\headerbanner\event\listener
+        arguments:
+            - '@config'
+            - '@template'
+        tags:
+            - { name: event.listener }

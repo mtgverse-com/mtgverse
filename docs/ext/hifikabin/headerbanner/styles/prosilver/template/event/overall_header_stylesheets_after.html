@@ -1,0 +1,14 @@
+<!-- These cannot go into a CSS file -->
+
+<style type="text/css">
+.header-banner {
+	border-radius: {{ HEADERBANNER_CORNER }}px;
+	width:{{ HEADERBANNER_SIZE }}px;
+}
+
+@media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
+	.mobile-header-banner {
+		width:{{ HEADERBANNER_RESPONSIVE_SIZE }}px !important;
+	}
+}
+</style>
